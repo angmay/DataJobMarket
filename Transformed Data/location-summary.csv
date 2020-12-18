@@ -1,0 +1,1078 @@
+,city,state
+0,Regina,SK
+1,Vaudreuil-Dorion,QC
+2,Calgary,AB
+3,Iqaluit,NU
+4,Lethbridge,AB
+5,Pickering,ON
+6,Toronto,ON
+7,Surrey,BC
+8,100 Mile House,BC
+9,Laval,QC
+10,Saskatoon,SK
+11,Markham,ON
+12,Quebec City,QC
+13,Bedford,QC
+14,Mississauga,ON
+15,Ottawa,ON
+16,Vancouver,BC
+17,Montréal,QC
+18,Sydney,NS
+19,Waterloo,ON
+20,Burnaby,BC
+21,St. John's,NL
+22,Brampton,ON
+23,Halifax,NS
+24,Windsor,ON
+25,Woodbridge,ON
+26,Aldouane,NB
+27,Stoney Creek,ON
+28,Tiverton,ON
+29,Delta,BC
+30,Westmount,QC
+31,Richmond,BC
+32,Edmonton,AB
+33,Bedford,NS
+34,Milton,ON
+35,North York,ON
+36,Aylmer,ON
+37,Peel,ON
+38,Coquitlam,BC
+39,Saint-Césaire,QC
+40,Haines Junction,YT
+41,Valcourt,QC
+42,Concord,ON
+43,Burlington,ON
+44,St. Anthony,NL
+45,Kitchener,ON
+46,Thunder Bay,ON
+47,Hamilton,ON
+48,Port Coquitlam,BC
+49,Scarborough,ON
+50,Moncton,NB
+51,Guelph,ON
+52,Vanderhoof,BC
+53,Saint-Laurent,QC
+54,Saint John,NB
+55,Oakville,ON
+56,Sparwood,BC
+57,Newmarket,ON
+58,Pointe-Claire,QC
+59,Lakeshore,ON
+60,Whitehorse,YT
+61,Vaughan,ON
+62,Mary River,NU
+63,Grimsby,ON
+64,Bowmanville,ON
+65,Victoria,BC
+66,Etobicoke,ON
+67,Waterdown,ON
+68,York,ON
+69,Winnipeg,MB
+70,Dieppe,NB
+71,Kelowna,BC
+72,St. Catharines,ON
+73,Strathroy,ON
+74,Wainwright,AB
+75,London,ON
+76,Stellarton,NS
+77,Kirkland,QC
+78,Peterborough,ON
+79,Hiawatha,ON
+80,Brantford,ON
+81,Greater Sudbury,ON
+82,Caledon,ON
+83,Saint-Hubert,QC
+84,Orangeville,ON
+85,Charlottetown,PE
+86,Boucherville,QC
+87,Richmond Hill,ON
+88,Langley,BC
+89,Pemberton,BC
+90,Châteauguay,QC
+91,Dorval,QC
+92,Dartmouth,NS
+93,Centretown,ON
+94,Belleville,ON
+95,Gatineau,QC
+96,Cambridge,ON
+97,Verdun,QC
+98,Stayner,ON
+99,Sherbrooke,QC
+100,Fredericton,NB
+101,Longueuil,QC
+102,West Vancouver,BC
+103,St. Thomas,ON
+104,Kirkland Lake,ON
+105,Acheson,AB
+106,New Westminster,BC
+107,Midland,ON
+108,Kanata,ON
+109,Barrie,ON
+110,Essex,ON
+111,Niagara-on-the-Lake,ON
+112,Prince George,BC
+113,Georgetown,ON
+114,Venice,AB
+115,Sioux Lookout,ON
+116,Ajax,ON
+117,Chatham-Kent,ON
+118,Kitimat,BC
+119,North Battleford,SK
+120,Ermineskin 138,AB
+121,Port Hope,ON
+122,Steinbach,MB
+123,Westlock,AB
+124,Enterprise,NB
+125,Abbotsford,BC
+126,Blacks Harbour,NB
+127,Creston,BC
+128,Chilliwack,BC
+129,North Vancouver,BC
+130,Tecumseh,ON
+131,Greater Toronto Area,ON
+132,Bruxelles,MB
+133,Lucknow,ON
+134,Simcoe,ON
+135,Mont-Saint-Hilaire,QC
+136,Salmon Arm,BC
+137,Middleton,NS
+138,Norfolk County,ON
+139,Stony Rapids,SK
+140,Iroquois,ON
+141,St. George,NB
+142,Dorchester,ON
+143,Kingston,ON
+144,Revelstoke,BC
+145,Whistler,BC
+146,Buick,BC
+147,Thompson,MB
+148,Tilbury,ON
+149,Teeswater,ON
+150,Rexdale,ON
+151,Come By Chance,NL
+152,Ponoka,AB
+153,Petersburg,ON
+154,Airdrie,AB
+155,Leduc,AB
+156,East York,ON
+157,Pitt Meadows,BC
+158,Shawinigan,QC
+159,Tillsonburg,ON
+160,Aldergrove,BC
+161,Kamloops,BC
+162,Metro Vancouver Regional District,BC
+163,Ingersoll,ON
+164,Labrador City,NL
+165,Bath,ON
+166,Terrace,BC
+167,St. Isidore,ON
+168,Saanichton,BC
+169,Ottawa West,ON
+170,Dollard-Des Ormeaux,QC
+171,Campbellford,ON
+172,Borden,ON
+173,Stouffville,ON
+174,Stratford,ON
+175,Sydney,NSW
+176,Altona North,VIC
+177,East Melbourne,VIC
+178,Melbourne City Centre,VIC
+179,Canberra,ACT
+180,Melbourne,VIC
+181,Hawthorn East,VIC
+182,Gold Coast,QLD
+183,Adelaide Region,SA
+184,New South,Wales
+185,Brisbane,QLD
+186,Toowoomba,QLD
+187,Macquarie Park,NSW
+188,Sydney Central Business District,NSW
+189,South Hobart,TAS
+190,Barangaroo,NSW
+191,Bella Vista,NSW
+192,Illawarra,NSW
+193,Newstead,QLD
+194,North Ryde,NSW
+195,Beacon Hill,NSW
+196,Parramatta,NSW
+197,Perth,WA
+198,Docklands,VIC
+199,North Sydney,NSW
+200,Botany,NSW
+201,Seven Hills,NSW
+202,Sydney Western Suburbs,NSW
+203,Darwin,NT
+204,Mount Cotton,QLD
+205,South,Australia
+206,Castle Hill,NSW
+207,North Lakes,QLD
+208,Fairfield,NSW
+209,City of Knox,VIC
+210,Dandenong,VIC
+211,Darlinghurst,NSW
+212,South Yarra,VIC
+213,Auburn,NSW
+214,Ryde,NSW
+215,Surry Hills,NSW
+216,Mascot,NSW
+217,Rhodes,NSW
+218,Banyo,QLD
+219,Nundah,QLD
+220,Cheltenham,VIC
+221,Hills District,NSW
+222,Toowong,QLD
+223,City of Boroondara,VIC
+224,Smithfield,NSW
+225,Collingwood,VIC
+226,Townsville,QLD
+227,Paddington,NSW
+228,Doncaster,VIC
+229,St Leonards,NSW
+230,Clayton,VIC
+231,West Melbourne,VIC
+232,Wynyard,TAS
+233,Keysborough,VIC
+234,Fairfield,VIC
+235,Burwood,VIC
+236,South Melbourne,VIC
+237,Sydney Inner Suburbs,NSW
+238,Alexandria,NSW
+239,South Brisbane,QLD
+240,Silverwater,NSW
+241,Hobart,TAS
+242,Adelaide CBD,SA
+243,Scoresby,VIC
+244,Brisbane Central Business District,QLD
+245,Gepps Cross,SA
+246,Linley Point,NSW
+247,Redfern,NSW
+248,Southbank,VIC
+249,Eight Mile Plains,QLD
+250,Burnley,VIC
+251,Bondi,NSW
+252,Chippendale,NSW
+253,Ravenhall,VIC
+254,Geelong,VIC
+255,Gleniffer,NSW
+256,Rocklea,QLD
+257,Osborne Park,WA
+258,Dingley,VIC
+259,Newcastle,NSW
+260,Pyrmont,NSW
+261,Strathfield,NSW
+262,The Rocks,NSW
+263,Richmond,VIC
+264,Matraville,NSW
+265,Gladstone,QLD
+266,Mulgrave,VIC
+267,Northern,Territory
+268,Pearce,WA
+269,Gregory,WA
+270,Campbellfield,VIC
+271,Western,Australia
+272,Milton,NSW
+273,Fortitude Valley,QLD
+274,Port Hedland,WA
+275,Williamtown,NSW
+276,Wollongong,NSW
+277,Boddington,WA
+278,Lyndhurst,VIC
+279,Pakenham,VIC
+280,Douglas Park,NSW
+281,Pymble,NSW
+282,Grafton,NSW
+283,West Perth,WA
+284,Pilbara,WA
+285,Lithgow,NSW
+286,Mount Waverley,VIC
+287,Spreyton,TAS
+288,Newtown,NSW
+289,Bundall,QLD
+290,Lindfield,NSW
+291,Blackburn North,VIC
+292,Albury,NSW
+293,Frankston,VIC
+294,Henderson,WA
+295,Parkville,VIC
+296,Moree,NSW
+297,Alice Springs,NT
+298,Darling Downs,QLD
+299,Mornington Peninsula,VIC
+300,Rosebery,NSW
+301,Christmas Creek,QLD
+302,Warabrook,NSW
+303,Homebush,NSW
+304,Inner West,NSW
+305,Old Guildford,NSW
+306,Edinburgh,SA
+307,Port Macquarie,NSW
+308,Perth Central Business District,WA
+309,Ravensthorpe,WA
+310,Katoomba,NSW
+311,Barton,ACT
+312,Williams Landing,VIC
+313,Maitland,NSW
+314,Milton,QLD
+315,East Perth,WA
+316,Streaky Bay,SA
+317,Mandurah,WA
+318,Melbourne South Eastern Suburbs,VIC
+319,Beaconsfield,TAS
+320,Hopetoun,WA
+321,Chichester,NSW
+322,Deakin,VIC
+323,Dee Why,NSW
+324,Osterley,TAS
+325,Northam,WA
+326,Tullamarine,VIC
+327,Artarmon,NSW
+328,Goldfields,WA
+329,Hilton,SA
+330,Strathpine,QLD
+331,Dampier,WA
+332,Portland,VIC
+333,North Melbourne,VIC
+334,Success,WA
+335,Lane Cove West,NSW
+336,Orchard Hills,NSW
+337,Bunbury,WA
+338,Waurn Ponds,VIC
+339,Broadway,NSW
+340,Macquarie University,NSW
+341,Sunshine Coast,QLD
+342,South Perth,WA
+343,Fullarton,SA
+344,Port Melbourne,VIC
+345,Northgate,QLD
+346,Burleigh Heads,QLD
+347,Horsham,VIC
+348,Coburg,VIC
+349,Westmead,NSW
+350,Chatswood,NSW
+351,Akron,OH
+352,Hill AFB,UT
+353,San Francisco,CA
+354,Bloomington,IL
+355,Atlanta,GA
+356,Texas City,TX
+357,Fremont,CA
+358,Weston,FL
+359,Boulder,CO
+360,Brandon,FL
+361,Boston,MA
+362,Waltham,MA
+363,Alexandria,VA
+364,Southington,CT
+365,Seattle,WA
+366,Irving,TX
+367,Carlsbad,CA
+368,Pleasant Prairie,WI
+369,Greenville,TX
+370,McAlester,OK
+371,Sanford,FL
+372,Washington,DC
+373,Marlborough,MA
+374,Bloomfield,NJ
+375,New York,NY
+376,Santa Monica,CA
+377,Palo Alto,CA
+378,Beeville,TX
+379,North East,MD
+380,Falls Church,VA
+381,Santa Clara,CA
+382,Post Falls,ID
+383,New Brunswick,NJ
+384,Fletcher,NC
+385,Los Angeles,CA
+386,Redmond,WA
+387,Delaware,OH
+388,Draper,UT
+389,Chapel Hill,NC
+390,York,PA
+391,Palm Beach,FL
+392,Evanston,IL
+393,Morrisville,NC
+394,Overland Park,KS
+395,Cambridge,MA
+396,Charlestown,MA
+397,Mountain View,CA
+398,Chicago,IL
+399,San Diego,CA
+400,Tallahassee,FL
+401,Sunrise,FL
+402,Jefferson City,MO
+403,Bloomington,MN
+404,Chestertown,MD
+405,Hollywood,CA
+406,New Orleans,LA
+407,Manassas,VA
+408,Portsmouth,NH
+409,Raymond,OH
+410,Shelton,CT
+411,Roseville,MN
+412,Sunnyvale,CA
+413,Franklin,TN
+414,Chippewa Falls,WI
+415,Dorado,PR
+416,Cincinnati,OH
+417,Orlando,FL
+418,Mansfield,PA
+419,Orem,UT
+420,Bellevue,WA
+421,San Jose,CA
+422,Stafford,TX
+423,Richmond,VA
+424,De Pere,WI
+425,Redwood City,CA
+426,West Columbia,SC
+427,New Albany,OH
+428,Baltimore,MD
+429,Philadelphia,PA
+430,Fort Washington,PA
+431,Oak Brook,IL
+432,Portland,OR
+433,Fort Lauderdale,FL
+434,Stanford,CA
+435,Pompano Beach,FL
+436,Sacramento,CA
+437,Southfield,MI
+438,Boca Raton,FL
+439,Floresville,TX
+440,Milwaukee,WI
+441,Queens,NY
+442,Mason,OH
+443,Fairfax,VA
+444,Salt Lake City,UT
+445,St. Louis,MO
+446,Tampa,FL
+447,Rockville,MD
+448,Indianapolis,IN
+449,Junior,WV
+450,Austin,TX
+451,Arlington,VA
+452,Red Bank,NJ
+453,Irvine,CA
+454,Battle Creek,MI
+455,Harrisburg,PA
+456,Malvern,AR
+457,Columbus,OH
+458,Petaluma,CA
+459,Georgetown,TX
+460,Oshkosh,WI
+461,Chandler,AZ
+462,Detroit,MI
+463,Wilmington,DE
+464,Rockland,MA
+465,Dallas,TX
+466,Shalimar,FL
+467,Lewiston,ME
+468,Charleston,SC
+469,Burbank,CA
+470,Columbia,MO
+471,Ontario,CA
+472,Miami,FL
+473,Miramar,FL
+474,Denver,CO
+475,Aberdeen Proving Ground,MD
+476,Wilson,NC
+477,Santa Fe,NM
+478,Madison,WI
+479,Rochester,MI
+480,Plano,TX
+481,Clearlake,CA
+482,Mayport,FL
+483,Burlington,VT
+484,Wayne,NJ
+485,Buffalo,NY
+486,Raleigh,NC
+487,Armonk,NY
+488,Concord,NC
+489,North Kansas City,MO
+490,Toledo,OH
+491,Durham,NC
+492,Mayfield Village,OH
+493,Johnston,IA
+494,Webster,NY
+495,Houston,TX
+496,Hoboken,NJ
+497,Newark,NJ
+498,Newark,CA
+499,Warren,MI
+500,Little Rock,AR
+501,Sandy,UT
+502,Norwell,MA
+503,Williston,VT
+504,Phoenix,AZ
+505,Spartanburg,SC
+506,Pensacola,FL
+507,Lakeland,FL
+508,Santa Barbara,CA
+509,Oxford,OH
+510,Minneapolis,MN
+511,Greensboro,NC
+512,Andover,MA
+513,Saint Albans,WV
+514,Bethesda,MD
+515,Richland,WA
+516,East Providence,RI
+517,Champaign,IL
+518,Plantation,FL
+519,Fort Worth,TX
+520,Dublin,OH
+521,Yardley,PA
+522,Paoli,PA
+523,Breckenridge,CO
+524,Tinton Falls,NJ
+525,Rensselaer,NY
+526,Asheville,NC
+527,Fayetteville,AR
+528,Duluth,GA
+529,King of Prussia,PA
+530,Costa Mesa,CA
+531,North Quincy,MA
+532,Rochester,NY
+533,Escondido,CA
+534,Newark,DE
+535,Flint,MI
+536,West Chester,PA
+537,Euclid,OH
+538,Oahu Island,HI
+539,Enid,OK
+540,Walnut Creek,CA
+541,Lansing,MI
+542,Pleasanton,CA
+543,Rosslyn,VA
+544,Mayfield,OH
+545,Albuquerque,NM
+546,Nashua,NH
+547,Arlington County,VA
+548,Horsham,PA
+549,Fort Walton Beach,FL
+550,Brookfield,CT
+551,Ithaca,NY
+552,West Chester,OH
+553,Santa Clarita,CA
+554,Anchorage,AK
+555,Venice,CA
+556,Lynchburg,VA
+557,Deerfield,IL
+558,Nashville,TN
+559,Charlotte,NC
+560,Newport Beach,CA
+561,Manhattan,NY
+562,West Palm Beach,FL
+563,Des Moines,IA
+564,Gainesville,FL
+565,San Juan,PR
+566,Henrico,VA
+567,Hanover,NH
+568,Johnston,RI
+569,Ferdinand,IN
+570,Research Triangle Park,NC
+571,Maitland,FL
+572,Colorado Springs,CO
+573,Mount Pleasant,SC
+574,Herndon,VA
+575,South Jordan,UT
+576,Memphis,TN
+577,Mesa,AZ
+578,Reston,VA
+579,Princeton,NJ
+580,Austell,GA
+581,San Antonio,TX
+582,Ronkonkoma,NY
+583,Westlake,TX
+584,Birmingham,AL
+585,Eden Prairie,MN
+586,Lake Mary,FL
+587,Woonsocket,RI
+588,Shrewsbury,MA
+589,Stamford,CT
+590,Clearwater,FL
+591,Anaheim,CA
+592,Woodlawn,MD
+593,Henderson,NV
+594,West Barnstable,MA
+595,San Mateo,CA
+596,McLean,VA
+597,Edison,NJ
+598,Mount Pleasant,WI
+599,Las Vegas,NV
+600,Alpharetta,GA
+601,Knoxville,TN
+602,Provo,UT
+603,Monroe,WI
+604,Camden County,NJ
+605,Camp Smith,HI
+606,Westborough,MA
+607,Oakbrook Terrace,IL
+608,Albany,NY
+609,Williamsville,NY
+610,Dearborn,MI
+611,Daytona Beach,FL
+612,Portland,ME
+613,Victor,NY
+614,Melbourne,FL
+615,Ann Arbor,MI
+616,Cranbury,NJ
+617,Chico,CA
+618,South San Francisco,CA
+619,Hartford,CT
+620,Quincy,MA
+621,Cleveland,OH
+622,North Wales,PA
+623,Erie,PA
+624,Linthicum Heights,MD
+625,Oakland,CA
+626,Oroville,CA
+627,Libby,MT
+628,Italy,TX
+629,Lehi,UT
+630,Sterling,VA
+631,Duluth,MN
+632,Diamondhead,MS
+633,Salem,OR
+634,Tempe,AZ
+635,Kingsport,TN
+636,Ada,MI
+637,Lakewood,CO
+638,Jacksonville,FL
+639,Charlottesville,VA
+640,Morgan Hill,CA
+641,Thorndale,PA
+642,Waterford,MI
+643,Orange,CA
+644,Montgomery,AL
+645,Jersey City,NJ
+646,Jackson,WY
+647,Chantilly,VA
+648,West Sacramento,CA
+649,Brentwood,TN
+650,Louisville,KY
+651,Highland,CA
+652,Prairie du Sac,WI
+653,Waipahu,HI
+654,Commerce,GA
+655,Westerville,OH
+656,Columbia,MD
+657,Fort Sam Houston,TX
+658,Orangeburg,SC
+659,Hershey,PA
+660,California City,CA
+661,Hicksville,NY
+662,Blacksburg,VA
+663,Lewisville,TX
+664,Holyoke,MA
+665,Fresno,CA
+666,Caledonia,MI
+667,Springfield,MO
+668,Rome,GA
+669,Yuma,AZ
+670,Cary,NC
+671,Bowie,MD
+672,Ocala,FL
+673,Kansas City,MO
+674,Livermore,CA
+675,Aurora,OH
+676,Novi,MI
+677,Windsor,CT
+678,Berlin,MD
+679,New Bremen,OH
+680,Bondurant,IA
+681,Doral,FL
+682,Lake Mills,WI
+683,Naperville,IL
+684,La Vergne,TN
+685,Monsey,NY
+686,Palm Coast,FL
+687,La Mesa,NM
+688,Sparks,NV
+689,Dallas,OR
+690,Corona,CA
+691,Irwindale,CA
+692,Quincy,IL
+693,Chino Hills,CA
+694,Lowell,MI
+695,Chatsworth,CA
+696,Pembroke Pines,FL
+697,Coral Springs,FL
+698,Meridian,ID
+699,Englewood,CO
+700,Saint Paul,MN
+701,Melville,NY
+702,Bakersfield,CA
+703,Morgantown,WV
+704,San Francisco Bay Area,CA
+705,Miami Lakes,FL
+706,Long Island City,NY
+707,Trenton,NJ
+708,Bedford Heights,OH
+709,Camarillo,CA
+710,Manchester,NH
+711,Paramus,NJ
+712,Fairfield,OH
+713,Foster City,CA
+714,Missouri City,MO
+715,Norfolk,VA
+716,Livonia,MI
+717,Montgomery County,MD
+718,Opportunity,WA
+719,Bentonville,AR
+720,Creve Coeur,MO
+721,Menlo Park,CA
+722,Titusville,NJ
+723,Virginia Beach,VA
+724,Tualatin,OR
+725,Woodbridge,NJ
+726,Greenwood Village,CO
+727,Estero,FL
+728,Springfield,MA
+729,Santa Ana,CA
+730,Findlay,OH
+731,Louisville,CO
+732,Framingham,MA
+733,Torrance,CA
+734,Lexington Park,MD
+735,San Carlos,CA
+736,Kirkland,WA
+737,Bothell,WA
+738,Brooklyn,NY
+739,Fishers,IN
+740,Somerville,MA
+741,Santa Cruz,CA
+742,Okemos,MI
+743,Chesterfield,MO
+744,Conshohocken,PA
+745,Thousand Oaks,CA
+746,Florham Park,NJ
+747,Glen Allen,VA
+748,New Haven,CT
+749,Greenwich,CT
+750,Richfield,MN
+751,Santa Clara Valley,CA
+752,Gilbert,AZ
+753,Rochester,MN
+754,Vienna,VA
+755,Alto,WA
+756,Livingston,NJ
+757,Deer Park,TX
+758,Augusta,WV
+759,Frisco,TX
+760,Troy,MI
+761,Vista,CA
+762,Annapolis Junction,MD
+763,Oak Ridge,TN
+764,Medford,MA
+765,Lincoln,NE
+766,Siloam Springs,AR
+767,College Park,MD
+768,Crystal City,VA
+769,Modesto,CA
+770,Palatine,IL
+771,Maryville,TN
+772,Dublin,CA
+773,Cedar Rapids,IA
+774,Northbrook,IL
+775,Parsippany,NJ
+776,Culver City,CA
+777,Spring,TX
+778,Frederick,MD
+779,Acton,MA
+780,Fayetteville,NC
+781,Omaha,NE
+782,Denton,TX
+783,Hillsboro,OR
+784,Springfield,VA
+785,Fort Belvoir,VA
+786,Saratoga Springs,NY
+787,Fort Meade,MD
+788,Boise,ID
+789,Long Beach,CA
+790,Burlingame,CA
+791,Appleton,WI
+792,Wickliffe,OH
+793,Laramie,WY
+794,Mount Vernon,WA
+795,Wheeling,WV
+796,Richardson,TX
+797,Hagerstown,MD
+798,Saint Joseph,MO
+799,Holmdel,NJ
+800,Milpitas,CA
+801,Trumbull,CT
+802,Pittsburgh,PA
+803,Riverwoods,IL
+804,Danbury,CT
+805,Aliso Viejo,CA
+806,Schaumburg,IL
+807,North Reading,MA
+808,Gwynn Oak,MD
+809,Panama City Beach,FL
+810,Sartell,MN
+811,Gallatin,TN
+812,San Dimas,CA
+813,Cupertino,CA
+814,Uniontown,OH
+815,Minnetonka,MN
+816,American Fork,UT
+817,Clayton,MO
+818,Maplewood,MN
+819,Bridgewater,NJ
+820,University Park,PA
+821,Vancouver,WA
+822,Centennial,CO
+823,The Woodlands,TX
+824,Berkeley,CA
+825,Ellicott City,MD
+826,Ashburn,VA
+827,Deerfield Beach,FL
+828,Chevy Chase,MD
+829,Hanover,MD
+830,Sarasota,FL
+831,San Fernando,CA
+832,Whippany,NJ
+833,Beaverton,OR
+834,Wellesley,MA
+835,Oklahoma City,OK
+836,Jackson,MI
+837,Saint Petersburg,FL
+838,Basking Ridge,NJ
+839,Saint Augustine,FL
+840,Galway,NY
+841,Cockeysville,MD
+842,Mount Laurel,NJ
+843,Lexington,MA
+844,Weston,CT
+845,Cheektowaga,NY
+846,Lindon,UT
+847,Miami Beach,FL
+848,United,WV
+849,Davenport,IA
+850,Davie,FL
+851,Prineville,OR
+852,Winston-Salem,NC
+853,Dulles,VA
+854,Corvallis,OR
+855,Round Rock,TX
+856,El Segundo,CA
+857,Marshall,TX
+858,Blasdell,NY
+859,Secaucus,NJ
+860,Lewes,DE
+861,Minneapolis,NC
+862,Tysons,VA
+863,Pierre,SD
+864,El Paso,TX
+865,Lanham,MD
+866,Pasadena,CA
+867,Blue Ash,OH
+868,Jupiter,FL
+869,Eatontown,NJ
+870,Wittmann,AZ
+871,Riverton,UT
+872,Collegeville,PA
+873,Pardeeville,WI
+874,Traverse City,MI
+875,Olive Branch,MS
+876,Waterloo,IA
+877,Coppell,TX
+878,Springfield,PA
+879,Pella,IA
+880,New Castle,DE
+881,Agoura Hills,CA
+882,Issaquah,WA
+883,Peoria,IL
+884,Wyoming,MN
+885,Midland,TX
+886,Cape Canaveral,FL
+887,Elmwood Park,NJ
+888,Belmont,CA
+889,Dallas-Fort Worth,TX
+890,Farmers Branch,TX
+891,Newport News,VA
+892,Skillman,NJ
+893,Lemont,IL
+894,Everett,WA
+895,McKinney,TX
+896,Owosso,MI
+897,Exton,PA
+898,Malvern,PA
+899,Moscow,ID
+900,Los Lunas,NM
+901,Norcross,GA
+902,Augusta,GA
+903,Foxborough,MA
+904,Honolulu,HI
+905,Littleton,CO
+906,Branford,CT
+907,Scottsdale,AZ
+908,Mechanicsville,VA
+909,Seal Beach,CA
+910,Raritan,NJ
+911,Sandy Springs,GA
+912,Midland,MI
+913,Mahwah,NJ
+914,Mooresville,NC
+915,Emeryville,CA
+916,Pittsfield,MA
+917,Pebble Beach,CA
+918,Stoughton,MA
+919,Santa Rosa,CA
+920,Tustin,CA
+921,Los Gatos,CA
+922,Coraopolis,PA
+923,Umatilla,OR
+924,Aiken,SC
+925,Dodgeville,WI
+926,Fairfax County,VA
+927,Woburn,MA
+928,Universal City,CA
+929,Yonkers,NY
+930,Stratford,CT
+931,Hoffman Estates,IL
+932,Mayfield Heights,OH
+933,Mansfield,MA
+934,Salem,VA
+935,Campbell,CA
+936,Clearfield,UT
+937,Cerritos,CA
+938,Wallops Island,VA
+939,Painted Post,NY
+940,Montreal,WI
+941,Schofield Barracks,HI
+942,Chapin,SC
+943,Allentown,PA
+944,Patuxent River,MD
+945,Leawood,KS
+946,Topeka,KS
+947,Egypt,AR
+948,Walnut,CA
+949,Tyler,TX
+950,Yakima,WA
+951,Missoula,MT
+952,Folsom,CA
+953,Alameda,CA
+954,Baton Rouge,LA
+955,Park City,UT
+956,Pflugerville,TX
+957,Hunt Valley,MD
+958,Dalton,GA
+959,Carrollton,TX
+960,Groton,MA
+961,Sioux Falls,SD
+962,Warminster,PA
+963,South Bend,IN
+964,Grand Rapids,MI
+965,Easton,NY
+966,Bellingham,WA
+967,Bowling Green,KY
+968,Starkey,VA
+969,Pipestone,MN
+970,Woodinville,WA
+971,Markham,IL
+972,Golden,CO
+973,Fort Lee,NJ
+974,San Ramon,CA
+975,Malibu,CA
+976,Newtown,CT
+977,Webster,TX
+978,Poway,CA
+979,Tysons Corner,VA
+980,Glen Echo,MD
+981,Novato,CA
+982,Long Island,NY
+983,Midvale,UT
+984,Westminster,CO
+985,Cypress,CA
+986,Los Altos,CA
+987,Greenbelt,MD
+988,Copley,OH
+989,California,MD
+990,Brookfield,WI
+991,Roanoke,VA
+992,Clemson,SC
+993,Ames,IA
+994,Foggy Bottom,DC
+995,East Lansing,MI
+996,Union City,CA
+997,Brighton,MA
+998,East Setauket,NY
+999,Owings Mills,MD
+1000,Newburyport,MA
+1001,Burlington,MA
+1002,La Jolla,CA
+1003,Laurel,MD
+1004,Princeton Junction,NJ
+1005,Dayton,OH
+1006,Joliet,IL
+1007,Adelphi,MD
+1008,Highlands Ranch,CO
+1009,Watertown,MA
+1010,Silicon Valley,CA
+1011,Vero Beach,FL
+1012,Winchester,MA
+1013,Lowell,MA
+1014,Boxborough,MA
+1015,Billerica,MA
+1016,Fort Collins,CO
+1017,Jonesboro,AR
+1018,Julia,WV
+1019,East Palo Alto,CA
+1020,Davis,CA
+1021,Woodland Hills,CA
+1022,Gaithersburg,MD
+1023,Baytown,TX
+1024,Clifton Park,NY
+1025,Spokane,WA
+1026,Westbrook,ME
+1027,York,NY
+1028,Wilmington,MA
+1029,Newton,MA
+1030,Wharton,NJ
+1031,Northridge,CA
+1032,Verona,NY
+1033,Sunkist,CA
+1034,Plainsboro,NJ
+1035,Singapore,Singapore
+1036,Jurong,Singapore
+1037,Remote,Singapore
+1038,Outram,Singapore
+1039,Bugis,Singapore
+1040,Tanjong Pagar,Singapore
+1041,Toa Payoh,Singapore
+1042,Bedok,Singapore
+1043,Central Singapore,Singapore
+1044,Clementi,Singapore
+1045,Woodlands,Singapore
+1046,Jurong Island,Singapore
+1047,Little India,Singapore
+1048,Kallang,Singapore
+1049,Tuas,Singapore
+1050,Ang Mo Kio,Singapore
+1051,Orchard,Singapore
+1052,Pasir Ris,Singapore
+1053,Geylang,Singapore
+1054,Hougang,Singapore
+1055,Suntec,Singapore
+1056,East Coast,Singapore
+1057,Bukit Timah,Singapore
+1058,MacPherson,Singapore
+1059,Marina Bay,Singapore
+1060,City Hall,Singapore
+1061,Queenstown,Singapore
+1062,Bukit Merah,Singapore
+1063,Ubi,Singapore
+1064,Tiong Bahru Estate,Singapore
+1065,Choa Chu Kang,Singapore
+1066,Novena,Singapore
+1067,Changi,Singapore
+1068,Serangoon,Singapore
+1069,West Singapore,Singapore
+1070,Yishun,Singapore
+1071,Tampines,Singapore
+1072,North-East Singapore,Singapore
+1073,Tanglin,Singapore
+1074,Raffles,Singapore
+1075,Central Business District,Singapore
+1076,Shenton Way,Singapore
