@@ -1076,3 +1076,11 @@ location,country_id,city,state,lat,lng
 1075,1,Raffles,Singapore,1.2835417,103.8514602
 1076,1,Central Business District,Singapore,1.28967,103.85007
 1077,1,Shenton Way,Singapore,1.2752631,103.8483973
+1078,1,Remote,Remote,,
+1079,2,Remote,Remote,,
+1080,3,Remote,Remote,,
+1081,4,Remote,Remote,,
+1082,1,Other,Other,,
+1083,2,Other,Other,,
+1084,3,Other,Other,,
+1085,4,Other,Other,,
