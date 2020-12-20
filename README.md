@@ -1,6 +1,8 @@
 # DataJobMarket - Project 2
 ## An ETL Project for Data Related Jobs in SG, AU, US, CA
 
+<a targer="_blank" href="https://github.com/kk-deng/DataJobMarket/blob/master/Report.pdf">Click to read the entire report (PDF version)</a>
+
 With the rapid advancement of technologies, data related jobs have become highly demanded in recent years. 
 The computer technology boom in the past 20 years has made computer usage much easier and cheaper for everyone, 
 and this has led to the enormous increase in data generation and the demand for data organization. With an easier access to data, 
