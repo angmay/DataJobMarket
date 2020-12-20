@@ -1,1078 +1,1116 @@
-country_id,city,state
-2,Regina,SK
-2,Vaudreuil-Dorion,QC
-2,Calgary,AB
-2,Iqaluit,NU
-2,Lethbridge,AB
-2,Pickering,ON
-2,Toronto,ON
-2,Surrey,BC
-2,100 Mile House,BC
-2,Laval,QC
-2,Saskatoon,SK
-2,Markham,ON
-2,Quebec City,QC
-2,Bedford,QC
-2,Mississauga,ON
-2,Ottawa,ON
-2,Vancouver,BC
-2,Montréal,QC
-2,Sydney,NS
-2,Waterloo,ON
-2,Burnaby,BC
-2,St. John's,NL
-2,Brampton,ON
-2,Halifax,NS
-2,Windsor,ON
-2,Woodbridge,ON
-2,Aldouane,NB
-2,Stoney Creek,ON
-2,Tiverton,ON
-2,Delta,BC
-2,Westmount,QC
-2,Richmond,BC
-2,Edmonton,AB
-2,Bedford,NS
-2,Milton,ON
-2,North York,ON
-2,Aylmer,ON
-2,Peel,ON
-2,Coquitlam,BC
-2,Saint-Césaire,QC
-2,Haines Junction,YT
-2,Valcourt,QC
-2,Concord,ON
-2,Burlington,ON
-2,St. Anthony,NL
-2,Kitchener,ON
-2,Thunder Bay,ON
-2,Hamilton,ON
-2,Port Coquitlam,BC
-2,Scarborough,ON
-2,Moncton,NB
-2,Guelph,ON
-2,Vanderhoof,BC
-2,Saint-Laurent,QC
-2,Saint John,NB
-2,Oakville,ON
-2,Sparwood,BC
-2,Newmarket,ON
-2,Pointe-Claire,QC
-2,Lakeshore,ON
-2,Whitehorse,YT
-2,Vaughan,ON
-2,Mary River,NU
-2,Grimsby,ON
-2,Bowmanville,ON
-2,Victoria,BC
-2,Etobicoke,ON
-2,Waterdown,ON
-2,York,ON
-2,Winnipeg,MB
-2,Dieppe,NB
-2,Kelowna,BC
-2,St. Catharines,ON
-2,Strathroy,ON
-2,Wainwright,AB
-2,London,ON
-2,Stellarton,NS
-2,Kirkland,QC
-2,Peterborough,ON
-2,Hiawatha,ON
-2,Brantford,ON
-2,Greater Sudbury,ON
-2,Caledon,ON
-2,Saint-Hubert,QC
-2,Orangeville,ON
-2,Charlottetown,PE
-2,Boucherville,QC
-2,Richmond Hill,ON
-2,Langley,BC
-2,Pemberton,BC
-2,Châteauguay,QC
-2,Dorval,QC
-2,Dartmouth,NS
-2,Centretown,ON
-2,Belleville,ON
-2,Gatineau,QC
-2,Cambridge,ON
-2,Verdun,QC
-2,Stayner,ON
-2,Sherbrooke,QC
-2,Fredericton,NB
-2,Longueuil,QC
-2,West Vancouver,BC
-2,St. Thomas,ON
-2,Kirkland Lake,ON
-2,Acheson,AB
-2,New Westminster,BC
-2,Midland,ON
-2,Kanata,ON
-2,Barrie,ON
-2,Essex,ON
-2,Niagara-on-the-Lake,ON
-2,Prince George,BC
-2,Georgetown,ON
-2,Venice,AB
-2,Sioux Lookout,ON
-2,Ajax,ON
-2,Chatham-Kent,ON
-2,Kitimat,BC
-2,North Battleford,SK
-2,Ermineskin 138,AB
-2,Port Hope,ON
-2,Steinbach,MB
-2,Westlock,AB
-2,Enterprise,NB
-2,Abbotsford,BC
-2,Blacks Harbour,NB
-2,Creston,BC
-2,Chilliwack,BC
-2,North Vancouver,BC
-2,Tecumseh,ON
-2,Greater Toronto Area,ON
-2,Bruxelles,MB
-2,Lucknow,ON
-2,Simcoe,ON
-2,Mont-Saint-Hilaire,QC
-2,Salmon Arm,BC
-2,Middleton,NS
-2,Norfolk County,ON
-2,Stony Rapids,SK
-2,Iroquois,ON
-2,St. George,NB
-2,Dorchester,ON
-2,Kingston,ON
-2,Revelstoke,BC
-2,Whistler,BC
-2,Buick,BC
-2,Thompson,MB
-2,Tilbury,ON
-2,Teeswater,ON
-2,Rexdale,ON
-2,Come By Chance,NL
-2,Ponoka,AB
-2,Petersburg,ON
-2,Airdrie,AB
-2,Leduc,AB
-2,East York,ON
-2,Pitt Meadows,BC
-2,Shawinigan,QC
-2,Tillsonburg,ON
-2,Aldergrove,BC
-2,Kamloops,BC
-2,Metro Vancouver Regional District,BC
-2,Ingersoll,ON
-2,Labrador City,NL
-2,Bath,ON
-2,Terrace,BC
-2,St. Isidore,ON
-2,Saanichton,BC
-2,Ottawa West,ON
-2,Dollard-Des Ormeaux,QC
-2,Campbellford,ON
-2,Borden,ON
-2,Stouffville,ON
-2,Stratford,ON
-4,Sydney,NSW
-4,Altona North,VIC
-4,East Melbourne,VIC
-4,Melbourne City Centre,VIC
-4,Canberra,ACT
-4,Melbourne,VIC
-4,Hawthorn East,VIC
-4,Gold Coast,QLD
-4,Adelaide Region,SA
-4,New South,Wales
-4,Brisbane,QLD
-4,Toowoomba,QLD
-4,Macquarie Park,NSW
-4,Sydney Central Business District,NSW
-4,South Hobart,TAS
-4,Barangaroo,NSW
-4,Bella Vista,NSW
-4,Illawarra,NSW
-4,Newstead,QLD
-4,North Ryde,NSW
-4,Beacon Hill,NSW
-4,Parramatta,NSW
-4,Perth,WA
-4,Docklands,VIC
-4,North Sydney,NSW
-4,Botany,NSW
-4,Seven Hills,NSW
-4,Sydney Western Suburbs,NSW
-4,Darwin,NT
-4,Mount Cotton,QLD
-4,South,Australia
-4,Castle Hill,NSW
-4,North Lakes,QLD
-4,Fairfield,NSW
-4,City of Knox,VIC
-4,Dandenong,VIC
-4,Darlinghurst,NSW
-4,South Yarra,VIC
-4,Auburn,NSW
-4,Ryde,NSW
-4,Surry Hills,NSW
-4,Mascot,NSW
-4,Rhodes,NSW
-4,Banyo,QLD
-4,Nundah,QLD
-4,Cheltenham,VIC
-4,Hills District,NSW
-4,Toowong,QLD
-4,City of Boroondara,VIC
-4,Smithfield,NSW
-4,Collingwood,VIC
-4,Townsville,QLD
-4,Paddington,NSW
-4,Doncaster,VIC
-4,St Leonards,NSW
-4,Clayton,VIC
-4,West Melbourne,VIC
-4,Wynyard,TAS
-4,Keysborough,VIC
-4,Fairfield,VIC
-4,Burwood,VIC
-4,South Melbourne,VIC
-4,Sydney Inner Suburbs,NSW
-4,Alexandria,NSW
-4,South Brisbane,QLD
-4,Silverwater,NSW
-4,Hobart,TAS
-4,Adelaide CBD,SA
-4,Scoresby,VIC
-4,Brisbane Central Business District,QLD
-4,Gepps Cross,SA
-4,Linley Point,NSW
-4,Redfern,NSW
-4,Southbank,VIC
-4,Eight Mile Plains,QLD
-4,Burnley,VIC
-4,Bondi,NSW
-4,Chippendale,NSW
-4,Ravenhall,VIC
-4,Geelong,VIC
-4,Gleniffer,NSW
-4,Rocklea,QLD
-4,Osborne Park,WA
-4,Dingley,VIC
-4,Newcastle,NSW
-4,Pyrmont,NSW
-4,Strathfield,NSW
-4,The Rocks,NSW
-4,Richmond,VIC
-4,Matraville,NSW
-4,Gladstone,QLD
-4,Mulgrave,VIC
-4,Northern,Territory
-4,Pearce,WA
-4,Gregory,WA
-4,Campbellfield,VIC
-4,Western,Australia
-4,Milton,NSW
-4,Fortitude Valley,QLD
-4,Port Hedland,WA
-4,Williamtown,NSW
-4,Wollongong,NSW
-4,Boddington,WA
-4,Lyndhurst,VIC
-4,Pakenham,VIC
-4,Douglas Park,NSW
-4,Pymble,NSW
-4,Grafton,NSW
-4,West Perth,WA
-4,Pilbara,WA
-4,Lithgow,NSW
-4,Mount Waverley,VIC
-4,Spreyton,TAS
-4,Newtown,NSW
-4,Bundall,QLD
-4,Lindfield,NSW
-4,Blackburn North,VIC
-4,Albury,NSW
-4,Frankston,VIC
-4,Henderson,WA
-4,Parkville,VIC
-4,Moree,NSW
-4,Alice Springs,NT
-4,Darling Downs,QLD
-4,Mornington Peninsula,VIC
-4,Rosebery,NSW
-4,Christmas Creek,QLD
-4,Warabrook,NSW
-4,Homebush,NSW
-4,Inner West,NSW
-4,Old Guildford,NSW
-4,Edinburgh,SA
-4,Port Macquarie,NSW
-4,Perth Central Business District,WA
-4,Ravensthorpe,WA
-4,Katoomba,NSW
-4,Barton,ACT
-4,Williams Landing,VIC
-4,Maitland,NSW
-4,Milton,QLD
-4,East Perth,WA
-4,Streaky Bay,SA
-4,Mandurah,WA
-4,Melbourne South Eastern Suburbs,VIC
-4,Beaconsfield,TAS
-4,Hopetoun,WA
-4,Chichester,NSW
-4,Deakin,VIC
-4,Dee Why,NSW
-4,Osterley,TAS
-4,Northam,WA
-4,Tullamarine,VIC
-4,Artarmon,NSW
-4,Goldfields,WA
-4,Hilton,SA
-4,Strathpine,QLD
-4,Dampier,WA
-4,Portland,VIC
-4,North Melbourne,VIC
-4,Success,WA
-4,Lane Cove West,NSW
-4,Orchard Hills,NSW
-4,Bunbury,WA
-4,Waurn Ponds,VIC
-4,Broadway,NSW
-4,Macquarie University,NSW
-4,Sunshine Coast,QLD
-4,South Perth,WA
-4,Fullarton,SA
-4,Port Melbourne,VIC
-4,Northgate,QLD
-4,Burleigh Heads,QLD
-4,Horsham,VIC
-4,Coburg,VIC
-4,Westmead,NSW
-4,Chatswood,NSW
-3,Akron,OH
-3,Hill AFB,UT
-3,San Francisco,CA
-3,Bloomington,IL
-3,Atlanta,GA
-3,Texas City,TX
-3,Fremont,CA
-3,Weston,FL
-3,Boulder,CO
-3,Brandon,FL
-3,Boston,MA
-3,Waltham,MA
-3,Alexandria,VA
-3,Southington,CT
-3,Seattle,WA
-3,Irving,TX
-3,Carlsbad,CA
-3,Pleasant Prairie,WI
-3,Greenville,TX
-3,McAlester,OK
-3,Sanford,FL
-3,Washington,DC
-3,Marlborough,MA
-3,Bloomfield,NJ
-3,New York,NY
-3,Santa Monica,CA
-3,Palo Alto,CA
-3,Beeville,TX
-3,North East,MD
-3,Falls Church,VA
-3,Santa Clara,CA
-3,Post Falls,ID
-3,New Brunswick,NJ
-3,Fletcher,NC
-3,Los Angeles,CA
-3,Redmond,WA
-3,Delaware,OH
-3,Draper,UT
-3,Chapel Hill,NC
-3,York,PA
-3,Palm Beach,FL
-3,Evanston,IL
-3,Morrisville,NC
-3,Overland Park,KS
-3,Cambridge,MA
-3,Charlestown,MA
-3,Mountain View,CA
-3,Chicago,IL
-3,San Diego,CA
-3,Tallahassee,FL
-3,Sunrise,FL
-3,Jefferson City,MO
-3,Bloomington,MN
-3,Chestertown,MD
-3,Hollywood,CA
-3,New Orleans,LA
-3,Manassas,VA
-3,Portsmouth,NH
-3,Raymond,OH
-3,Shelton,CT
-3,Roseville,MN
-3,Sunnyvale,CA
-3,Franklin,TN
-3,Chippewa Falls,WI
-3,Dorado,PR
-3,Cincinnati,OH
-3,Orlando,FL
-3,Mansfield,PA
-3,Orem,UT
-3,Bellevue,WA
-3,San Jose,CA
-3,Stafford,TX
-3,Richmond,VA
-3,De Pere,WI
-3,Redwood City,CA
-3,West Columbia,SC
-3,New Albany,OH
-3,Baltimore,MD
-3,Philadelphia,PA
-3,Fort Washington,PA
-3,Oak Brook,IL
-3,Portland,OR
-3,Fort Lauderdale,FL
-3,Stanford,CA
-3,Pompano Beach,FL
-3,Sacramento,CA
-3,Southfield,MI
-3,Boca Raton,FL
-3,Floresville,TX
-3,Milwaukee,WI
-3,Queens,NY
-3,Mason,OH
-3,Fairfax,VA
-3,Salt Lake City,UT
-3,St. Louis,MO
-3,Tampa,FL
-3,Rockville,MD
-3,Indianapolis,IN
-3,Junior,WV
-3,Austin,TX
-3,Arlington,VA
-3,Red Bank,NJ
-3,Irvine,CA
-3,Battle Creek,MI
-3,Harrisburg,PA
-3,Malvern,AR
-3,Columbus,OH
-3,Petaluma,CA
-3,Georgetown,TX
-3,Oshkosh,WI
-3,Chandler,AZ
-3,Detroit,MI
-3,Wilmington,DE
-3,Rockland,MA
-3,Dallas,TX
-3,Shalimar,FL
-3,Lewiston,ME
-3,Charleston,SC
-3,Burbank,CA
-3,Columbia,MO
-3,Ontario,CA
-3,Miami,FL
-3,Miramar,FL
-3,Denver,CO
-3,Aberdeen Proving Ground,MD
-3,Wilson,NC
-3,Santa Fe,NM
-3,Madison,WI
-3,Rochester,MI
-3,Plano,TX
-3,Clearlake,CA
-3,Mayport,FL
-3,Burlington,VT
-3,Wayne,NJ
-3,Buffalo,NY
-3,Raleigh,NC
-3,Armonk,NY
-3,Concord,NC
-3,North Kansas City,MO
-3,Toledo,OH
-3,Durham,NC
-3,Mayfield Village,OH
-3,Johnston,IA
-3,Webster,NY
-3,Houston,TX
-3,Hoboken,NJ
-3,Newark,NJ
-3,Newark,CA
-3,Warren,MI
-3,Little Rock,AR
-3,Sandy,UT
-3,Norwell,MA
-3,Williston,VT
-3,Phoenix,AZ
-3,Spartanburg,SC
-3,Pensacola,FL
-3,Lakeland,FL
-3,Santa Barbara,CA
-3,Oxford,OH
-3,Minneapolis,MN
-3,Greensboro,NC
-3,Andover,MA
-3,Saint Albans,WV
-3,Bethesda,MD
-3,Richland,WA
-3,East Providence,RI
-3,Champaign,IL
-3,Plantation,FL
-3,Fort Worth,TX
-3,Dublin,OH
-3,Yardley,PA
-3,Paoli,PA
-3,Breckenridge,CO
-3,Tinton Falls,NJ
-3,Rensselaer,NY
-3,Asheville,NC
-3,Fayetteville,AR
-3,Duluth,GA
-3,King of Prussia,PA
-3,Costa Mesa,CA
-3,North Quincy,MA
-3,Rochester,NY
-3,Escondido,CA
-3,Newark,DE
-3,Flint,MI
-3,West Chester,PA
-3,Euclid,OH
-3,Oahu Island,HI
-3,Enid,OK
-3,Walnut Creek,CA
-3,Lansing,MI
-3,Pleasanton,CA
-3,Rosslyn,VA
-3,Mayfield,OH
-3,Albuquerque,NM
-3,Nashua,NH
-3,Arlington County,VA
-3,Horsham,PA
-3,Fort Walton Beach,FL
-3,Brookfield,CT
-3,Ithaca,NY
-3,West Chester,OH
-3,Santa Clarita,CA
-3,Anchorage,AK
-3,Venice,CA
-3,Lynchburg,VA
-3,Deerfield,IL
-3,Nashville,TN
-3,Charlotte,NC
-3,Newport Beach,CA
-3,Manhattan,NY
-3,West Palm Beach,FL
-3,Des Moines,IA
-3,Gainesville,FL
-3,San Juan,PR
-3,Henrico,VA
-3,Hanover,NH
-3,Johnston,RI
-3,Ferdinand,IN
-3,Research Triangle Park,NC
-3,Maitland,FL
-3,Colorado Springs,CO
-3,Mount Pleasant,SC
-3,Herndon,VA
-3,South Jordan,UT
-3,Memphis,TN
-3,Mesa,AZ
-3,Reston,VA
-3,Princeton,NJ
-3,Austell,GA
-3,San Antonio,TX
-3,Ronkonkoma,NY
-3,Westlake,TX
-3,Birmingham,AL
-3,Eden Prairie,MN
-3,Lake Mary,FL
-3,Woonsocket,RI
-3,Shrewsbury,MA
-3,Stamford,CT
-3,Clearwater,FL
-3,Anaheim,CA
-3,Woodlawn,MD
-3,Henderson,NV
-3,West Barnstable,MA
-3,San Mateo,CA
-3,McLean,VA
-3,Edison,NJ
-3,Mount Pleasant,WI
-3,Las Vegas,NV
-3,Alpharetta,GA
-3,Knoxville,TN
-3,Provo,UT
-3,Monroe,WI
-3,Camden County,NJ
-3,Camp Smith,HI
-3,Westborough,MA
-3,Oakbrook Terrace,IL
-3,Albany,NY
-3,Williamsville,NY
-3,Dearborn,MI
-3,Daytona Beach,FL
-3,Portland,ME
-3,Victor,NY
-3,Melbourne,FL
-3,Ann Arbor,MI
-3,Cranbury,NJ
-3,Chico,CA
-3,South San Francisco,CA
-3,Hartford,CT
-3,Quincy,MA
-3,Cleveland,OH
-3,North Wales,PA
-3,Erie,PA
-3,Linthicum Heights,MD
-3,Oakland,CA
-3,Oroville,CA
-3,Libby,MT
-3,Italy,TX
-3,Lehi,UT
-3,Sterling,VA
-3,Duluth,MN
-3,Diamondhead,MS
-3,Salem,OR
-3,Tempe,AZ
-3,Kingsport,TN
-3,Ada,MI
-3,Lakewood,CO
-3,Jacksonville,FL
-3,Charlottesville,VA
-3,Morgan Hill,CA
-3,Thorndale,PA
-3,Waterford,MI
-3,Orange,CA
-3,Montgomery,AL
-3,Jersey City,NJ
-3,Jackson,WY
-3,Chantilly,VA
-3,West Sacramento,CA
-3,Brentwood,TN
-3,Louisville,KY
-3,Highland,CA
-3,Prairie du Sac,WI
-3,Waipahu,HI
-3,Commerce,GA
-3,Westerville,OH
-3,Columbia,MD
-3,Fort Sam Houston,TX
-3,Orangeburg,SC
-3,Hershey,PA
-3,California City,CA
-3,Hicksville,NY
-3,Blacksburg,VA
-3,Lewisville,TX
-3,Holyoke,MA
-3,Fresno,CA
-3,Caledonia,MI
-3,Springfield,MO
-3,Rome,GA
-3,Yuma,AZ
-3,Cary,NC
-3,Bowie,MD
-3,Ocala,FL
-3,Kansas City,MO
-3,Livermore,CA
-3,Aurora,OH
-3,Novi,MI
-3,Windsor,CT
-3,Berlin,MD
-3,New Bremen,OH
-3,Bondurant,IA
-3,Doral,FL
-3,Lake Mills,WI
-3,Naperville,IL
-3,La Vergne,TN
-3,Monsey,NY
-3,Palm Coast,FL
-3,La Mesa,NM
-3,Sparks,NV
-3,Dallas,OR
-3,Corona,CA
-3,Irwindale,CA
-3,Quincy,IL
-3,Chino Hills,CA
-3,Lowell,MI
-3,Chatsworth,CA
-3,Pembroke Pines,FL
-3,Coral Springs,FL
-3,Meridian,ID
-3,Englewood,CO
-3,Saint Paul,MN
-3,Melville,NY
-3,Bakersfield,CA
-3,Morgantown,WV
-3,San Francisco Bay Area,CA
-3,Miami Lakes,FL
-3,Long Island City,NY
-3,Trenton,NJ
-3,Bedford Heights,OH
-3,Camarillo,CA
-3,Manchester,NH
-3,Paramus,NJ
-3,Fairfield,OH
-3,Foster City,CA
-3,Missouri City,MO
-3,Norfolk,VA
-3,Livonia,MI
-3,Montgomery County,MD
-3,Opportunity,WA
-3,Bentonville,AR
-3,Creve Coeur,MO
-3,Menlo Park,CA
-3,Titusville,NJ
-3,Virginia Beach,VA
-3,Tualatin,OR
-3,Woodbridge,NJ
-3,Greenwood Village,CO
-3,Estero,FL
-3,Springfield,MA
-3,Santa Ana,CA
-3,Findlay,OH
-3,Louisville,CO
-3,Framingham,MA
-3,Torrance,CA
-3,Lexington Park,MD
-3,San Carlos,CA
-3,Kirkland,WA
-3,Bothell,WA
-3,Brooklyn,NY
-3,Fishers,IN
-3,Somerville,MA
-3,Santa Cruz,CA
-3,Okemos,MI
-3,Chesterfield,MO
-3,Conshohocken,PA
-3,Thousand Oaks,CA
-3,Florham Park,NJ
-3,Glen Allen,VA
-3,New Haven,CT
-3,Greenwich,CT
-3,Richfield,MN
-3,Santa Clara Valley,CA
-3,Gilbert,AZ
-3,Rochester,MN
-3,Vienna,VA
-3,Alto,WA
-3,Livingston,NJ
-3,Deer Park,TX
-3,Augusta,WV
-3,Frisco,TX
-3,Troy,MI
-3,Vista,CA
-3,Annapolis Junction,MD
-3,Oak Ridge,TN
-3,Medford,MA
-3,Lincoln,NE
-3,Siloam Springs,AR
-3,College Park,MD
-3,Crystal City,VA
-3,Modesto,CA
-3,Palatine,IL
-3,Maryville,TN
-3,Dublin,CA
-3,Cedar Rapids,IA
-3,Northbrook,IL
-3,Parsippany,NJ
-3,Culver City,CA
-3,Spring,TX
-3,Frederick,MD
-3,Acton,MA
-3,Fayetteville,NC
-3,Omaha,NE
-3,Denton,TX
-3,Hillsboro,OR
-3,Springfield,VA
-3,Fort Belvoir,VA
-3,Saratoga Springs,NY
-3,Fort Meade,MD
-3,Boise,ID
-3,Long Beach,CA
-3,Burlingame,CA
-3,Appleton,WI
-3,Wickliffe,OH
-3,Laramie,WY
-3,Mount Vernon,WA
-3,Wheeling,WV
-3,Richardson,TX
-3,Hagerstown,MD
-3,Saint Joseph,MO
-3,Holmdel,NJ
-3,Milpitas,CA
-3,Trumbull,CT
-3,Pittsburgh,PA
-3,Riverwoods,IL
-3,Danbury,CT
-3,Aliso Viejo,CA
-3,Schaumburg,IL
-3,North Reading,MA
-3,Gwynn Oak,MD
-3,Panama City Beach,FL
-3,Sartell,MN
-3,Gallatin,TN
-3,San Dimas,CA
-3,Cupertino,CA
-3,Uniontown,OH
-3,Minnetonka,MN
-3,American Fork,UT
-3,Clayton,MO
-3,Maplewood,MN
-3,Bridgewater,NJ
-3,University Park,PA
-3,Vancouver,WA
-3,Centennial,CO
-3,The Woodlands,TX
-3,Berkeley,CA
-3,Ellicott City,MD
-3,Ashburn,VA
-3,Deerfield Beach,FL
-3,Chevy Chase,MD
-3,Hanover,MD
-3,Sarasota,FL
-3,San Fernando,CA
-3,Whippany,NJ
-3,Beaverton,OR
-3,Wellesley,MA
-3,Oklahoma City,OK
-3,Jackson,MI
-3,Saint Petersburg,FL
-3,Basking Ridge,NJ
-3,Saint Augustine,FL
-3,Galway,NY
-3,Cockeysville,MD
-3,Mount Laurel,NJ
-3,Lexington,MA
-3,Weston,CT
-3,Cheektowaga,NY
-3,Lindon,UT
-3,Miami Beach,FL
-3,United,WV
-3,Davenport,IA
-3,Davie,FL
-3,Prineville,OR
-3,Winston-Salem,NC
-3,Dulles,VA
-3,Corvallis,OR
-3,Round Rock,TX
-3,El Segundo,CA
-3,Marshall,TX
-3,Blasdell,NY
-3,Secaucus,NJ
-3,Lewes,DE
-3,Minneapolis,NC
-3,Tysons,VA
-3,Pierre,SD
-3,El Paso,TX
-3,Lanham,MD
-3,Pasadena,CA
-3,Blue Ash,OH
-3,Jupiter,FL
-3,Eatontown,NJ
-3,Wittmann,AZ
-3,Riverton,UT
-3,Collegeville,PA
-3,Pardeeville,WI
-3,Traverse City,MI
-3,Olive Branch,MS
-3,Waterloo,IA
-3,Coppell,TX
-3,Springfield,PA
-3,Pella,IA
-3,New Castle,DE
-3,Agoura Hills,CA
-3,Issaquah,WA
-3,Peoria,IL
-3,Wyoming,MN
-3,Midland,TX
-3,Cape Canaveral,FL
-3,Elmwood Park,NJ
-3,Belmont,CA
-3,Dallas-Fort Worth,TX
-3,Farmers Branch,TX
-3,Newport News,VA
-3,Skillman,NJ
-3,Lemont,IL
-3,Everett,WA
-3,McKinney,TX
-3,Owosso,MI
-3,Exton,PA
-3,Malvern,PA
-3,Moscow,ID
-3,Los Lunas,NM
-3,Norcross,GA
-3,Augusta,GA
-3,Foxborough,MA
-3,Honolulu,HI
-3,Littleton,CO
-3,Branford,CT
-3,Scottsdale,AZ
-3,Mechanicsville,VA
-3,Seal Beach,CA
-3,Raritan,NJ
-3,Sandy Springs,GA
-3,Midland,MI
-3,Mahwah,NJ
-3,Mooresville,NC
-3,Emeryville,CA
-3,Pittsfield,MA
-3,Pebble Beach,CA
-3,Stoughton,MA
-3,Santa Rosa,CA
-3,Tustin,CA
-3,Los Gatos,CA
-3,Coraopolis,PA
-3,Umatilla,OR
-3,Aiken,SC
-3,Dodgeville,WI
-3,Fairfax County,VA
-3,Woburn,MA
-3,Universal City,CA
-3,Yonkers,NY
-3,Stratford,CT
-3,Hoffman Estates,IL
-3,Mayfield Heights,OH
-3,Mansfield,MA
-3,Salem,VA
-3,Campbell,CA
-3,Clearfield,UT
-3,Cerritos,CA
-3,Wallops Island,VA
-3,Painted Post,NY
-3,Montreal,WI
-3,Schofield Barracks,HI
-3,Chapin,SC
-3,Allentown,PA
-3,Patuxent River,MD
-3,Leawood,KS
-3,Topeka,KS
-3,Egypt,AR
-3,Walnut,CA
-3,Tyler,TX
-3,Yakima,WA
-3,Missoula,MT
-3,Folsom,CA
-3,Alameda,CA
-3,Baton Rouge,LA
-3,Park City,UT
-3,Pflugerville,TX
-3,Hunt Valley,MD
-3,Dalton,GA
-3,Carrollton,TX
-3,Groton,MA
-3,Sioux Falls,SD
-3,Warminster,PA
-3,South Bend,IN
-3,Grand Rapids,MI
-3,Easton,NY
-3,Bellingham,WA
-3,Bowling Green,KY
-3,Starkey,VA
-3,Pipestone,MN
-3,Woodinville,WA
-3,Markham,IL
-3,Golden,CO
-3,Fort Lee,NJ
-3,San Ramon,CA
-3,Malibu,CA
-3,Newtown,CT
-3,Webster,TX
-3,Poway,CA
-3,Tysons Corner,VA
-3,Glen Echo,MD
-3,Novato,CA
-3,Long Island,NY
-3,Midvale,UT
-3,Westminster,CO
-3,Cypress,CA
-3,Los Altos,CA
-3,Greenbelt,MD
-3,Copley,OH
-3,California,MD
-3,Brookfield,WI
-3,Roanoke,VA
-3,Clemson,SC
-3,Ames,IA
-3,Foggy Bottom,DC
-3,East Lansing,MI
-3,Union City,CA
-3,Brighton,MA
-3,East Setauket,NY
-3,Owings Mills,MD
-3,Newburyport,MA
-3,Burlington,MA
-3,La Jolla,CA
-3,Laurel,MD
-3,Princeton Junction,NJ
-3,Dayton,OH
-3,Joliet,IL
-3,Adelphi,MD
-3,Highlands Ranch,CO
-3,Watertown,MA
-3,Silicon Valley,CA
-3,Vero Beach,FL
-3,Winchester,MA
-3,Lowell,MA
-3,Boxborough,MA
-3,Billerica,MA
-3,Fort Collins,CO
-3,Jonesboro,AR
-3,Julia,WV
-3,East Palo Alto,CA
-3,Davis,CA
-3,Woodland Hills,CA
-3,Gaithersburg,MD
-3,Baytown,TX
-3,Clifton Park,NY
-3,Spokane,WA
-3,Westbrook,ME
-3,York,NY
-3,Wilmington,MA
-3,Newton,MA
-3,Wharton,NJ
-3,Northridge,CA
-3,Verona,NY
-3,Sunkist,CA
-3,Plainsboro,NJ
-1,Singapore,Singapore
-1,Jurong,Singapore
-1,Remote,Singapore
-1,Outram,Singapore
-1,Bugis,Singapore
-1,Tanjong Pagar,Singapore
-1,Toa Payoh,Singapore
-1,Bedok,Singapore
-1,Central Singapore,Singapore
-1,Clementi,Singapore
-1,Woodlands,Singapore
-1,Jurong Island,Singapore
-1,Little India,Singapore
-1,Kallang,Singapore
-1,Tuas,Singapore
-1,Ang Mo Kio,Singapore
-1,Orchard,Singapore
-1,Pasir Ris,Singapore
-1,Geylang,Singapore
-1,Hougang,Singapore
-1,Suntec,Singapore
-1,East Coast,Singapore
-1,Bukit Timah,Singapore
-1,MacPherson,Singapore
-1,Marina Bay,Singapore
-1,City Hall,Singapore
-1,Queenstown,Singapore
-1,Bukit Merah,Singapore
-1,Ubi,Singapore
-1,Tiong Bahru Estate,Singapore
-1,Choa Chu Kang,Singapore
-1,Novena,Singapore
-1,Changi,Singapore
-1,Serangoon,Singapore
-1,West Singapore,Singapore
-1,Yishun,Singapore
-1,Tampines,Singapore
-1,North-East Singapore,Singapore
-1,Tanglin,Singapore
-1,Raffles,Singapore
-1,Central Business District,Singapore
-1,Shenton Way,Singapore
+location_id,country_id,city,state
+801,2,Regina,SK
+1018,2,Vaudreuil-Dorion,QC
+143,2,Calgary,AB
+437,2,Iqaluit,NU
+155,2,Canada,Canada
+496,2,Lethbridge,AB
+802,2,Remote,Remote
+119,2,British Columbia,British Columbia
+750,2,Pickering,ON
+992,2,Toronto,ON
+955,2,Surrey,BC
+1,2,100 Mile House,BC
+491,2,Laval,QC
+874,2,Saskatoon,SK
+551,2,Markham,ON
+694,2,Ontario,Ontario
+784,2,Quebec City,QC
+71,2,Bedford,QC
+598,2,Mississauga,ON
+708,2,Ottawa,ON
+1015,2,Vancouver,BC
+610,2,Montréal,QC
+957,2,Sydney,NS
+1046,2,Waterloo,ON
+138,2,Burnaby,BC
+928,2,St. John's,NL
+109,2,Brampton,ON
+397,2,Halifax,NS
+1089,2,Windsor,ON
+1097,2,Woodbridge,ON
+21,2,Aldouane,NB
+939,2,Stoney Creek,ON
+986,2,Tiverton,ON
+264,2,Delta,BC
+1071,2,Westmount,QC
+812,2,Richmond,BC
+301,2,Edmonton,AB
+70,2,Bedford,NS
+591,2,Milton,ON
+668,2,North York,ON
+55,2,Aylmer,ON
+735,2,Peel,ON
+227,2,Coquitlam,BC
+873,2,Saskatchewan,Saskatchewan
+840,2,Saint-Césaire,QC
+396,2,Haines Junction,YT
+1014,2,Valcourt,QC
+223,2,Concord,ON
+136,2,Burlington,ON
+545,2,Manitoba,Manitoba
+924,2,St. Anthony,NL
+472,2,Kitchener,ON
+980,2,Thunder Bay,ON
+398,2,Hamilton,ON
+765,2,Port Coquitlam,BC
+875,2,Scarborough,ON
+603,2,Moncton,NB
+393,2,Guelph,ON
+1017,2,Vanderhoof,BC
+842,2,Saint-Laurent,QC
+836,2,Saint John,NB
+685,2,Oakville,ON
+915,2,Sparwood,BC
+645,2,Newmarket,ON
+762,2,Pointe-Claire,QC
+482,2,Lakeshore,ON
+1078,2,Whitehorse,YT
+1019,2,Vaughan,ON
+554,2,Mary River,NU
+391,2,Grimsby,ON
+107,2,Bowmanville,ON
+1026,2,Victoria,BC
+317,2,Etobicoke,ON
+1043,2,Waterdown,ON
+1110,2,York,ON
+1090,2,Winnipeg,MB
+270,2,Dieppe,NB
+464,2,Kelowna,BC
+925,2,St. Catharines,ON
+947,2,Strathroy,ON
+1032,2,Wainwright,AB
+515,2,London,ON
+937,2,Stellarton,NS
+469,2,Kirkland,QC
+745,2,Peterborough,ON
+409,2,Hiawatha,ON
+112,2,Brantford,ON
+383,2,Greater Sudbury,ON
+141,2,Caledon,ON
+841,2,Saint-Hubert,QC
+698,2,Orangeville,ON
+178,2,Charlottetown,PE
+103,2,Boucherville,QC
+815,2,Richmond Hill,ON
+485,2,Langley,BC
+737,2,Pemberton,BC
+196,2,Châteauguay,QC
+279,2,Dorval,QC
+249,2,Dartmouth,NS
+166,2,Centretown,ON
+76,2,Belleville,ON
+366,2,Gatineau,QC
+149,2,Cambridge,ON
+1022,2,Verdun,QC
+935,2,Stayner,ON
+889,2,Sherbrooke,QC
+357,2,Fredericton,NB
+519,2,Longueuil,QC
+1062,2,West Vancouver,BC
+930,2,St. Thomas,ON
+471,2,Kirkland Lake,ON
+4,2,Acheson,AB
+637,2,New Westminster,BC
+586,2,Midland,ON
+461,2,Kanata,ON
+60,2,Barrie,ON
+315,2,Essex,ON
+652,2,Niagara-on-the-Lake,ON
+777,2,Prince George,BC
+368,2,Georgetown,ON
+1020,2,Venice,AB
+897,2,Sioux Lookout,ON
+13,2,Ajax,ON
+179,2,Chatham-Kent,ON
+473,2,Kitimat,BC
+656,2,North Battleford,SK
+313,2,Ermineskin 138,AB
+767,2,Port Hope,ON
+936,2,Steinbach,MB
+1068,2,Westlock,AB
+17,2,Alberta,Alberta
+311,2,Enterprise,NB
+2,2,Abbotsford,BC
+87,2,Blacks Harbour,NB
+234,2,Creston,BC
+190,2,Chilliwack,BC
+666,2,North Vancouver,BC
+968,2,Tecumseh,ON
+384,2,Greater Toronto Area,ON
+124,2,Bruxelles,MB
+528,2,Lucknow,ON
+894,2,Simcoe,ON
+606,2,Mont-Saint-Hilaire,QC
+845,2,Salmon Arm,BC
+785,2,Quebec Province,Quebec Province
+584,2,Middleton,NS
+655,2,Norfolk County,ON
+940,2,Stony Rapids,SK
+438,2,Iroquois,ON
+926,2,St. George,NB
+278,2,Dorchester,ON
+468,2,Kingston,ON
+806,2,Revelstoke,BC
+1077,2,Whistler,BC
+127,2,Buick,BC
+977,2,Thompson,MB
+981,2,Tilbury,ON
+969,2,Teeswater,ON
+807,2,Rexdale,ON
+220,2,Come By Chance,NL
+764,2,Ponoka,AB
+746,2,Petersburg,ON
+12,2,Airdrie,AB
+493,2,Leduc,AB
+295,2,East York,ON
+754,2,Pitt Meadows,BC
+886,2,Shawinigan,QC
+982,2,Tillsonburg,ON
+20,2,Aldergrove,BC
+460,2,Kamloops,BC
+579,2,Metro Vancouver Regional District,BC
+435,2,Ingersoll,ON
+478,2,Labrador City,NL
+63,2,Bath,ON
+972,2,Terrace,BC
+927,2,St. Isidore,ON
+832,2,Saanichton,BC
+709,2,Ottawa West,ON
+274,2,Dollard-Des Ormeaux,QC
+154,2,Campbellford,ON
+99,2,Borden,ON
+941,2,Stouffville,ON
+944,2,Stratford,ON
+958,4,Sydney,NSW
+29,4,Altona North,VIC
+290,4,East Melbourne,VIC
+572,4,Melbourne City Centre,VIC
+156,4,Canberra,ACT
+571,4,Melbourne,VIC
+403,4,Hawthorn East,VIC
+378,4,Gold Coast,QLD
+1027,4,Victoria,Victoria
+8,4,Adelaide Region,SA
+636,4,New South,Wales
+117,4,Brisbane,QLD
+990,4,Toowoomba,QLD
+532,4,Macquarie Park,NSW
+959,4,Sydney Central Business District,NSW
+904,4,South Hobart,TAS
+59,4,Barangaroo,NSW
+75,4,Bella Vista,NSW
+431,4,Illawarra,NSW
+648,4,Newstead,QLD
+664,4,North Ryde,NSW
+67,4,Beacon Hill,NSW
+54,4,Australia,Australia
+728,4,Parramatta,NSW
+742,4,Perth,WA
+272,4,Docklands,VIC
+665,4,North Sydney,NSW
+101,4,Botany,NSW
+884,4,Seven Hills,NSW
+961,4,Sydney Western Suburbs,NSW
+250,4,Darwin,NT
+618,4,Mount Cotton,QLD
+901,4,South,Australia
+161,4,Castle Hill,NSW
+660,4,North Lakes,QLD
+787,4,Queensland,Queensland
+324,4,Fairfield,NSW
+200,4,City of Knox,VIC
+246,4,Dandenong,VIC
+248,4,Darlinghurst,NSW
+909,4,South Yarra,VIC
+48,4,Auburn,NSW
+831,4,Ryde,NSW
+956,4,Surry Hills,NSW
+557,4,Mascot,NSW
+808,4,Rhodes,NSW
+58,4,Banyo,QLD
+679,4,Nundah,QLD
+183,4,Cheltenham,VIC
+414,4,Hills District,NSW
+989,4,Toowong,QLD
+199,4,City of Boroondara,VIC
+899,4,Smithfield,NSW
+214,4,Collingwood,VIC
+994,4,Townsville,QLD
+715,4,Paddington,NSW
+275,4,Doncaster,VIC
+923,4,St Leonards,NSW
+202,4,Clayton,VIC
+1057,4,West Melbourne,VIC
+967,4,Tasmania,Tasmania
+1103,4,Wynyard,TAS
+465,4,Keysborough,VIC
+326,4,Fairfield,VIC
+140,4,Burwood,VIC
+906,4,South Melbourne,VIC
+960,4,Sydney Inner Suburbs,NSW
+22,4,Alexandria,NSW
+903,4,South Brisbane,QLD
+893,4,Silverwater,NSW
+417,4,Hobart,TAS
+7,4,Adelaide CBD,SA
+878,4,Scoresby,VIC
+118,4,Brisbane Central Business District,QLD
+371,4,Gepps Cross,SA
+506,4,Linley Point,NSW
+798,4,Redfern,NSW
+910,4,Southbank,VIC
+303,4,Eight Mile Plains,QLD
+139,4,Burnley,VIC
+97,4,Bondi,NSW
+192,4,Chippendale,NSW
+794,4,Ravenhall,VIC
+367,4,Geelong,VIC
+377,4,Gleniffer,NSW
+823,4,Rocklea,QLD
+705,4,Osborne Park,WA
+271,4,Dingley,VIC
+644,4,Newcastle,NSW
+783,4,Pyrmont,NSW
+945,4,Strathfield,NSW
+802,4,Remote,Remote
+975,4,The Rocks,NSW
+814,4,Richmond,VIC
+560,4,Matraville,NSW
+374,4,Gladstone,QLD
+625,4,Mulgrave,VIC
+672,4,Northern,Territory
+733,4,Pearce,WA
+390,4,Gregory,WA
+153,4,Campbellfield,VIC
+1065,4,Western,Australia
+590,4,Milton,NSW
+350,4,Fortitude Valley,QLD
+766,4,Port Hedland,WA
+1082,4,Williamtown,NSW
+1095,4,Wollongong,NSW
+95,4,Boddington,WA
+530,4,Lyndhurst,VIC
+717,4,Pakenham,VIC
+280,4,Douglas Park,NSW
+782,4,Pymble,NSW
+381,4,Grafton,NSW
+1059,4,West Perth,WA
+752,4,Pilbara,WA
+508,4,Lithgow,NSW
+623,4,Mount Waverley,VIC
+917,4,Spreyton,TAS
+651,4,Newtown,NSW
+131,4,Bundall,QLD
+504,4,Lindfield,NSW
+86,4,Blackburn North,VIC
+19,4,Albury,NSW
+355,4,Frankston,VIC
+405,4,Henderson,WA
+727,4,Parkville,VIC
+612,4,Moree,NSW
+24,4,Alice Springs,NT
+247,4,Darling Downs,QLD
+615,4,Mornington Peninsula,VIC
+827,4,Rosebery,NSW
+195,4,Christmas Creek,QLD
+1038,4,Warabrook,NSW
+423,4,Homebush,NSW
+436,4,Inner West,NSW
+690,4,Old Guildford,NSW
+299,4,Edinburgh,SA
+768,4,Port Macquarie,NSW
+743,4,Perth Central Business District,WA
+795,4,Ravensthorpe,WA
+463,4,Katoomba,NSW
+61,4,Barton,ACT
+1080,4,Williams Landing,VIC
+537,4,Maitland,NSW
+592,4,Milton,QLD
+292,4,East Perth,WA
+948,4,Streaky Bay,SA
+543,4,Mandurah,WA
+573,4,Melbourne South Eastern Suburbs,VIC
+68,4,Beaconsfield,TAS
+425,4,Hopetoun,WA
+188,4,Chichester,NSW
+257,4,Deakin,VIC
+259,4,Dee Why,NSW
+707,4,Osterley,TAS
+670,4,Northam,WA
+1001,4,Tullamarine,VIC
+44,4,Artarmon,NSW
+380,4,Goldfields,WA
+416,4,Hilton,SA
+946,4,Strathpine,QLD
+244,4,Dampier,WA
+772,4,Portland,VIC
+661,4,North Melbourne,VIC
+949,4,Success,WA
+484,4,Lane Cove West,NSW
+700,4,Orchard Hills,NSW
+130,4,Bunbury,WA
+1048,4,Waurn Ponds,VIC
+120,4,Broadway,NSW
+533,4,Macquarie University,NSW
+953,4,Sunshine Coast,QLD
+907,4,South Perth,WA
+361,4,Fullarton,SA
+769,4,Port Melbourne,VIC
+673,4,Northgate,QLD
+133,4,Burleigh Heads,QLD
+427,4,Horsham,VIC
+210,4,Coburg,VIC
+1069,4,Westmead,NSW
+180,4,Chatswood,NSW
+14,3,Akron,OH
+413,3,Hill AFB,UT
+852,3,San Francisco,CA
+91,3,Bloomington,IL
+802,3,Remote,Remote
+47,3,Atlanta,GA
+974,3,Texas City,TX
+358,3,Fremont,CA
+1073,3,Weston,FL
+104,3,Boulder,CO
+110,3,Brandon,FL
+100,3,Boston,MA
+1037,3,Waltham,MA
+23,3,Alexandria,VA
+912,3,Southington,CT
+881,3,Seattle,WA
+639,3,New York State,New York State
+440,3,Irving,TX
+158,3,Carlsbad,CA
+760,3,Pleasant Prairie,WI
+387,3,Greenville,TX
+565,3,McAlester,OK
+860,3,Sanford,FL
+1041,3,Washington,DC
+552,3,Marlborough,MA
+90,3,Bloomfield,NJ
+638,3,New York,NY
+1011,3,United States,United States
+868,3,Santa Monica,CA
+721,3,Palo Alto,CA
+74,3,Beeville,TX
+658,3,North East,MD
+327,3,Falls Church,VA
+863,3,Santa Clara,CA
+774,3,Post Falls,ID
+631,3,New Brunswick,NJ
+334,3,Fletcher,NC
+521,3,Los Angeles,CA
+799,3,Redmond,WA
+263,3,Delaware,OH
+281,3,Draper,UT
+172,3,Chapel Hill,NC
+1111,3,York,PA
+719,3,Palm Beach,FL
+319,3,Evanston,IL
+616,3,Morrisville,NC
+711,3,Overland Park,KS
+148,3,Cambridge,MA
+175,3,Charlestown,MA
+624,3,Mountain View,CA
+187,3,Chicago,IL
+849,3,San Diego,CA
+962,3,Tallahassee,FL
+952,3,Sunrise,FL
+448,3,Jefferson City,MO
+92,3,Bloomington,MN
+185,3,Chestertown,MD
+420,3,Hollywood,CA
+635,3,New Orleans,LA
+144,3,California,California
+541,3,Manassas,VA
+773,3,Portsmouth,NH
+796,3,Raymond,OH
+887,3,Shelton,CT
+828,3,Roseville,MN
+951,3,Sunnyvale,CA
+354,3,Franklin,TN
+193,3,Chippewa Falls,WI
+276,3,Dorado,PR
+197,3,Cincinnati,OH
+703,3,Orlando,FL
+547,3,Mansfield,PA
+702,3,Orem,UT
+77,3,Bellevue,WA
+854,3,San Jose,CA
+931,3,Stafford,TX
+813,3,Richmond,VA
+256,3,De Pere,WI
+800,3,Redwood City,CA
+1056,3,West Columbia,SC
+629,3,New Albany,OH
+57,3,Baltimore,MD
+748,3,Philadelphia,PA
+348,3,Fort Washington,PA
+681,3,Oak Brook,IL
+771,3,Portland,OR
+343,3,Fort Lauderdale,FL
+933,3,Stanford,CA
+763,3,Pompano Beach,FL
+833,3,Sacramento,CA
+911,3,Southfield,MI
+94,3,Boca Raton,FL
+336,3,Floresville,TX
+593,3,Milwaukee,WI
+786,3,Queens,NY
+558,3,Mason,OH
+322,3,Fairfax,VA
+846,3,Salt Lake City,UT
+929,3,St. Louis,MO
+963,3,Tampa,FL
+824,3,Rockville,MD
+434,3,Indianapolis,IN
+455,3,Junior,WV
+53,3,Austin,TX
+41,3,Arlington,VA
+797,3,Red Bank,NJ
+439,3,Irvine,CA
+65,3,Battle Creek,MI
+401,3,Harrisburg,PA
+539,3,Malvern,AR
+219,3,Columbus,OH
+744,3,Petaluma,CA
+369,3,Georgetown,TX
+706,3,Oshkosh,WI
+169,3,Chandler,AZ
+268,3,Detroit,MI
+1084,3,Wilmington,DE
+822,3,Rockland,MA
+241,3,Dallas,TX
+885,3,Shalimar,FL
+498,3,Lewiston,ME
+174,3,Charleston,SC
+132,3,Burbank,CA
+218,3,Columbia,MO
+693,3,Ontario,CA
+580,3,Miami,FL
+597,3,Miramar,FL
+266,3,Denver,CO
+3,3,Aberdeen Proving Ground,MD
+1086,3,Wilson,NC
+867,3,Santa Fe,NM
+534,3,Madison,WI
+819,3,Rochester,MI
+758,3,Plano,TX
+204,3,Clearlake,CA
+564,3,Mayport,FL
+137,3,Burlington,VT
+1049,3,Wayne,NJ
+125,3,Buffalo,NY
+792,3,Raleigh,NC
+43,3,Armonk,NY
+222,3,Concord,NC
+659,3,North Kansas City,MO
+988,3,Toledo,OH
+287,3,Durham,NC
+563,3,Mayfield Village,OH
+450,3,Johnston,IA
+1050,3,Webster,NY
+429,3,Houston,TX
+418,3,Hoboken,NJ
+642,3,Newark,NJ
+640,3,Newark,CA
+1040,3,Warren,MI
+510,3,Little Rock,AR
+858,3,Sandy,UT
+675,3,Norwell,MA
+39,3,Arizona,Arizona
+1083,3,Williston,VT
+749,3,Phoenix,AZ
+914,3,Spartanburg,SC
+740,3,Pensacola,FL
+481,3,Lakeland,FL
+862,3,Santa Barbara,CA
+714,3,Oxford,OH
+594,3,Minneapolis,MN
+386,3,Greensboro,NC
+34,3,Andover,MA
+834,3,Saint Albans,WV
+83,3,Bethesda,MD
+811,3,Richland,WA
+293,3,East Providence,RI
+168,3,Champaign,IL
+759,3,Plantation,FL
+349,3,Fort Worth,TX
+283,3,Dublin,OH
+1106,3,Yardley,PA
+723,3,Paoli,PA
+113,3,Breckenridge,CO
+983,3,Tinton Falls,NJ
+803,3,Rensselaer,NY
+973,3,Texas,Texas
+46,3,Asheville,NC
+329,3,Fayetteville,AR
+285,3,Duluth,GA
+466,3,King of Prussia,PA
+232,3,Costa Mesa,CA
+662,3,North Quincy,MA
+821,3,Rochester,NY
+314,3,Escondido,CA
+641,3,Newark,DE
+335,3,Flint,MI
+1055,3,West Chester,PA
+318,3,Euclid,OH
+680,3,Oahu Island,HI
+310,3,Enid,OK
+1036,3,Walnut Creek,CA
+487,3,Lansing,MI
+761,3,Pleasanton,CA
+829,3,Rosslyn,VA
+561,3,Mayfield,OH
+18,3,Albuquerque,NM
+627,3,Nashua,NH
+42,3,Arlington County,VA
+426,3,Horsham,PA
+347,3,Fort Walton Beach,FL
+121,3,Brookfield,CT
+444,3,Ithaca,NY
+1054,3,West Chester,OH
+865,3,Santa Clarita,CA
+33,3,Anchorage,AK
+1021,3,Venice,CA
+529,3,Lynchburg,VA
+261,3,Deerfield,IL
+628,3,Nashville,TN
+176,3,Charlotte,NC
+646,3,Newport Beach,CA
+544,3,Manhattan,NY
+1058,3,West Palm Beach,FL
+267,3,Des Moines,IA
+362,3,Gainesville,FL
+855,3,San Juan,PR
+406,3,Henrico,VA
+400,3,Hanover,NH
+451,3,Johnston,RI
+331,3,Ferdinand,IN
+804,3,Research Triangle Park,NC
+536,3,Maitland,FL
+216,3,Colorado Springs,CO
+620,3,Mount Pleasant,SC
+407,3,Herndon,VA
+905,3,South Jordan,UT
+575,3,Memphis,TN
+578,3,Mesa,AZ
+805,3,Reston,VA
+778,3,Princeton,NJ
+52,3,Austell,GA
+847,3,San Antonio,TX
+701,3,Oregon,Oregon
+826,3,Ronkonkoma,NY
+1067,3,Westlake,TX
+85,3,Birmingham,AL
+298,3,Eden Prairie,MN
+479,3,Lake Mary,FL
+1102,3,Woonsocket,RI
+890,3,Shrewsbury,MA
+932,3,Stamford,CT
+205,3,Clearwater,FL
+32,3,Anaheim,CA
+1101,3,Woodlawn,MD
+404,3,Henderson,NV
+1053,3,West Barnstable,MA
+856,3,San Mateo,CA
+567,3,McLean,VA
+657,3,North Carolina,North Carolina
+300,3,Edison,NJ
+621,3,Mount Pleasant,WI
+489,3,Las Vegas,NV
+27,3,Alpharetta,GA
+474,3,Knoxville,TN
+781,3,Provo,UT
+604,3,Monroe,WI
+150,3,Camden County,NJ
+151,3,Camp Smith,HI
+1063,3,Westborough,MA
+683,3,Oakbrook Terrace,IL
+16,3,Albany,NY
+1081,3,Williamsville,NY
+258,3,Dearborn,MI
+255,3,Daytona Beach,FL
+770,3,Portland,ME
+1025,3,Victor,NY
+570,3,Melbourne,FL
+36,3,Ann Arbor,MI
+338,3,Florida,Florida
+233,3,Cranbury,NJ
+189,3,Chico,CA
+908,3,South San Francisco,CA
+402,3,Hartford,CT
+790,3,Quincy,MA
+208,3,Cleveland,OH
+667,3,North Wales,PA
+312,3,Erie,PA
+507,3,Linthicum Heights,MD
+684,3,Oakland,CA
+704,3,Oroville,CA
+502,3,Libby,MT
+443,3,Italy,TX
+494,3,Lehi,UT
+938,3,Sterling,VA
+286,3,Duluth,MN
+269,3,Diamondhead,MS
+1029,3,Virginia,Virginia
+843,3,Salem,OR
+970,3,Tempe,AZ
+467,3,Kingsport,TN
+6,3,Ada,MI
+483,3,Lakewood,CO
+447,3,Jacksonville,FL
+177,3,Charlottesville,VA
+613,3,Morgan Hill,CA
+978,3,Thorndale,PA
+1044,3,Waterford,MI
+696,3,Orange,CA
+607,3,Montgomery,AL
+449,3,Jersey City,NJ
+559,3,Massachusetts,Massachusetts
+446,3,Jackson,WY
+171,3,Chantilly,VA
+1060,3,West Sacramento,CA
+114,3,Brentwood,TN
+525,3,Louisville,KY
+411,3,Highland,CA
+776,3,Prairie du Sac,WI
+1033,3,Waipahu,HI
+221,3,Commerce,GA
+1066,3,Westerville,OH
+217,3,Columbia,MD
+346,3,Fort Sam Houston,TX
+697,3,Orangeburg,SC
+408,3,Hershey,PA
+687,3,Ohio,Ohio
+146,3,California City,CA
+410,3,Hicksville,NY
+88,3,Blacksburg,VA
+499,3,Lewisville,TX
+422,3,Holyoke,MA
+359,3,Fresno,CA
+142,3,Caledonia,MI
+920,3,Springfield,MO
+825,3,Rome,GA
+1112,3,Yuma,AZ
+160,3,Cary,NC
+105,3,Bowie,MD
+686,3,Ocala,FL
+462,3,Kansas City,MO
+512,3,Livermore,CA
+51,3,Aurora,OH
+678,3,Novi,MI
+1088,3,Windsor,CT
+82,3,Berlin,MD
+630,3,New Bremen,OH
+98,3,Bondurant,IA
+277,3,Doral,FL
+480,3,Lake Mills,WI
+626,3,Naperville,IL
+477,3,La Vergne,TN
+605,3,Monsey,NY
+720,3,Palm Coast,FL
+476,3,La Mesa,NM
+913,3,Sparks,NV
+240,3,Dallas,OR
+230,3,Corona,CA
+441,3,Irwindale,CA
+789,3,Quincy,IL
+191,3,Chino Hills,CA
+527,3,Lowell,MI
+181,3,Chatsworth,CA
+738,3,Pembroke Pines,FL
+228,3,Coral Springs,FL
+577,3,Meridian,ID
+309,3,Englewood,CO
+838,3,Saint Paul,MN
+574,3,Melville,NY
+56,3,Bakersfield,CA
+614,3,Morgantown,WV
+853,3,San Francisco Bay Area,CA
+582,3,Miami Lakes,FL
+518,3,Long Island City,NY
+996,3,Trenton,NJ
+72,3,Bedford Heights,OH
+147,3,Camarillo,CA
+542,3,Manchester,NH
+724,3,Paramus,NJ
+325,3,Fairfield,OH
+351,3,Foster City,CA
+601,3,Missouri City,MO
+654,3,Norfolk,VA
+514,3,Livonia,MI
+608,3,Montgomery County,MD
+695,3,Opportunity,WA
+80,3,Bentonville,AR
+235,3,Creve Coeur,MO
+576,3,Menlo Park,CA
+985,3,Titusville,NJ
+1030,3,Virginia Beach,VA
+999,3,Tualatin,OR
+1096,3,Woodbridge,NJ
+389,3,Greenwood Village,CO
+316,3,Estero,FL
+919,3,Springfield,MA
+861,3,Santa Ana,CA
+332,3,Findlay,OH
+524,3,Louisville,CO
+353,3,Framingham,MA
+555,3,Maryland,Maryland
+993,3,Torrance,CA
+501,3,Lexington Park,MD
+848,3,San Carlos,CA
+470,3,Kirkland,WA
+102,3,Bothell,WA
+123,3,Brooklyn,NY
+333,3,Fishers,IN
+900,3,Somerville,MA
+866,3,Santa Cruz,CA
+688,3,Okemos,MI
+184,3,Chesterfield,MO
+224,3,Conshohocken,PA
+979,3,Thousand Oaks,CA
+337,3,Florham Park,NJ
+375,3,Glen Allen,VA
+633,3,New Haven,CT
+388,3,Greenwich,CT
+810,3,Richfield,MN
+864,3,Santa Clara Valley,CA
+373,3,Gilbert,AZ
+820,3,Rochester,MN
+1028,3,Vienna,VA
+28,3,Alto,WA
+1042,3,Washington State,Washington State
+513,3,Livingston,NJ
+260,3,Deer Park,TX
+50,3,Augusta,WV
+360,3,Frisco,TX
+997,3,Troy,MI
+1031,3,Vista,CA
+37,3,Annapolis Junction,MD
+682,3,Oak Ridge,TN
+569,3,Medford,MA
+503,3,Lincoln,NE
+892,3,Siloam Springs,AR
+212,3,College Park,MD
+236,3,Crystal City,VA
+602,3,Modesto,CA
+718,3,Palatine,IL
+556,3,Maryville,TN
+282,3,Dublin,CA
+162,3,Cedar Rapids,IA
+671,3,Northbrook,IL
+729,3,Parsippany,NJ
+237,3,Culver City,CA
+918,3,Spring,TX
+356,3,Frederick,MD
+5,3,Acton,MA
+330,3,Fayetteville,NC
+692,3,Omaha,NE
+265,3,Denton,TX
+415,3,Hillsboro,OR
+922,3,Springfield,VA
+341,3,Fort Belvoir,VA
+871,3,Saratoga Springs,NY
+345,3,Fort Meade,MD
+96,3,Boise,ID
+215,3,Colorado,Colorado
+516,3,Long Beach,CA
+971,3,Tennessee,Tennessee
+134,3,Burlingame,CA
+38,3,Appleton,WI
+1079,3,Wickliffe,OH
+488,3,Laramie,WY
+622,3,Mount Vernon,WA
+1075,3,Wheeling,WV
+809,3,Richardson,TX
+433,3,Indiana,Indiana
+395,3,Hagerstown,MD
+837,3,Saint Joseph,MO
+432,3,Illinois,Illinois
+421,3,Holmdel,NJ
+589,3,Milpitas,CA
+998,3,Trumbull,CT
+755,3,Pittsburgh,PA
+817,3,Riverwoods,IL
+245,3,Danbury,CT
+25,3,Aliso Viejo,CA
+876,3,Schaumburg,IL
+663,3,North Reading,MA
+394,3,Gwynn Oak,MD
+722,3,Panama City Beach,FL
+872,3,Sartell,MN
+364,3,Gallatin,TN
+850,3,San Dimas,CA
+238,3,Cupertino,CA
+1009,3,Uniontown,OH
+596,3,Minnetonka,MN
+30,3,American Fork,UT
+201,3,Clayton,MO
+548,3,Maplewood,MN
+115,3,Bridgewater,NJ
+1013,3,University Park,PA
+1016,3,Vancouver,WA
+739,3,Pennsylvania,Pennsylvania
+163,3,Centennial,CO
+976,3,The Woodlands,TX
+81,3,Berkeley,CA
+306,3,Ellicott City,MD
+45,3,Ashburn,VA
+262,3,Deerfield Beach,FL
+186,3,Chevy Chase,MD
+399,3,Hanover,MD
+870,3,Sarasota,FL
+851,3,San Fernando,CA
+1076,3,Whippany,NJ
+69,3,Beaverton,OR
+1052,3,Wellesley,MA
+689,3,Oklahoma City,OK
+445,3,Jackson,MI
+839,3,Saint Petersburg,FL
+62,3,Basking Ridge,NJ
+835,3,Saint Augustine,FL
+365,3,Galway,NY
+211,3,Cockeysville,MD
+619,3,Mount Laurel,NJ
+500,3,Lexington,MA
+1072,3,Weston,CT
+182,3,Cheektowaga,NY
+505,3,Lindon,UT
+581,3,Miami Beach,FL
+1010,3,United,WV
+251,3,Davenport,IA
+252,3,Davie,FL
+780,3,Prineville,OR
+1091,3,Winston-Salem,NC
+284,3,Dulles,VA
+231,3,Corvallis,OR
+830,3,Round Rock,TX
+634,3,New Jersey,New Jersey
+305,3,El Segundo,CA
+553,3,Marshall,TX
+89,3,Blasdell,NY
+882,3,Secaucus,NJ
+497,3,Lewes,DE
+595,3,Minneapolis,NC
+1004,3,Tysons,VA
+751,3,Pierre,SD
+304,3,El Paso,TX
+486,3,Lanham,MD
+730,3,Pasadena,CA
+93,3,Blue Ash,OH
+456,3,Jupiter,FL
+297,3,Eatontown,NJ
+1093,3,Wittmann,AZ
+816,3,Riverton,UT
+213,3,Collegeville,PA
+725,3,Pardeeville,WI
+995,3,Traverse City,MI
+691,3,Olive Branch,MS
+1045,3,Waterloo,IA
+226,3,Coppell,TX
+921,3,Springfield,PA
+736,3,Pella,IA
+632,3,New Castle,DE
+10,3,Agoura Hills,CA
+442,3,Issaquah,WA
+741,3,Peoria,IL
+1104,3,Wyoming,MN
+587,3,Midland,TX
+157,3,Cape Canaveral,FL
+307,3,Elmwood Park,NJ
+79,3,Belmont,CA
+242,3,Dallas-Fort Worth,TX
+328,3,Farmers Branch,TX
+647,3,Newport News,VA
+898,3,Skillman,NJ
+495,3,Lemont,IL
+320,3,Everett,WA
+566,3,McKinney,TX
+713,3,Owosso,MI
+321,3,Exton,PA
+540,3,Malvern,PA
+617,3,Moscow,ID
+583,3,Michigan,Michigan
+523,3,Los Lunas,NM
+653,3,Norcross,GA
+49,3,Augusta,GA
+352,3,Foxborough,MA
+424,3,Honolulu,HI
+511,3,Littleton,CO
+111,3,Branford,CT
+370,3,Georgia,Georgia
+879,3,Scottsdale,AZ
+568,3,Mechanicsville,VA
+880,3,Seal Beach,CA
+793,3,Raritan,NJ
+859,3,Sandy Springs,GA
+585,3,Midland,MI
+535,3,Mahwah,NJ
+611,3,Mooresville,NC
+308,3,Emeryville,CA
+756,3,Pittsfield,MA
+734,3,Pebble Beach,CA
+942,3,Stoughton,MA
+869,3,Santa Rosa,CA
+1002,3,Tustin,CA
+522,3,Los Gatos,CA
+229,3,Coraopolis,PA
+1007,3,Umatilla,OR
+11,3,Aiken,SC
+273,3,Dodgeville,WI
+323,3,Fairfax County,VA
+1094,3,Woburn,MA
+1012,3,Universal City,CA
+1108,3,Yonkers,NY
+943,3,Stratford,CT
+419,3,Hoffman Estates,IL
+562,3,Mayfield Heights,OH
+546,3,Mansfield,MA
+844,3,Salem,VA
+152,3,Campbell,CA
+203,3,Clearfield,UT
+167,3,Cerritos,CA
+1034,3,Wallops Island,VA
+716,3,Painted Post,NY
+609,3,Montreal,WI
+877,3,Schofield Barracks,HI
+173,3,Chapin,SC
+26,3,Allentown,PA
+732,3,Patuxent River,MD
+492,3,Leawood,KS
+991,3,Topeka,KS
+302,3,Egypt,AR
+1035,3,Walnut,CA
+1003,3,Tyler,TX
+1105,3,Yakima,WA
+599,3,Missoula,MT
+340,3,Folsom,CA
+15,3,Alameda,CA
+64,3,Baton Rouge,LA
+726,3,Park City,UT
+747,3,Pflugerville,TX
+430,3,Hunt Valley,MD
+243,3,Dalton,GA
+159,3,Carrollton,TX
+392,3,Groton,MA
+896,3,Sioux Falls,SD
+1039,3,Warminster,PA
+902,3,South Bend,IN
+382,3,Grand Rapids,MI
+296,3,Easton,NY
+78,3,Bellingham,WA
+106,3,Bowling Green,KY
+934,3,Starkey,VA
+753,3,Pipestone,MN
+1098,3,Woodinville,WA
+550,3,Markham,IL
+379,3,Golden,CO
+344,3,Fort Lee,NJ
+857,3,San Ramon,CA
+538,3,Malibu,CA
+650,3,Newtown,CT
+1051,3,Webster,TX
+775,3,Poway,CA
+1005,3,Tysons Corner,VA
+376,3,Glen Echo,MD
+676,3,Novato,CA
+517,3,Long Island,NY
+588,3,Midvale,UT
+1070,3,Westminster,CO
+239,3,Cypress,CA
+520,3,Los Altos,CA
+385,3,Greenbelt,MD
+225,3,Copley,OH
+145,3,California,MD
+122,3,Brookfield,WI
+818,3,Roanoke,VA
+207,3,Clemson,SC
+1092,3,Wisconsin,Wisconsin
+31,3,Ames,IA
+339,3,Foggy Bottom,DC
+289,3,East Lansing,MI
+1008,3,Union City,CA
+116,3,Brighton,MA
+294,3,East Setauket,NY
+600,3,Missouri,Missouri
+712,3,Owings Mills,MD
+643,3,Newburyport,MA
+135,3,Burlington,MA
+475,3,La Jolla,CA
+490,3,Laurel,MD
+779,3,Princeton Junction,NJ
+254,3,Dayton,OH
+452,3,Joliet,IL
+9,3,Adelphi,MD
+412,3,Highlands Ranch,CO
+1047,3,Watertown,MA
+891,3,Silicon Valley,CA
+1023,3,Vero Beach,FL
+1087,3,Winchester,MA
+526,3,Lowell,MA
+108,3,Boxborough,MA
+84,3,Billerica,MA
+342,3,Fort Collins,CO
+453,3,Jonesboro,AR
+40,3,Arkansas,Arkansas
+454,3,Julia,WV
+291,3,East Palo Alto,CA
+253,3,Davis,CA
+1099,3,Woodland Hills,CA
+363,3,Gaithersburg,MD
+66,3,Baytown,TX
+209,3,Clifton Park,NY
+916,3,Spokane,WA
+1064,3,Westbrook,ME
+1109,3,York,NY
+1085,3,Wilmington,MA
+649,3,Newton,MA
+1074,3,Wharton,NJ
+674,3,Northridge,CA
+1024,3,Verona,NY
+950,3,Sunkist,CA
+757,3,Plainsboro,NJ
+895,1,Singapore,Singapore
+457,1,Jurong,Singapore
+802,1,Remote,Remote
+710,1,Outram,Singapore
+126,1,Bugis,Singapore
+966,1,Tanjong Pagar,Singapore
+987,1,Toa Payoh,Singapore
+73,1,Bedok,Singapore
+165,1,Central Singapore,Singapore
+206,1,Clementi,Singapore
+1100,1,Woodlands,Singapore
+458,1,Jurong Island,Singapore
+509,1,Little India,Singapore
+459,1,Kallang,Singapore
+1000,1,Tuas,Singapore
+35,1,Ang Mo Kio,Singapore
+699,1,Orchard,Singapore
+731,1,Pasir Ris,Singapore
+372,1,Geylang,Singapore
+428,1,Hougang,Singapore
+954,1,Suntec,Singapore
+288,1,East Coast,Singapore
+129,1,Bukit Timah,Singapore
+531,1,MacPherson,Singapore
+549,1,Marina Bay,Singapore
+198,1,City Hall,Singapore
+788,1,Queenstown,Singapore
+128,1,Bukit Merah,Singapore
+1006,1,Ubi,Singapore
+984,1,Tiong Bahru Estate,Singapore
+194,1,Choa Chu Kang,Singapore
+677,1,Novena,Singapore
+170,1,Changi,Singapore
+883,1,Serangoon,Singapore
+1061,1,West Singapore,Singapore
+1107,1,Yishun,Singapore
+964,1,Tampines,Singapore
+669,1,North-East Singapore,Singapore
+965,1,Tanglin,Singapore
+791,1,Raffles,Singapore
+164,1,Central Business District,Singapore
+888,1,Shenton Way,Singapore

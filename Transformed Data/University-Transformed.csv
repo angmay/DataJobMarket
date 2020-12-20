@@ -2,708 +2,708 @@
 0,Harvard University,1,3,1,7,9,1,1,1,1,,5,100.0,2012
 1,Massachusetts Institute of Technology,2,3,2,9,17,3,12,4,4,,1,91.67,2012
 2,Stanford University,3,3,3,17,11,5,4,2,2,,15,89.5,2012
-4,California Institute of Technology,5,3,4,2,29,7,37,22,22,,18,85.21,2012
-5,Princeton University,6,3,5,8,14,2,53,33,26,,101,82.5,2012
-7,Yale University,8,3,6,14,31,12,14,6,15,,66,79.14,2012
-8,Columbia University,9,3,7,23,21,10,13,12,14,,5,78.86,2012
-9,"University of California, Berkeley",10,3,8,16,52,6,6,5,3,,16,78.55,2012
-10,University of Chicago,11,3,9,15,26,8,34,20,28,,101,73.82,2012
-11,Cornell University,12,3,10,21,42,14,22,21,16,,10,73.69,2012
-12,University of Pennsylvania,13,3,11,31,16,24,9,10,8,,9,73.64,2012
-14,Johns Hopkins University,15,3,12,34,77,20,11,9,9,,7,66.94,2012
-18,"University of California, Los Angeles",19,3,13,62,59,23,3,11,6,,13,64.05,2012
-19,"University of California, San Diego",20,3,14,61,101,15,10,8,10,,22,63.11,2012
-20,Rockefeller University,21,3,15,1,101,16,101,28,96,,101,61.74,2012
-22,New York University,23,3,16,89,75,17,42,24,34,,62,60.55,2012
-23,"University of California, San Francisco",24,3,17,101,101,21,19,3,13,,33,59.7,2012
-24,University of Wisconsin–Madison,25,3,18,64,63,33,17,30,21,,21,59.66,2012
-25,University of Illinois at Urbana–Champaign,26,3,19,82,101,18,35,71,39,,44,59.0,2012
-26,Duke University,27,3,20,65,43,55,20,15,12,,20,58.37,2012
-28,University of Texas Southwestern Medical Center,29,3,21,19,101,32,101,43,84,,101,56.43,2012
-29,University of Texas at Austin,30,3,22,101,78,27,41,47,40,,57,56.18,2012
-32,Northwestern University,33,3,23,101,32,101,24,25,20,,35,54.4,2012
-33,"University of Michigan, Ann Arbor",34,3,24,68,60,101,2,17,7,,8,53.72,2012
-34,University of Toronto,35,2,1,101,101,34,7,14,18,,101,53.43,2012
-35,University of North Carolina at Chapel Hill,36,3,25,101,86,56,31,29,31,,29,53.09,2012
-36,Washington University in St. Louis,37,3,26,74,62,101,32,18,30,,14,52.9,2012
-37,University of Utah,38,3,27,92,101,41,74,52,67,,12,52.64,2012
-38,University of Washington - Seattle,39,3,28,101,101,40,5,7,5,,101,52.25,2012
-39,"University of California, Santa Barbara",40,3,29,101,101,28,68,72,36,,101,52.15,2012
-40,McGill University,41,2,2,70,91,54,33,39,47,,101,51.72,2012
-41,"Purdue University, West Lafayette",42,3,30,95,70,49,61,101,58,,19,51.66,2012
-42,Carnegie Mellon University,43,3,31,30,81,26,101,101,61,,101,51.6,2012
-43,University of Southern California,44,3,32,101,101,63,46,48,32,,23,51.38,2012
-44,"University of California, Davis",45,3,33,79,101,92,23,40,25,,32,51.06,2012
-45,University of Colorado Boulder,46,3,34,83,88,48,71,54,56,,101,50.68,2012
-46,"University of California, Irvine",47,3,35,101,101,38,59,57,52,,65,50.64,2012
-48,"University of Minnesota, Twin Cities",49,3,36,101,101,85,18,31,17,,84,50.3,2012
-49,University of Arizona,50,3,37,101,101,88,45,42,45,,27,50.29,2012
-51,"Ohio State University, Columbus",52,3,38,101,101,83,30,50,35,,54,49.54,2012
-52,University of Rochester,53,3,39,41,54,101,82,68,54,,62,49.51,2012
-54,University of Florida,55,3,40,101,101,96,29,74,42,,2,48.8,2012
-56,Rice University,57,3,41,28,53,94,101,101,53,,101,48.76,2012
-57,Dartmouth College,58,3,42,27,13,101,101,101,101,,92,48.5,2012
-58,Vanderbilt University,59,3,43,80,72,101,50,35,49,,101,48.44,2012
-61,Boston University,62,3,44,101,101,86,48,34,37,,101,48.31,2012
-63,"Pennsylvania State University, University Park",64,3,45,101,94,101,38,60,27,,99,48.15,2012
-65,Brown University,66,3,46,49,37,65,101,73,92,,101,47.91,2012
-66,University of British Columbia,67,2,3,101,101,93,28,38,48,,101,47.74,2012
-67,"University of Maryland, College Park",68,3,47,85,101,50,47,55,41,,101,47.69,2012
-70,University of Pittsburgh - Pittsburgh Campus,71,3,48,81,101,101,21,32,24,,61,47.59,2012
-71,Rutgers University-New Brunswick,72,3,49,101,101,59,80,83,72,,85,47.5,2012
-72,"Texas A&M University, College Station",73,3,50,101,101,46,58,101,80,,101,47.31,2012
-77,Case Western Reserve University,78,3,51,33,101,101,96,63,65,,101,46.11,2012
-79,Arizona State University,80,3,52,101,101,70,101,101,77,,49,45.7,2012
-80,Emory University,81,3,53,101,97,101,54,37,50,,46,45.47,2012
-83,University of Virginia,84,3,54,101,50,101,76,62,57,,86,45.2,2012
-85,Tufts University,86,3,55,60,41,101,101,95,75,,101,44.91,2012
-86,Georgia Institute of Technology,87,3,56,101,67,101,79,101,46,,40,44.71,2012
-91,University of Queensland,92,4,1,101,101,101,67,90,89,,46,44.18,2012
-93,University of Sydney,94,4,2,101,101,101,56,92,85,,69,44.13,2012
-94,Williams College,95,3,57,18,15,101,101,101,101,,101,43.89,2012
-95,University of Texas MD Anderson Cancer Center,96,3,58,101,101,101,95,46,66,,100,43.88,2012
-100,Harvard University,1,3,1,1,1,1,1,1,1,,7,100.0,2013
-101,Stanford University,2,3,2,11,2,4,6,2,2,,11,93.94,2013
-103,Massachusetts Institute of Technology,4,3,3,2,16,2,16,3,3,,1,91.45,2013
-105,Columbia University,6,3,4,13,8,9,13,9,11,,10,88.21,2013
-106,"University of California, Berkeley",7,3,5,6,28,6,8,6,4,,19,85.07,2013
-107,Princeton University,8,3,6,4,14,3,58,35,27,,101,82.17,2013
-108,University of Chicago,9,3,7,9,19,8,37,21,30,,101,79.16,2013
-109,Yale University,10,3,8,10,25,13,20,12,22,,42,78.83,2013
-110,California Institute of Technology,11,3,9,5,101,7,38,24,25,,17,77.59,2013
-111,University of Pennsylvania,12,3,10,22,5,25,10,10,9,,14,77.24,2013
-112,Cornell University,13,3,11,12,23,18,21,19,15,,7,76.99,2013
-115,"University of California, Los Angeles",16,3,12,38,35,12,5,15,6,,12,67.84,2013
-116,Johns Hopkins University,17,3,13,23,96,21,4,5,7,,2,65.64,2013
-118,New York University,19,3,14,37,31,16,41,25,33,,51,63.99,2013
-119,"University of California, San Diego",20,3,15,33,101,19,15,14,14,,22,63.12,2013
-121,"University of California, San Francisco",22,3,16,101,101,22,23,4,18,,63,59.38,2013
-122,University of Wisconsin–Madison,23,3,17,31,55,33,19,29,20,,30,58.94,2013
-123,University of Illinois at Urbana–Champaign,24,3,18,65,101,20,33,66,34,,67,58.33,2013
-124,Duke University,25,3,19,89,42,46,22,17,17,,24,57.72,2013
-125,University of Texas at Austin,26,3,20,101,56,24,46,84,37,,20,57.71,2013
-127,Northwestern University,28,3,21,101,21,101,27,26,24,,30,56.12,2013
-128,University of Toronto,29,2,1,91,81,34,2,13,12,,101,56.11,2013
-130,University of Washington - Seattle,31,3,22,101,101,41,7,8,5,,51,55.79,2013
-131,"University of Michigan, Ann Arbor",32,3,23,35,27,101,3,18,8,,6,55.77,2013
-133,University of North Carolina at Chapel Hill,34,3,24,101,101,60,30,27,26,,42,52.87,2013
-136,"University of California, Santa Barbara",37,3,25,101,101,28,89,91,38,,101,51.67,2013
-137,"Purdue University, West Lafayette",38,3,26,95,39,52,71,101,65,,36,51.59,2013
-138,University of Southern California,39,3,27,101,99,56,56,52,36,,40,51.56,2013
-140,University of Colorado Boulder,41,3,28,82,84,38,75,68,54,,101,51.16,2013
-141,University of Utah,42,3,29,101,101,42,93,61,85,,27,51.14,2013
-142,Rutgers University-New Brunswick,43,3,30,101,101,48,43,58,45,,96,51.09,2013
-143,"University of Minnesota, Twin Cities",44,3,31,101,101,87,18,31,16,,67,50.98,2013
-145,University of Texas Southwestern Medical Center,46,3,32,46,101,29,101,28,82,,101,50.79,2013
-146,McGill University,47,2,2,54,62,59,34,42,48,,101,50.77,2013
-148,Rockefeller University,49,3,33,55,101,17,101,34,101,,101,50.43,2013
-149,"Pennsylvania State University, University Park",50,3,34,101,72,101,29,54,23,,67,49.84,2013
-150,Carnegie Mellon University,51,3,35,30,101,27,101,101,74,,101,49.56,2013
-151,"Ohio State University, Columbus",52,3,36,101,101,86,32,55,35,,60,49.41,2013
-152,"University of California, Davis",53,3,37,60,101,94,26,47,31,,90,49.16,2013
-153,Boston University,54,3,38,101,69,88,54,37,41,,100,48.96,2013
-154,University of Florida,55,3,39,101,101,98,35,92,42,,9,48.93,2013
-157,University of British Columbia,58,2,3,101,101,95,25,39,39,,100,48.51,2013
-158,"University of Maryland, College Park",59,3,40,79,101,53,49,77,40,,101,48.39,2013
-160,Vanderbilt University,61,3,41,101,101,101,53,40,60,,40,47.8,2013
-162,Washington University in St. Louis,63,3,42,101,101,101,36,20,32,,101,47.72,2013
-164,"University of California, Irvine",65,3,43,101,101,39,69,67,61,,101,47.52,2013
-168,University of Pittsburgh - Pittsburgh Campus,69,3,44,80,101,101,24,33,28,,44,47.08,2013
-170,University of Virginia,71,3,45,101,24,101,88,73,68,,63,46.92,2013
-172,Arizona State University,73,3,46,101,101,73,101,101,89,,20,46.72,2013
-175,University of Rochester,76,3,47,63,80,101,101,86,66,,51,46.44,2013
-176,Brown University,77,3,48,59,52,67,101,89,96,,101,46.43,2013
-177,University of Arizona,78,3,49,101,101,90,60,57,49,,101,46.39,2013
-179,"Texas A&M University, College Station",80,3,50,101,101,50,72,101,88,,101,46.17,2013
-181,Dartmouth College,82,3,51,45,20,101,101,101,101,,78,46.04,2013
-184,Indiana University - Bloomington,85,3,52,101,48,101,50,72,59,,101,45.71,2013
-186,National University of Singapore,87,1,1,101,101,101,44,101,50,,27,45.2,2013
-187,University of Texas MD Anderson Cancer Center,88,3,53,101,101,101,90,32,56,,101,45.12,2013
-188,Stony Brook University,89,3,54,101,101,68,101,101,98,,90,45.01,2013
-191,University of Sydney,92,4,1,101,101,101,61,101,101,,48,44.77,2013
-192,Emory University,93,3,55,101,101,101,66,41,53,,81,44.53,2013
-193,Rice University,94,3,56,51,101,97,101,101,64,,81,44.53,2013
-195,Australian National University,96,4,2,101,101,43,101,101,101,,101,44.5,2013
-196,University of Alberta,97,2,4,101,101,101,68,101,92,,81,44.5,2013
-199,Georgia Institute of Technology,100,3,57,101,85,101,97,101,43,,32,44.26,2013
-200,Harvard University,1,3,1,1,1,1,1,1,1,1.0,2,100.0,2014
-201,Stanford University,2,3,2,11,2,4,5,3,3,4.0,6,99.09,2014
-202,Massachusetts Institute of Technology,3,3,3,3,11,2,15,2,2,2.0,1,98.69,2014
-205,Columbia University,6,3,4,13,8,9,14,13,9,13.0,4,97.41,2014
-206,"University of California, Berkeley",7,3,5,4,22,6,7,4,3,7.0,28,92.84,2014
-207,University of Chicago,8,3,6,10,14,8,17,19,10,18.0,149,92.03,2014
-208,Princeton University,9,3,7,5,16,3,70,25,19,41.0,204,88.56,2014
-209,Yale University,10,3,8,9,25,11,18,7,32,19.0,45,88.11,2014
-210,Cornell University,11,3,9,12,18,19,23,15,23,23.0,12,85.8,2014
-211,California Institute of Technology,12,3,10,6,303,7,48,6,16,24.0,9,85.5,2014
-213,University of Pennsylvania,14,3,11,21,4,26,8,17,13,10.0,28,79.3,2014
-214,"University of California, Los Angeles",15,3,12,27,27,12,6,14,7,6.0,10,78.35,2014
-216,New York University,17,3,13,33,21,17,49,29,32,31.0,48,72.29,2014
-218,Johns Hopkins University,19,3,14,24,75,18,4,10,6,3.0,3,71.17,2014
-219,"University of California, San Diego",20,3,15,32,478,20,16,5,19,16.0,13,68.36,2014
-220,"University of Michigan, Ann Arbor",21,3,16,29,19,131,3,20,5,10.0,19,68.27,2014
-222,Northwestern University,23,3,17,151,13,105,28,32,25,27.0,61,66.18,2014
-224,University of Wisconsin–Madison,25,3,18,31,28,34,21,24,23,28.0,28,65.77,2014
-225,Duke University,26,3,19,65,30,49,22,23,13,15.0,42,63.56,2014
-226,"University of California, San Francisco",27,3,20,355,478,23,24,8,17,9.0,57,63.36,2014
-227,University of Illinois at Urbana–Champaign,28,3,21,34,80,21,36,45,38,68.0,64,62.89,2014
-228,University of Texas at Austin,29,3,22,92,39,24,51,54,26,74.0,45,62.57,2014
-230,University of Toronto,31,2,1,71,45,35,2,18,13,8.0,149,60.87,2014
-231,University of Washington - Seattle,32,3,23,89,107,46,9,11,8,5.0,54,60.28,2014
-232,Rutgers University-New Brunswick,33,3,24,91,33,31,52,47,38,51.0,54,60.0,2014
-236,Rockefeller University,37,3,25,72,478,14,347,26,107,62.0,227,59.49,2014
-240,University of Virginia,41,3,26,194,17,117,93,71,55,89.0,94,58.6,2014
-241,McGill University,42,2,2,45,32,60,35,59,34,32.0,204,58.39,2014
-243,Dartmouth College,44,3,27,46,15,210,246,164,125,132.0,74,58.0,2014
-244,University of North Carolina at Chapel Hill,45,3,28,179,86,61,32,37,22,22.0,38,57.51,2014
-245,"Pennsylvania State University, University Park",46,3,29,226,42,65,33,36,26,33.0,100,57.19,2014
-246,"Ohio State University, Columbus",47,3,30,93,65,81,30,52,30,37.0,38,57.01,2014
-248,"University of Minnesota, Twin Cities",49,3,31,61,159,83,19,38,29,29.0,68,56.13,2014
-250,University of Southern California,51,3,32,148,74,43,59,64,61,54.0,33,55.7,2014
-251,"Purdue University, West Lafayette",52,3,33,81,52,54,72,87,73,121.0,20,55.67,2014
-252,University of Pittsburgh - Pittsburgh Campus,53,3,34,76,195,210,25,58,21,24.0,64,55.67,2014
-253,Carnegie Mellon University,54,3,35,25,219,27,207,234,52,144.0,170,55.3,2014
-256,"University of California, Davis",57,3,36,47,192,90,29,31,38,50.0,68,55.18,2014
-257,Washington University in St. Louis,58,3,37,96,145,112,39,21,34,19.0,181,54.93,2014
-258,University of Florida,59,3,38,212,299,95,34,70,52,63.0,8,54.76,2014
-259,"University of California, Santa Barbara",60,3,39,124,252,28,105,53,48,56.0,68,54.76,2014
-260,University of British Columbia,61,2,3,85,298,92,26,34,36,41.0,78,54.75,2014
-261,University of Utah,62,3,40,88,91,45,99,62,114,94.0,22,54.67,2014
-262,University of Colorado Boulder,63,3,41,75,56,41,97,35,75,77.0,128,54.5,2014
-263,University of Notre Dame,64,3,42,197,20,150,241,230,159,238.0,307,54.25,2014
-265,University of Texas Southwestern Medical Center,66,3,43,50,478,29,127,30,81,34.0,181,54.07,2014
-266,Boston University,67,3,44,291,47,84,60,46,43,37.0,227,53.96,2014
-269,University of Arizona,70,3,45,99,62,87,67,33,37,46.0,307,53.77,2014
-270,Vanderbilt University,71,3,46,108,90,113,58,57,52,40.0,51,53.69,2014
-273,National University of Singapore,74,1,1,355,99,210,37,136,114,102.0,23,53.52,2014
-275,"University of Maryland, College Park",76,3,47,63,198,51,57,49,38,73.0,338,53.46,2014
-276,University of Rochester,77,3,48,60,50,116,112,104,69,70.0,76,53.06,2014
-277,Emory University,78,3,49,355,97,210,66,65,73,37.0,45,53.01,2014
-279,"University of California, Irvine",80,3,50,217,478,42,76,48,48,51.0,138,52.93,2014
-280,Brown University,81,3,51,56,46,67,123,66,55,97.0,170,52.92,2014
-282,Georgia Institute of Technology,83,3,52,123,77,210,104,154,79,101.0,24,52.74,2014
-283,Tufts University,84,3,53,68,43,178,164,148,79,81.0,84,52.71,2014
-294,University of Sydney,95,4,1,127,158,162,50,117,61,94.0,100,51.58,2014
-296,University of Melbourne,97,4,2,136,101,210,45,74,87,81.0,194,51.43,2014
-301,Case Western Reserve University,102,3,54,44,208,189,134,97,60,70.0,100,51.27,2014
-302,University of Alberta,103,2,4,163,144,148,61,105,81,99.0,84,51.23,2014
-303,University of Texas MD Anderson Cancer Center,104,3,55,355,478,136,92,76,61,30.0,78,51.19,2014
-304,"Texas A&M University, College Station",105,3,56,328,94,53,73,90,87,137.0,280,51.18,2014
-305,Arizona State University,106,3,57,355,478,72,141,79,69,145.0,34,51.14,2014
-307,Rice University,108,3,58,54,313,94,252,144,45,121.0,61,50.94,2014
-311,Michigan State University,112,3,59,112,214,210,85,115,45,106.0,128,50.69,2014
-312,Indiana University - Bloomington,113,3,60,211,38,175,166,769,176,195.0,204,50.53,2014
-314,University of Queensland,115,4,3,265,295,134,75,96,125,102.0,78,50.37,2014
-317,Georgetown University,118,3,61,146,37,210,295,323,310,211.0,159,50.28,2014
-320,Baylor College of Medicine,121,3,62,355,478,210,111,40,107,41.0,194,50.12,2014
-324,University of Iowa,125,3,63,223,184,163,103,81,87,110.0,115,49.95,2014
-325,Stony Brook University,126,3,64,170,478,68,161,73,69,118.0,100,49.92,2014
-332,University of Colorado Denver,133,3,65,355,478,131,140,118,150,61.0,78,49.79,2014
-333,University of Montreal,134,2,5,309,460,210,77,110,87,64.0,426,49.79,2014
-337,University of Miami,138,3,66,355,152,210,159,128,87,114.0,78,49.62,2014
-340,McMaster University,141,2,6,210,271,159,128,159,87,81.0,159,49.51,2014
-342,University of Texas at Dallas,143,3,67,355,244,210,219,100,61,44.0,307,49.47,2014
-344,Wake Forest University,145,3,68,242,59,210,251,236,150,126.0,128,49.46,2014
-347,Nanyang Technological University,148,1,2,355,478,210,110,387,220,251.0,26,49.35,2014
-348,University of New South Wales,149,4,4,172,114,210,100,194,99,164.0,138,49.29,2014
-351,Western University (The University of Western Ontario),152,2,7,355,49,210,154,198,250,176.0,426,49.18,2014
-355,Indiana University-Purdue University Indianapolis,156,3,69,355,424,210,195,351,134,121.0,57,49.08,2014
-359,Australian National University,160,4,5,186,377,47,137,95,187,196.0,426,48.96,2014
-361,University of Houston,162,3,70,355,40,210,315,291,493,355.0,89,48.91,2014
-362,"University of California, Santa Cruz",163,3,71,160,478,99,239,50,114,107.0,227,48.89,2014
-363,University of Alabama at Birmingham,164,3,72,355,478,210,139,114,134,74.0,194,48.88,2014
-364,Icahn School of Medicine at Mount Sinai,165,3,73,355,478,210,169,80,176,64.0,159,48.85,2014
-365,University of Calgary,166,2,8,355,89,210,147,171,114,132.0,737,48.84,2014
-369,Monash University,170,4,6,277,134,210,96,146,250,173.0,159,48.71,2014
-370,Southern Methodist University,171,3,74,157,34,210,632,677,406,628.0,737,48.69,2014
-371,Yeshiva University,172,3,75,174,478,210,188,85,159,94.0,138,48.67,2014
-372,University of South Florida - Tampa,173,3,76,355,284,210,242,263,159,164.0,51,48.65,2014
-374,Oregon Health & Science University,175,3,77,355,478,119,191,124,107,92.0,227,48.61,2014
-376,University of Cincinnati,177,3,78,305,132,210,145,166,159,129.0,204,48.6,2014
-379,George Washington University,180,3,79,176,53,210,312,229,187,203.0,307,48.48,2014
-381,Iowa State University,182,3,80,273,190,109,142,173,75,176.0,338,48.47,2014
-382,"University of Maryland, Baltimore",183,3,81,355,478,210,125,102,134,114.0,280,48.4,2014
-384,University of New Mexico,185,3,82,355,478,210,227,168,61,137.0,149,48.36,2014
-391,Wayne State University,192,3,83,355,186,210,187,258,125,155.0,181,48.07,2014
-392,University of Massachusetts Medical School,193,3,84,355,478,136,288,72,187,118.0,170,48.06,2014
-395,University of Missouri–Columbia,196,3,85,243,96,97,220,213,220,234.0,149,48.02,2014
-402,University of Kansas,203,3,86,216,83,210,209,161,159,234.0,194,47.82,2014
-406,University of Georgia,207,3,87,104,193,169,176,122,187,247.0,128,47.75,2014
-407,University of Massachusetts Amherst,208,3,88,199,118,154,194,190,159,201.0,373,47.74,2014
-411,University of Ottawa,212,2,9,355,287,210,185,191,159,141.0,481,47.69,2014
-415,Louisiana State University - Baton Rouge,216,3,89,256,179,210,162,179,159,176.0,481,47.67,2014
-417,University of Illinois at Chicago,218,3,90,355,416,210,131,189,220,185.0,170,47.63,2014
-419,University of Manitoba,220,2,10,149,84,150,257,297,220,249.0,227,47.56,2014
-421,"University of California, Riverside",222,3,91,228,478,210,199,98,134,169.0,259,47.53,2014
-424,University of Western Australia,225,4,7,145,397,140,165,214,283,176.0,373,47.47,2014
-425,Laval University,226,2,11,285,296,210,212,270,220,200.0,109,47.47,2014
-426,"University of Tennessee, Knoxville",227,3,92,300,117,210,192,177,134,224.0,481,47.45,2014
-427,North Carolina State University,228,3,93,245,194,210,151,202,159,238.0,181,47.43,2014
-432,University of Connecticut,233,3,94,282,402,210,160,187,200,185.0,204,47.35,2014
-433,Tulane University,234,3,95,298,92,210,363,298,283,215.0,194,47.34,2014
-434,University of Oklahoma - Norman Campus,235,3,96,355,124,210,238,223,176,203.0,307,47.33,2014
-435,Brandeis University,236,3,97,49,311,79,527,169,493,322.0,128,47.31,2014
-438,University of Texas Health Science Center at San Antonio,239,3,98,355,478,210,314,224,130,145.0,373,47.26,2014
-439,Virginia Commonwealth University,240,3,99,355,428,145,263,233,200,189.0,149,47.26,2014
-442,Rensselaer Polytechnic Institute,243,3,100,120,121,210,375,344,159,272.0,138,47.2,2014
-446,University of Delaware,247,3,101,297,386,126,265,305,250,277.0,76,47.16,2014
-454,Florida State University,255,3,102,355,288,210,201,180,134,220.0,338,46.98,2014
-455,University of Texas at San Antonio,256,3,103,355,478,210,410,334,125,180.0,227,46.95,2014
-457,Lehigh University,258,3,104,355,44,210,594,512,609,523.0,481,46.91,2014
-458,University of Kentucky,259,3,105,317,270,210,184,219,250,220.0,338,46.9,2014
-459,Thomas Jefferson University,260,3,106,134,478,210,331,302,200,180.0,373,46.89,2014
-460,Drexel University,261,3,107,355,262,210,366,322,220,266.0,89,46.89,2014
-461,Colorado State University - Fort Collins,262,3,108,203,478,143,234,201,250,211.0,259,46.88,2014
-464,Oregon State University,265,3,109,175,268,210,247,145,176,238.0,338,46.82,2014
-467,"University at Buffalo, The State University of New York",268,3,110,355,418,210,203,285,200,230.0,204,46.78,2014
-470,Virginia Polytechnic Institute and State University,271,3,111,270,185,210,196,267,200,281.0,227,46.72,2014
-473,University of Texas Health Science Center at Houston,274,3,112,355,478,150,267,175,220,215.0,373,46.64,2014
-476,Queen's University,277,2,12,301,172,210,253,273,220,281.0,204,46.59,2014
-479,University of Waterloo,280,2,13,355,125,210,205,352,283,306.0,637,46.58,2014
-483,Dalhousie University,284,2,14,355,153,210,289,251,250,272.0,338,46.52,2014
-492,Medical College of Wisconsin,293,3,113,355,478,210,338,279,220,203.0,737,46.42,2014
-493,City College of New York,294,3,114,35,236,210,677,444,406,569.0,373,46.41,2014
-495,"Washington State University, Pullman",296,3,115,355,267,122,293,221,310,295.0,170,46.4,2014
-497,University of South Carolina - Columbia,298,3,116,355,440,182,262,353,130,266.0,737,46.37,2014
-506,Wesleyan University,307,3,117,130,54,210,986,538,609,832.0,737,46.3,2014
-511,Medical University of South Carolina,312,3,118,355,478,210,322,357,310,224.0,552,46.25,2014
-517,Northeastern University,318,3,119,295,171,210,383,307,250,375.0,115,46.2,2014
-518,Kansas State University,319,3,120,116,165,210,348,313,220,346.0,259,46.2,2014
-519,University of Vermont,320,3,121,178,215,210,364,300,406,277.0,373,46.2,2014
-520,Rush University,321,3,122,355,478,210,424,412,150,247.0,737,46.18,2014
-521,University of Louisville,322,3,123,355,389,210,335,383,406,295.0,138,46.15,2014
-531,Boston College,332,3,124,355,95,210,548,380,200,386.0,338,46.06,2014
-534,University of Nebraska–Lincoln,335,3,125,154,256,210,272,246,250,337.0,426,46.02,2014
-539,University of Adelaide,340,4,8,201,400,210,244,254,283,313.0,737,45.97,2014
-545,University of Oregon,346,3,126,334,478,210,370,205,200,281.0,637,45.89,2014
-547,San Diego State University,348,3,127,240,187,210,480,290,200,341.0,481,45.88,2014
-550,University of Nebraska Medical Center,351,3,128,355,478,210,469,395,363,339.0,128,45.83,2014
-560,College of William and Mary,361,3,129,355,82,210,639,442,310,523.0,637,45.77,2014
-562,Saint Louis University,363,3,130,355,342,195,468,287,493,318.0,227,45.75,2014
-563,Colorado School of Mines,364,3,131,355,76,210,653,577,310,596.0,637,45.74,2014
-564,Oklahoma State University–Stillwater,365,3,132,221,111,210,427,623,310,472.0,307,45.74,2014
-565,University of Guelph,366,2,15,355,478,210,319,289,125,349.0,373,45.74,2014
-568,"University at Albany, SUNY",369,3,133,161,478,161,402,372,187,355.0,338,45.7,2014
-571,University of Alabama - Tuscaloosa,372,3,134,312,137,210,513,499,283,409.0,338,45.69,2014
-576,University of Victoria,377,2,16,355,478,210,320,337,363,313.0,737,45.66,2014
-578,University of Texas Medical Branch at Galveston,379,3,135,355,478,210,365,294,363,334.0,227,45.66,2014
-589,Temple University,390,3,136,262,478,210,341,378,493,355.0,194,45.59,2014
-592,Simon Fraser University,393,2,17,355,478,210,286,281,406,341.0,373,45.58,2014
-597,York University,398,2,18,355,164,210,397,396,250,409.0,737,45.55,2014
-600,University of Central Florida,401,3,137,355,468,210,388,391,493,380.0,149,45.55,2014
-603,University of New Hampshire,404,3,138,355,346,131,511,277,200,366.0,637,45.53,2014
-614,Brigham Young University,415,3,139,288,444,210,495,423,283,415.0,149,45.47,2014
-621,Concordia University,422,2,19,355,110,210,540,687,493,543.0,552,45.44,2014
-622,Georgia Regents University,423,3,140,355,478,210,579,471,310,334.0,737,45.43,2014
-633,George Mason University,434,3,141,355,478,97,449,374,283,415.0,637,45.4,2014
-638,West Virginia University,439,3,142,314,180,210,441,419,406,430.0,637,45.39,2014
-640,University of Mississippi - Oxford Campus,441,3,143,355,478,210,384,478,220,361.0,552,45.38,2014
-641,University of Arkansas for Medical Sciences,442,3,144,355,478,210,488,542,609,349.0,280,45.37,2014
-642,Miami University,443,3,145,355,104,210,712,501,406,642.0,737,45.37,2014
-645,Loyola University Chicago,446,3,146,355,350,210,538,414,609,349.0,737,45.36,2014
-647,Syracuse University,448,3,147,129,249,210,459,479,310,488.0,338,45.34,2014
-659,"University of Nevada, Reno",460,3,148,355,347,210,516,325,250,380.0,637,45.26,2014
-663,Ohio University,464,3,149,196,176,210,568,474,493,554.0,280,45.25,2014
-666,New Mexico State University,467,3,150,355,369,210,677,630,200,386.0,737,45.23,2014
-668,University of Hawaii at Manoa,469,3,151,355,379,148,451,211,363,452.0,373,45.22,2014
-669,University of Nebraska Omaha,470,3,152,355,349,210,643,521,406,372.0,737,45.22,2014
-672,Baylor University,473,3,153,355,351,210,578,566,220,395.0,637,45.21,2014
-676,University of Arkansas - Fayetteville,477,3,154,189,260,210,506,513,310,482.0,373,45.2,2014
-679,Texas Tech University (TTU),480,3,155,355,277,210,392,508,250,460.0,552,45.19,2014
-681,University of Akron,482,3,156,355,421,210,637,660,609,596.0,121,45.18,2014
-682,University of Saskatchewan,483,2,20,320,380,210,337,427,310,442.0,373,45.18,2014
-684,University of Wyoming,485,3,157,355,224,210,531,327,363,472.0,426,45.18,2014
-685,Macquarie University,486,4,9,355,452,210,416,292,283,409.0,552,45.18,2014
-687,University of Denver,488,3,158,283,141,210,906,487,493,628.0,552,45.16,2014
-688,Illinois Institute of Technology,489,3,159,251,123,210,767,718,800,716.0,737,45.15,2014
-689,Creighton University,490,3,160,355,478,210,792,618,250,375.0,637,45.15,2014
-703,Mississippi State University,504,3,161,141,157,210,580,617,609,739.0,481,45.11,2014
-704,"University of Maryland, Baltimore County",505,3,162,355,478,210,554,377,363,402.0,373,45.1,2014
-705,University of Wollongong,506,4,10,355,274,210,445,460,609,488.0,338,45.1,2014
-706,Flinders University,507,4,11,82,478,210,551,573,609,605.0,637,45.1,2014
-709,Clemson University,510,3,163,355,478,210,424,470,493,402.0,737,45.09,2014
-711,Georgia State University,512,3,164,355,434,210,465,504,363,437.0,426,45.07,2014
-716,University of Sherbrooke,517,2,21,355,478,210,446,437,406,415.0,637,45.05,2014
-720,New York Medical College,521,3,165,355,478,210,726,594,493,402.0,481,45.04,2014
-721,SUNY Downstate Medical Center,522,3,166,355,478,150,736,411,609,442.0,737,45.03,2014
-723,Utah State University,524,3,167,156,419,210,553,473,363,531.0,307,45.03,2014
-736,University of Wisconsin–Milwaukee,537,3,168,218,273,210,537,491,406,536.0,737,44.99,2014
-737,University of Dayton,538,3,169,335,140,210,991,796,609,783.0,552,44.99,2014
-739,Montana State University - Bozeman,540,3,170,355,344,210,557,354,363,472.0,637,44.98,2014
-745,University of Newcastle,546,4,12,355,478,210,434,475,609,442.0,637,44.97,2014
-747,Auburn University,548,3,171,355,261,210,463,585,310,585.0,373,44.96,2014
-758,University of Missouri–Kansas City,559,3,172,286,357,210,638,430,800,488.0,552,44.93,2014
-771,James Cook University,572,4,13,355,478,210,510,238,363,488.0,552,44.9,2014
-785,Kent State University,586,3,173,355,478,210,616,431,363,496.0,481,44.85,2014
-789,LSU Health Sciences Center New Orleans,590,3,174,355,478,210,796,549,609,482.0,552,44.84,2014
-790,Southern Illinois University Carbondale,591,3,175,191,478,210,571,518,800,531.0,552,44.83,2014
-795,Northern Illinois University,596,3,176,355,259,210,671,602,363,642.0,481,44.82,2014
-803,University of Montana - Missoula,604,3,177,341,478,210,699,320,493,504.0,552,44.81,2014
-804,Queensland University of Technology,605,4,14,355,478,210,457,733,493,523.0,552,44.81,2014
-805,Binghamton University,606,3,178,355,229,210,731,610,800,675.0,737,44.8,2014
-807,University of Tasmania,608,4,15,355,478,210,461,278,609,531.0,737,44.8,2014
-811,Curtin University,612,4,16,355,478,210,462,389,406,543.0,426,44.79,2014
-812,Deakin University,613,4,17,355,459,210,556,678,609,536.0,637,44.79,2014
-815,University of New Orleans,616,3,179,355,478,210,907,806,493,504.0,737,44.78,2014
-820,University of Alaska Fairbanks,621,3,180,355,478,210,608,339,609,523.0,737,44.77,2014
-822,Albany Medical College,623,3,181,142,478,210,993,753,609,605.0,737,44.76,2014
-824,Griffith University,625,4,18,355,478,210,470,543,493,569.0,373,44.76,2014
-826,Carleton University,627,2,22,355,478,210,496,742,310,554.0,737,44.75,2014
-832,Texas A&M Health Science Center,633,3,182,355,478,210,664,445,493,543.0,426,44.74,2014
-835,La Trobe University,636,4,19,355,439,210,559,446,800,585.0,737,44.73,2014
-836,Missouri University of Science and Technology,637,3,183,355,204,210,696,866,493,819.0,737,44.73,2014
-837,University of Idaho,638,3,184,355,478,210,640,399,406,569.0,373,44.73,2014
-838,Louisiana Tech University,639,3,185,355,213,210,931,864,406,769.0,737,44.73,2014
-841,Florida International University,642,3,186,355,478,210,502,484,363,569.0,637,44.73,2014
-843,Howard University,644,3,187,269,478,210,943,599,406,703.0,204,44.72,2014
-845,State University of New York Upstate Medical University,646,3,188,355,478,210,748,593,406,543.0,552,44.72,2014
-848,University of Windsor,649,2,23,355,239,210,758,910,800,756.0,481,44.72,2014
-856,Memorial University of Newfoundland,657,2,24,355,478,210,563,596,800,554.0,737,44.7,2014
-858,University of Rhode Island,659,3,189,355,353,210,649,373,406,628.0,737,44.7,2014
-860,New Jersey Institute of Technology,661,3,190,235,326,210,745,654,800,703.0,426,44.69,2014
-864,Rochester Institute of Technology,665,3,191,355,366,210,936,613,310,675.0,373,44.69,2014
-869,Portland State University,670,3,192,355,272,210,784,540,800,739.0,481,44.68,2014
-870,University of Québec at Montreal,671,2,25,355,457,210,534,546,406,628.0,737,44.68,2014
-873,Loma Linda University,674,3,193,355,478,210,820,759,609,554.0,737,44.68,2014
-874,Old Dominion University,675,3,194,355,478,210,717,622,406,596.0,426,44.68,2014
-876,"University of Nevada, Las Vegas",677,3,195,355,412,210,619,457,800,628.0,737,44.67,2014
-880,University of Texas at Arlington,681,3,196,355,478,210,494,514,493,605.0,637,44.67,2014
-885,"Rutgers, The State University of New Jersey - Newark",686,3,197,355,478,210,855,498,609,569.0,737,44.66,2014
-890,University of Toledo,691,3,198,355,478,210,625,553,800,618.0,373,44.66,2014
-901,"University of Maine, Orono",702,3,199,329,478,210,756,422,406,642.0,373,44.64,2014
-903,Marquette University,704,3,200,355,216,210,909,791,800,869.0,737,44.64,2014
-915,University of Memphis,716,3,201,355,390,210,782,592,609,724.0,338,44.62,2014
-916,San Francisco State University,717,3,202,258,478,210,876,496,800,628.0,737,44.62,2014
-917,East Carolina University,718,3,203,355,411,210,686,676,800,690.0,481,44.62,2014
-919,University of Missouri–St. Louis,720,3,204,355,361,210,883,522,406,703.0,552,44.62,2014
-922,University of South Australia,723,4,20,355,280,210,663,795,800,819.0,426,44.62,2014
-926,University of North Carolina at Charlotte,727,3,205,355,264,210,749,671,493,832.0,637,44.61,2014
-932,University of Alabama in Huntsville,733,3,206,355,478,210,886,443,800,618.0,737,44.6,2014
-935,Hunter College,736,3,207,247,383,210,825,606,800,739.0,737,44.6,2014
-936,Swinburne University of Technology,737,4,21,355,478,210,658,447,493,642.0,737,44.6,2014
-945,North Dakota State University - Main Campus,746,3,208,155,478,210,692,772,800,769.0,737,44.59,2014
-946,"University of North Texas, Denton",747,3,209,355,478,210,683,658,609,675.0,426,44.59,2014
-947,University of Mississippi Medical Center,748,3,210,355,478,210,791,571,493,642.0,737,44.58,2014
-952,The Catholic University of America,753,3,211,355,314,210,949,560,406,756.0,552,44.58,2014
-965,Clarkson University,766,3,212,355,305,210,943,966,800,769.0,552,44.57,2014
-966,University of South Alabama,767,3,213,355,478,210,966,739,800,724.0,307,44.56,2014
-982,Northern Arizona University,783,3,214,355,478,210,934,416,609,690.0,552,44.55,2014
-983,École Polytechnique de Montréal,784,2,26,355,478,210,679,907,800,724.0,373,44.55,2014
-992,Bowling Green State University,793,3,215,355,365,210,907,653,609,756.0,737,44.54,2014
-995,Michigan Technological University,796,3,216,323,478,210,779,768,406,724.0,481,44.53,2014
-1000,Wilfrid Laurier University,801,2,27,355,240,210,987,920,800,948.0,737,44.53,2014
-1012,University of Massachusetts Lowell,813,3,217,355,478,210,926,928,406,874.0,227,44.51,2014
-1022,Wright State University - Dayton,823,3,218,355,478,210,794,845,800,739.0,737,44.49,2014
-1026,University of Regina,827,2,28,355,478,210,889,740,609,800.0,338,44.48,2014
-1030,University of New Brunswick,831,2,29,355,329,210,719,784,800,874.0,552,44.47,2014
-1034,"Queens College, City University of New York",835,3,219,303,368,210,992,669,800,869.0,637,44.46,2014
-1035,Murdoch University,836,4,22,355,478,210,812,492,800,756.0,737,44.46,2014
-1043,University of Texas at El Paso,844,3,220,355,391,210,897,817,609,849.0,737,44.45,2014
-1046,University of Massachusetts Boston,847,3,221,355,478,210,864,704,406,783.0,737,44.45,2014
-1052,Florida Institute of Technology,853,3,222,355,478,210,959,699,363,800.0,737,44.44,2014
-1053,Trent University,854,2,30,355,478,210,912,829,493,783.0,637,44.44,2014
-1058,RMIT University,859,4,23,355,478,210,690,959,800,800.0,637,44.44,2014
-1063,Oakland University,864,3,223,355,478,210,883,842,800,783.0,737,44.44,2014
-1065,"University of Technology, Sydney",866,4,24,355,478,210,613,696,493,849.0,426,44.43,2014
-1066,University of North Carolina at Greensboro,867,3,224,355,478,210,936,849,609,800.0,552,44.43,2014
-1073,University of North Dakota,874,3,225,355,478,210,935,647,800,832.0,426,44.43,2014
-1081,Florida Atlantic University,882,3,226,355,478,210,848,701,800,819.0,737,44.42,2014
-1083,Brock University,884,2,31,355,478,210,899,746,609,832.0,552,44.41,2014
-1105,University of Western Sydney,906,4,25,355,478,210,693,591,609,869.0,737,44.39,2014
-1109,Charles Darwin University,910,4,26,355,478,210,911,694,609,849.0,737,44.38,2014
-1112,University of Southern Mississippi,913,3,227,355,478,210,903,840,800,849.0,737,44.38,2014
-1122,"University of California, Merced",923,3,228,355,478,210,957,576,800,923.0,338,44.37,2014
-1138,University of New England (Australia),939,4,27,355,478,210,916,552,493,909.0,637,44.34,2014
-1168,Western Michigan University,969,3,229,355,478,210,962,815,800,937.0,737,44.3,2014
-1171,Ryerson University,972,2,32,355,478,210,813,966,609,956.0,637,44.3,2014
-1200,Harvard University,1,3,1,1,1,1,1,1,1,1.0,3,100.0,2015
-1201,Stanford University,2,3,2,9,2,4,5,3,3,4.0,10,98.66,2015
-1202,Massachusetts Institute of Technology,3,3,3,3,11,2,15,2,2,2.0,1,97.54,2015
-1205,Columbia University,6,3,4,13,6,9,13,13,11,12.0,4,96.14,2015
-1206,"University of California, Berkeley",7,3,5,5,21,6,10,4,4,7.0,29,92.25,2015
-1207,University of Chicago,8,3,6,11,14,8,17,16,12,22.0,141,90.7,2015
-1208,Princeton University,9,3,7,4,15,3,72,25,24,33.0,225,89.42,2015
-1209,Cornell University,10,3,8,12,18,14,24,15,25,22.0,11,86.79,2015
-1210,Yale University,11,3,9,10,26,11,18,8,35,20.0,49,86.61,2015
-1211,California Institute of Technology,12,3,10,6,328,7,53,9,19,25.0,13,84.4,2015
-1213,University of Pennsylvania,14,3,11,20,4,28,8,18,14,9.0,14,77.6,2015
-1214,"University of California, Los Angeles",15,3,12,28,27,13,6,14,8,6.0,9,76.91,2015
-1215,Johns Hopkins University,16,3,13,18,84,16,4,11,5,3.0,2,71.6,2015
-1217,New York University,18,3,14,32,22,18,47,29,46,32.0,43,68.39,2015
-1218,"University of Michigan, Ann Arbor",19,3,15,24,17,140,3,20,6,14.0,12,68.36,2015
-1220,"University of California, San Diego",21,3,16,36,567,19,16,5,15,15.0,17,66.59,2015
-1221,Northwestern University,22,3,17,163,12,104,27,34,27,26.0,42,66.56,2015
-1224,University of Wisconsin–Madison,25,3,18,29,29,34,21,24,22,27.0,27,64.51,2015
-1225,"University of California, San Francisco",26,3,19,367,567,20,22,7,15,11.0,56,63.69,2015
-1227,Duke University,28,3,20,74,31,56,19,23,15,16.0,33,61.55,2015
-1228,Rockefeller University,29,3,21,49,567,12,372,28,115,70.0,289,61.28,2015
-1229,University of Texas at Austin,30,3,22,75,36,25,48,50,26,71.0,38,61.14,2015
-1230,University of Washington - Seattle,31,3,23,48,103,41,9,10,10,5.0,40,60.61,2015
-1231,University of Toronto,32,2,1,70,51,32,2,17,9,8.0,145,60.04,2015
-1232,University of Illinois at Urbana–Champaign,33,3,24,33,75,21,40,48,42,74.0,65,59.94,2015
-1239,University of North Carolina at Chapel Hill,40,3,25,124,69,86,32,32,19,21.0,41,57.09,2015
-1240,University of Virginia,41,3,26,209,20,126,94,74,88,90.0,97,56.73,2015
-1241,McGill University,42,2,2,34,37,75,33,53,44,34.0,132,56.49,2015
-1242,"Purdue University, West Lafayette",43,3,27,55,33,47,75,95,68,117.0,28,56.39,2015
-1243,Dartmouth College,44,3,28,40,19,218,246,167,136,154.0,63,56.35,2015
-1245,University of Pittsburgh - Pittsburgh Campus,46,3,29,79,169,218,25,57,21,24.0,50,55.63,2015
-1246,"Pennsylvania State University, University Park",47,3,30,230,44,62,49,43,28,38.0,92,55.54,2015
-1247,"University of Minnesota, Twin Cities",48,3,31,63,130,63,23,40,31,28.0,59,55.51,2015
-1248,"Ohio State University, Columbus",49,3,32,96,87,82,28,52,31,38.0,44,55.39,2015
-1249,Rutgers University-New Brunswick,50,3,33,91,40,37,100,66,46,89.0,61,55.23,2015
-1250,University of Southern California,51,3,34,152,62,39,57,64,101,56.0,34,55.12,2015
-1251,Washington University in St. Louis,52,3,35,101,96,71,41,21,29,17.0,169,55.03,2015
-1252,"University of California, Davis",53,3,36,54,227,59,29,33,35,52.0,62,54.85,2015
-1253,University of Colorado Boulder,54,3,37,80,67,31,96,38,45,74.0,133,54.62,2015
-1259,University of Florida,60,3,38,214,276,96,37,73,46,59.0,5,54.18,2015
-1260,Carnegie Mellon University,61,3,39,25,160,23,211,225,78,150.0,165,54.0,2015
-1261,University of British Columbia,62,2,3,81,275,93,26,36,37,34.0,81,53.92,2015
-1263,"University of California, Santa Barbara",64,3,40,133,280,29,111,59,46,55.0,77,53.63,2015
-1264,National University of Singapore,65,1,1,367,98,218,34,125,78,90.0,25,53.44,2015
-1265,Boston University,66,3,41,303,54,83,60,45,37,34.0,135,53.43,2015
-1267,University of Arizona,68,3,42,139,55,87,74,39,31,49.0,235,53.26,2015
-1268,Vanderbilt University,69,3,43,87,94,110,55,62,59,41.0,51,53.05,2015
-1269,University of Utah,70,3,44,97,105,67,97,65,101,90.0,19,52.89,2015
-1271,"University of Maryland, College Park",72,3,45,68,210,43,58,47,39,67.0,280,52.72,2015
-1274,University of Texas Southwestern Medical Center,75,3,46,59,567,35,131,30,78,40.0,173,52.5,2015
-1276,University of Notre Dame,77,3,47,221,24,155,242,242,182,235.0,352,52.27,2015
-1279,Georgia Institute of Technology,80,3,48,135,60,218,107,152,78,106.0,36,52.08,2015
-1280,University of Rochester,81,3,49,72,53,113,114,118,68,79.0,64,52.03,2015
-1282,Brown University,83,3,50,64,43,73,121,67,76,99.0,200,52.01,2015
-1283,Emory University,84,3,51,367,146,116,67,60,93,41.0,55,51.85,2015
-1287,University of Sydney,88,4,1,105,198,166,45,103,46,84.0,75,51.61,2015
-1288,"University of California, Irvine",89,3,52,227,567,44,78,51,68,54.0,162,51.51,2015
-1289,University of Texas MD Anderson Cancer Center,90,3,53,367,567,80,93,72,42,29.0,71,51.51,2015
-1292,University of Melbourne,93,4,2,141,113,218,42,68,53,71.0,223,51.34,2015
-1294,Tufts University,95,3,54,60,48,182,166,160,93,85.0,84,51.22,2015
-1296,Arizona State University,97,3,55,367,455,66,143,85,76,140.0,21,51.13,2015
-1301,"Texas A&M University, College Station",102,3,56,339,108,46,77,98,88,143.0,201,50.43,2015
-1302,University of Queensland,103,4,3,269,292,142,65,78,101,99.0,68,50.4,2015
-1304,Case Western Reserve University,105,3,57,50,215,195,137,106,59,74.0,111,50.28,2015
-1305,Indiana University - Bloomington,106,3,58,134,35,178,180,143,161,190.0,178,50.26,2015
-1306,University of Alberta,107,2,4,169,151,153,62,109,82,103.0,116,50.25,2015
-1312,Georgetown University,113,3,59,159,34,218,298,321,321,204.0,122,49.92,2015
-1317,Michigan State University,118,3,60,112,162,218,88,123,65,111.0,136,49.74,2015
-1319,Rice University,120,3,61,52,161,95,255,150,59,130.0,76,49.73,2015
-1320,Baylor College of Medicine,121,3,62,367,567,218,113,41,101,44.0,199,49.7,2015
-1326,University of Colorado Denver,127,3,63,367,567,140,135,110,128,66.0,72,49.48,2015
-1329,University of New South Wales,130,4,4,177,70,218,90,177,101,164.0,157,49.33,2015
-1332,Western University (The University of Western Ontario),133,2,5,367,41,218,149,208,234,190.0,261,49.31,2015
-1334,Nanyang Technological University,135,1,2,367,567,218,102,361,212,204.0,32,49.29,2015
-1336,University of Miami,137,3,64,367,241,218,159,130,82,112.0,73,49.09,2015
-1337,Stony Brook University,138,3,65,186,567,58,173,84,93,134.0,96,49.09,2015
-1338,University of Texas at Dallas,139,3,66,367,159,218,250,151,59,49.0,313,49.05,2015
-1340,University of Iowa,141,3,67,233,296,167,103,83,115,112.0,121,49.01,2015
-1341,Southern Methodist University,142,3,68,179,28,218,624,655,368,646.0,824,48.99,2015
-1342,Icahn School of Medicine at Mount Sinai,143,3,69,367,567,218,160,71,161,63.0,101,48.96,2015
-1344,Monash University,145,4,5,277,145,218,86,136,182,161.0,99,48.91,2015
-1345,University of Alabama at Birmingham,146,3,70,367,567,218,141,124,128,71.0,130,48.79,2015
-1349,McMaster University,150,2,6,222,268,163,127,156,101,87.0,222,48.74,2015
-1350,University of Montreal,151,2,7,320,376,218,101,111,101,90.0,540,48.72,2015
-1353,"University of California, Santa Cruz",154,3,71,175,567,100,243,49,115,99.0,183,48.59,2015
-1356,University of Cincinnati,157,3,72,188,86,218,150,171,128,127.0,263,48.56,2015
-1358,Wake Forest University,159,3,73,265,83,218,249,244,128,125.0,124,48.52,2015
-1363,Indiana University-Purdue University Indianapolis,164,3,74,367,492,218,187,190,125,122.0,79,48.28,2015
-1365,Oregon Health & Science University,166,3,75,367,567,128,184,115,125,105.0,144,48.23,2015
-1366,University of Calgary,167,2,8,367,123,218,145,180,101,127.0,778,48.23,2015
-1370,Yeshiva University,171,3,76,200,567,218,195,91,161,109.0,128,48.11,2015
-1374,"University of Maryland, Baltimore",175,3,77,367,567,218,125,112,197,116.0,180,48.05,2015
-1378,Australian National University,179,4,6,196,379,52,130,99,197,188.0,415,47.97,2015
-1380,University of New Mexico,181,3,78,367,567,218,223,170,82,147.0,100,47.95,2015
-1382,University of Massachusetts Medical School,183,3,79,367,567,80,296,76,234,122.0,143,47.85,2015
-1383,University of Houston,184,3,80,367,42,218,310,257,511,349.0,156,47.83,2015
-1386,Iowa State University,187,3,81,286,186,109,151,178,82,184.0,339,47.71,2015
-1388,Wayne State University,189,3,82,367,183,218,189,258,125,176.0,117,47.67,2015
-1389,University of South Florida - Tampa,190,3,83,367,418,218,233,251,197,164.0,70,47.66,2015
-1392,University of Ottawa,193,2,9,223,163,218,171,194,212,134.0,496,47.6,2015
-1393,University of Missouri–Columbia,194,3,84,250,88,98,222,226,161,242.0,150,47.59,2015
-1395,University of Kansas,196,3,85,228,91,218,212,161,161,235.0,127,47.52,2015
-1397,University of Georgia,198,3,86,93,188,172,181,132,234,256.0,82,47.5,2015
-1401,George Washington University,202,3,87,192,56,218,301,227,264,235.0,326,47.46,2015
-1402,University of Illinois at Chicago,203,3,88,367,541,218,126,196,287,179.0,129,47.39,2015
-1413,"University of California, Riverside",214,3,89,247,567,218,209,113,161,169.0,194,47.13,2015
-1415,University of Western Australia,216,4,7,156,306,145,146,181,368,179.0,399,47.1,2015
-1417,University of Connecticut,218,3,90,296,259,218,168,193,197,190.0,186,47.06,2015
-1418,University of Massachusetts Amherst,219,3,91,212,141,159,198,191,212,200.0,356,47.05,2015
-1421,University of Manitoba,222,2,10,157,93,155,261,308,212,256.0,175,47.04,2015
-1426,"University of Tennessee, Knoxville",227,3,92,319,117,218,196,187,197,219.0,449,46.96,2015
-1428,Laval University,229,2,11,292,273,218,207,270,182,200.0,140,46.95,2015
-1431,North Carolina State University,232,3,93,251,228,218,157,206,182,242.0,161,46.89,2015
-1433,University of Texas Health Science Center at San Antonio,234,3,94,367,567,218,314,229,197,140.0,315,46.88,2015
-1448,University of Texas Health Science Center at Houston,249,3,95,367,567,155,257,162,212,190.0,337,46.56,2015
-1451,Florida State University,252,3,96,367,334,218,200,184,136,225.0,411,46.53,2015
-1453,Thomas Jefferson University,254,3,97,158,567,218,333,334,161,179.0,502,46.47,2015
-1455,Virginia Polytechnic Institute and State University,256,3,98,283,152,218,201,264,234,285.0,181,46.46,2015
-1457,Drexel University,258,3,99,367,233,218,362,338,287,273.0,91,46.43,2015
-1458,Virginia Commonwealth University,259,3,100,367,403,150,264,253,321,213.0,206,46.43,2015
-1459,Oregon State University,260,3,101,189,239,218,263,148,161,235.0,389,46.42,2015
-1463,Lehigh University,264,3,102,367,47,218,615,542,511,511.0,534,46.4,2015
-1466,University of Kentucky,267,3,103,332,290,218,182,216,321,231.0,447,46.37,2015
-1468,University of Waterloo,269,2,12,367,124,218,190,333,234,292.0,626,46.34,2015
-1470,Colorado State University - Fort Collins,271,3,104,211,493,148,244,203,234,231.0,257,46.32,2015
-1471,Tulane University,272,3,105,324,144,218,365,299,264,251.0,258,46.31,2015
-1472,"University at Buffalo, The State University of New York",273,3,106,367,398,218,203,298,287,235.0,237,46.3,2015
-1473,Brandeis University,274,3,107,51,342,78,549,195,428,330.0,249,46.29,2015
-1474,Northeastern University,275,3,108,316,125,218,370,312,264,362.0,86,46.29,2015
-1480,University of Delaware,281,3,109,318,337,135,272,304,234,292.0,120,46.21,2015
-1481,Rensselaer Polytechnic Institute,282,3,110,137,142,218,402,346,182,292.0,210,46.19,2015
-1483,Queen's University,284,2,13,322,155,218,254,274,264,281.0,275,46.18,2015
-1485,Dalhousie University,286,2,14,367,137,218,280,247,264,273.0,384,46.17,2015
-1488,City College of New York,289,3,111,31,187,218,680,422,511,590.0,358,46.12,2015
-1490,University of Texas at San Antonio,291,3,112,367,567,218,445,376,197,216.0,254,46.1,2015
-1496,Medical College of Wisconsin,297,3,113,367,567,218,337,284,321,219.0,659,45.97,2015
-1497,University of Louisville,298,3,114,367,484,218,338,405,368,300.0,105,45.97,2015
-1499,University of South Carolina - Columbia,300,3,115,367,299,185,262,367,146,273.0,649,45.95,2015
-1502,Medical University of South Carolina,303,3,116,367,567,218,316,364,287,231.0,508,45.94,2015
-1513,University of Nebraska–Lincoln,314,3,117,165,207,218,278,262,234,311.0,456,45.8,2015
-1522,Rush University,323,3,118,367,567,218,427,404,197,260.0,871,45.71,2015
-1523,University of Vermont,324,3,119,198,256,218,357,288,368,285.0,397,45.7,2015
-1525,Boston College,326,3,120,367,97,218,557,363,197,402.0,386,45.65,2015
-1531,Louisiana State University - Baton Rouge,332,3,121,270,177,218,292,215,197,353.0,458,45.61,2015
-1534,University of Adelaide,335,4,8,219,445,218,234,243,287,318.0,465,45.58,2015
-1536,York University,337,2,15,367,106,218,382,408,264,388.0,871,45.56,2015
-1538,University of Oregon,339,3,122,346,567,218,378,217,161,295.0,729,45.55,2015
-1549,University of Oklahoma - Norman Campus,350,3,123,367,150,218,383,240,234,362.0,474,45.49,2015
-1550,Wesleyan University,351,3,124,154,61,218,983,506,812,850.0,871,45.48,2015
-1551,University of Victoria,352,2,16,367,567,218,321,328,234,300.0,853,45.48,2015
-1552,Kansas State University,353,3,125,130,229,218,373,320,212,358.0,294,45.47,2015
-1558,University of New Hampshire,359,3,126,367,318,79,531,273,234,362.0,596,45.42,2015
-1559,College of William and Mary,360,3,127,367,85,218,611,459,321,511.0,809,45.42,2015
-1560,San Diego State University,361,3,128,248,204,218,467,302,264,339.0,509,45.41,2015
-1561,Simon Fraser University,362,2,17,367,567,218,284,303,368,324.0,381,45.4,2015
-1563,Saint Louis University,364,3,129,367,261,202,458,293,428,330.0,286,45.39,2015
-1564,Colorado School of Mines,365,3,130,367,81,218,668,601,321,565.0,690,45.39,2015
-1567,University of Guelph,368,2,18,367,483,218,325,277,146,344.0,445,45.36,2015
-1577,University of Texas Medical Branch at Galveston,378,3,131,367,567,218,401,311,321,324.0,333,45.3,2015
-1579,"Washington State University, Pullman",380,3,132,367,301,131,334,234,428,362.0,298,45.29,2015
-1580,Temple University,381,3,133,272,553,218,326,349,511,349.0,211,45.29,2015
-1587,"University at Albany, SUNY",388,3,134,180,567,165,411,374,212,353.0,531,45.22,2015
-1593,University of Central Florida,394,3,135,367,501,218,381,386,511,381.0,159,45.18,2015
-1598,University of Nebraska Medical Center,399,3,136,367,567,218,463,399,368,344.0,253,45.16,2015
-1602,Brigham Young University,403,3,137,298,361,218,498,424,287,424.0,134,45.15,2015
-1608,University of Alabama - Tuscaloosa,409,3,138,325,140,218,511,490,368,471.0,314,45.14,2015
-1611,Oklahoma State University–Stillwater,412,3,139,239,153,218,447,648,428,471.0,303,45.13,2015
-1613,George Mason University,414,3,140,367,567,98,450,371,264,388.0,526,45.13,2015
-1616,Concordia University,417,2,19,367,99,218,545,745,645,590.0,718,45.12,2015
-1623,Georgia Regents University,424,3,141,367,567,218,482,418,368,341.0,481,45.09,2015
-1627,University of Denver,428,3,142,312,101,218,901,522,511,590.0,760,45.08,2015
-1628,University of Arkansas for Medical Sciences,429,3,143,367,567,218,501,565,812,344.0,340,45.08,2015
-1636,Loyola University Chicago,437,3,144,367,366,218,522,438,511,353.0,713,45.03,2015
-1640,West Virginia University,441,3,145,328,178,218,441,409,428,437.0,617,45.02,2015
-1643,Miami University,444,3,146,367,102,218,715,543,511,659.0,871,45.0,2015
-1644,University of Dayton,445,3,147,348,90,218,988,818,511,781.0,675,44.99,2015
-1648,Macquarie University,449,4,9,367,304,218,391,292,321,402.0,530,44.96,2015
-1653,"University of Nevada, Reno",454,3,148,367,364,218,542,382,264,381.0,708,44.93,2015
-1654,University of Saskatchewan,455,2,20,336,278,218,335,442,287,457.0,427,44.92,2015
-1659,Ohio University,460,3,149,205,174,218,590,472,812,565.0,224,44.91,2015
-1662,Syracuse University,463,3,150,138,221,218,453,494,428,495.0,392,44.91,2015
-1665,University of Wyoming,466,3,151,367,230,218,534,316,321,457.0,380,44.89,2015
-1666,University of Wollongong,467,4,10,367,269,218,431,433,428,424.0,493,44.88,2015
-1668,Texas Tech University (TTU),469,3,152,367,184,218,455,618,287,511.0,809,44.87,2015
-1675,University of Oklahoma Health Sciences Center,476,3,153,367,567,218,580,461,511,375.0,482,44.86,2015
-1679,Illinois Institute of Technology,480,3,154,274,114,218,784,713,511,715.0,861,44.85,2015
-1682,Clemson University,483,3,155,367,535,218,433,497,645,396.0,510,44.83,2015
-1687,University of Hawaii at Manoa,488,3,156,367,435,153,448,213,368,457.0,490,44.82,2015
-1688,University of Nebraska Omaha,489,3,157,367,365,218,704,606,428,396.0,871,44.81,2015
-1692,"University of Maryland, Baltimore County",493,3,158,367,567,218,587,391,428,402.0,423,44.8,2015
-1693,University of Newcastle,494,4,11,367,567,218,408,496,812,424.0,322,44.79,2015
-1701,University of Sherbrooke,502,2,21,367,567,218,454,421,321,413.0,853,44.77,2015
-1707,Creighton University,508,3,159,367,567,218,824,724,368,402.0,615,44.75,2015
-1708,Georgia State University,509,3,160,367,405,218,449,484,511,457.0,360,44.74,2015
-1709,University of Wisconsin–Milwaukee,510,3,161,229,248,218,516,491,511,503.0,871,44.74,2015
-1715,SUNY Downstate Medical Center,516,3,162,367,567,155,756,446,511,437.0,660,44.72,2015
-1718,New Mexico State University,519,3,163,367,432,218,711,585,321,424.0,871,44.71,2015
-1721,University of Mississippi - Oxford Campus,522,3,164,367,567,218,508,851,428,424.0,611,44.7,2015
-1722,University of Tasmania,523,4,12,367,567,218,429,261,645,447.0,727,44.7,2015
-1737,University of Windsor,538,2,22,367,133,218,764,912,812,754.0,658,44.68,2015
-1740,James Cook University,541,4,13,367,567,218,505,248,428,457.0,665,44.67,2015
-1742,University of Akron,543,3,165,367,400,218,656,653,645,606.0,166,44.65,2015
-1745,New York Medical College,546,3,166,367,567,218,752,622,812,437.0,719,44.64,2015
-1748,Auburn University,549,3,167,367,232,218,472,569,368,606.0,425,44.63,2015
-1749,University of Arkansas - Fayetteville,550,3,168,204,345,218,517,571,645,520.0,409,44.62,2015
-1753,University of Missouri–Kansas City,554,3,169,311,480,218,634,447,645,471.0,687,44.61,2015
-1755,Montana State University - Bozeman,556,3,170,367,477,218,575,323,287,495.0,744,44.61,2015
-1765,Utah State University,566,3,171,166,352,218,564,414,368,565.0,371,44.59,2015
-1766,Baylor University,567,3,172,367,293,218,682,681,321,540.0,630,44.59,2015
-1770,Kent State University,571,3,173,367,567,218,610,436,511,486.0,498,44.58,2015
-1778,Deakin University,579,4,14,367,424,218,502,647,321,529.0,636,44.56,2015
-1784,University of Montana - Missoula,585,3,174,353,567,218,713,315,428,503.0,702,44.54,2015
-1789,Southern Illinois University Carbondale,590,3,175,208,533,218,591,512,812,520.0,588,44.53,2015
-1790,University of Alaska Fairbanks,591,3,176,367,420,218,642,373,511,520.0,792,44.53,2015
-1791,University of Toledo,592,3,177,367,567,218,618,555,812,606.0,220,44.53,2015
-1792,Carleton University,593,2,23,367,538,218,479,739,264,549.0,871,44.53,2015
-1794,Curtin University,595,4,15,367,559,218,425,384,511,549.0,518,44.52,2015
-1799,LSU Health Sciences Center New Orleans,600,3,178,367,567,218,823,544,645,503.0,661,44.52,2015
-1804,Florida International University,605,3,179,367,567,218,496,508,428,540.0,585,44.5,2015
-1805,University of Rhode Island,606,3,180,367,265,218,664,385,511,637.0,472,44.5,2015
-1806,Mississippi State University,607,3,181,155,220,218,605,608,645,754.0,566,44.5,2015
-1808,University of New Orleans,609,3,182,367,567,218,944,840,428,511.0,871,44.5,2015
-1810,Memorial University of Newfoundland,611,2,24,367,567,218,552,577,645,529.0,653,44.49,2015
-1812,Griffith University,613,4,16,367,567,218,436,500,368,565.0,556,44.49,2015
-1815,Texas A&M Health Science Center,616,3,183,367,567,218,672,440,645,558.0,336,44.49,2015
-1819,Flinders University,620,4,17,122,567,218,518,581,812,622.0,686,44.48,2015
-1820,Queensland University of Technology,621,4,18,367,567,218,477,750,511,558.0,492,44.48,2015
-1824,Louisiana Tech University,625,3,184,367,197,218,969,871,428,754.0,792,44.47,2015
-1825,University of Texas at Arlington,626,3,185,367,567,218,492,532,511,565.0,462,44.47,2015
-1834,State University of New York Upstate Medical University,635,3,186,367,567,218,774,632,428,549.0,598,44.45,2015
-1842,Northern Illinois University,643,3,187,367,284,218,669,661,321,671.0,621,44.44,2015
-1844,La Trobe University,645,4,19,367,457,218,536,455,812,579.0,803,44.44,2015
-1846,Binghamton University,647,3,188,367,263,218,710,593,812,671.0,853,44.43,2015
-1849,Albany Medical College,650,3,189,171,567,218,893,771,645,579.0,720,44.43,2015
-1854,University of Idaho,655,3,190,367,567,218,664,417,511,579.0,469,44.42,2015
-1855,Old Dominion University,656,3,191,367,567,218,719,590,511,590.0,379,44.42,2015
-1860,Portland State University,661,3,192,367,245,218,800,548,812,741.0,484,44.41,2015
-1862,University of Québec at Montreal,663,2,25,367,422,218,537,534,428,622.0,871,44.41,2015
-1864,Loma Linda University,665,3,193,367,567,218,848,755,645,565.0,555,44.41,2015
-1867,"University of Maine, Orono",668,3,194,345,567,218,788,427,368,637.0,346,44.4,2015
-1886,"University of Nevada, Las Vegas",687,3,195,367,448,218,640,473,812,622.0,861,44.38,2015
-1887,Swinburne University of Technology,688,4,20,367,567,218,654,456,511,606.0,772,44.38,2015
-1909,Rochester Institute of Technology,710,3,196,367,431,218,905,643,287,671.0,587,44.35,2015
-1911,San Francisco State University,712,3,197,271,567,218,864,572,511,622.0,871,44.35,2015
-1916,Marquette University,717,3,198,367,201,218,912,785,812,896.0,682,44.34,2015
-1917,Missouri University of Science and Technology,718,3,199,367,246,218,718,923,645,826.0,592,44.34,2015
-1918,Howard University,719,3,200,294,567,218,934,665,511,699.0,296,44.33,2015
-1922,"Rutgers, The State University of New Jersey - Newark",723,3,201,367,567,218,832,515,645,637.0,871,44.33,2015
-1945,University of Memphis,746,3,202,367,382,218,782,640,511,741.0,394,44.3,2015
-1947,University of Missouri–St. Louis,748,3,203,367,371,218,897,524,428,715.0,634,44.3,2015
-1950,University of South Australia,751,4,21,367,324,218,604,746,812,781.0,431,44.3,2015
-1951,University of Alabama in Huntsville,752,3,204,367,567,218,921,432,645,659.0,805,44.3,2015
-1953,University of Mississippi Medical Center,754,3,205,367,567,218,775,504,511,671.0,871,44.29,2015
-1960,New Jersey Institute of Technology,761,3,206,259,472,218,791,670,812,741.0,391,44.28,2015
-1961,East Carolina University,762,3,207,367,394,218,699,685,812,732.0,639,44.28,2015
-1965,Northern Arizona University,766,3,208,367,537,218,939,489,645,686.0,609,44.28,2015
-1977,"University of North Texas, Denton",778,3,209,367,567,218,675,636,645,715.0,554,44.27,2015
-1980,École Polytechnique de Montréal,781,2,26,367,507,218,716,921,511,741.0,412,44.27,2015
-1989,Michigan Technological University,790,3,210,341,467,218,794,769,428,741.0,581,44.25,2015
-1991,North Dakota State University - Main Campus,792,3,211,172,567,218,702,790,812,770.0,871,44.25,2015
-1993,University of North Carolina at Charlotte,794,3,212,367,310,218,741,662,511,826.0,593,44.25,2015
-2008,Bowling Green State University,809,3,213,367,373,218,910,705,645,781.0,824,44.23,2015
-2010,University of New England (Australia),811,4,22,367,251,218,938,634,511,932.0,797,44.22,2015
-2014,"University of Technology, Sydney",815,4,23,367,543,218,580,668,511,796.0,520,44.22,2015
-2022,Florida Institute of Technology,823,3,214,367,567,218,973,793,368,770.0,871,44.21,2015
-2024,University of Massachusetts Boston,825,3,215,367,429,218,846,698,428,796.0,824,44.21,2015
-2028,Murdoch University,829,4,24,367,527,218,827,501,645,770.0,770,44.2,2015
-2031,The Catholic University of America,832,3,216,367,407,218,947,596,511,809.0,674,44.2,2015
-2032,Wright State University - Dayton,833,3,217,367,567,218,810,805,812,770.0,824,44.2,2015
-2034,Clarkson University,835,3,218,367,390,218,981,974,812,809.0,685,44.19,2015
-2035,University of Regina,836,2,27,367,567,218,851,737,645,781.0,573,44.19,2015
-2043,University of South Alabama,844,3,219,367,567,218,979,784,812,796.0,464,44.19,2015
-2049,Hunter College,850,3,220,261,438,218,822,610,812,826.0,805,44.18,2015
-2055,Florida Atlantic University,856,3,221,367,567,218,855,741,812,796.0,714,44.17,2015
-2060,Brock University,861,2,28,367,567,218,877,727,511,809.0,638,44.17,2015
-2069,University of New Brunswick,870,2,29,367,354,218,777,802,812,886.0,591,44.16,2015
-2072,RMIT University,873,4,25,367,561,218,690,929,812,837.0,585,44.16,2015
-2081,University of Western Sydney,882,4,26,367,567,218,651,551,645,850.0,647,44.15,2015
-2083,University of Massachusetts Lowell,884,3,222,367,528,218,936,943,321,946.0,304,44.15,2015
-2092,"Queens College, City University of New York",893,3,223,323,374,218,977,690,812,886.0,729,44.14,2015
-2096,University of North Carolina at Greensboro,897,3,224,367,567,218,899,825,645,850.0,575,44.13,2015
-2100,University of Southern Mississippi,901,3,225,367,567,218,913,853,812,850.0,676,44.13,2015
-2105,Oakland University,906,3,226,367,567,218,888,810,812,850.0,871,44.13,2015
-2106,Wilfrid Laurier University,907,2,30,367,298,218,952,921,812,969.0,871,44.13,2015
-2109,Trent University,910,2,31,367,509,218,923,777,511,867.0,782,44.12,2015
-2112,University of North Dakota,913,3,227,367,567,218,917,731,812,867.0,606,44.12,2015
-2116,University of Lethbridge,917,2,32,367,567,218,957,718,511,867.0,853,44.12,2015
-2128,University of Texas at El Paso,929,3,228,367,442,218,910,838,812,906.0,706,44.1,2015
-2135,"University of California, Merced",936,3,229,367,567,218,899,540,812,906.0,491,44.09,2015
-2141,Charles Darwin University,942,4,27,367,567,218,931,742,645,896.0,871,44.09,2015
-2193,Ryerson University,994,2,33,367,567,218,811,969,511,975.0,756,44.03,2015
+3,California Institute of Technology,5,3,4,2,29,7,37,22,22,,18,85.21,2012
+4,Princeton University,6,3,5,8,14,2,53,33,26,,101,82.5,2012
+5,Yale University,8,3,6,14,31,12,14,6,15,,66,79.14,2012
+6,Columbia University,9,3,7,23,21,10,13,12,14,,5,78.86,2012
+7,"University of California, Berkeley",10,3,8,16,52,6,6,5,3,,16,78.55,2012
+8,University of Chicago,11,3,9,15,26,8,34,20,28,,101,73.82,2012
+9,Cornell University,12,3,10,21,42,14,22,21,16,,10,73.69,2012
+10,University of Pennsylvania,13,3,11,31,16,24,9,10,8,,9,73.64,2012
+11,Johns Hopkins University,15,3,12,34,77,20,11,9,9,,7,66.94,2012
+12,"University of California, Los Angeles",19,3,13,62,59,23,3,11,6,,13,64.05,2012
+13,"University of California, San Diego",20,3,14,61,101,15,10,8,10,,22,63.11,2012
+14,Rockefeller University,21,3,15,1,101,16,101,28,96,,101,61.74,2012
+15,New York University,23,3,16,89,75,17,42,24,34,,62,60.55,2012
+16,"University of California, San Francisco",24,3,17,101,101,21,19,3,13,,33,59.7,2012
+17,University of Wisconsin–Madison,25,3,18,64,63,33,17,30,21,,21,59.66,2012
+18,University of Illinois at Urbana–Champaign,26,3,19,82,101,18,35,71,39,,44,59.0,2012
+19,Duke University,27,3,20,65,43,55,20,15,12,,20,58.37,2012
+20,University of Texas Southwestern Medical Center,29,3,21,19,101,32,101,43,84,,101,56.43,2012
+21,University of Texas at Austin,30,3,22,101,78,27,41,47,40,,57,56.18,2012
+22,Northwestern University,33,3,23,101,32,101,24,25,20,,35,54.4,2012
+23,"University of Michigan, Ann Arbor",34,3,24,68,60,101,2,17,7,,8,53.72,2012
+24,University of Toronto,35,2,1,101,101,34,7,14,18,,101,53.43,2012
+25,University of North Carolina at Chapel Hill,36,3,25,101,86,56,31,29,31,,29,53.09,2012
+26,Washington University in St. Louis,37,3,26,74,62,101,32,18,30,,14,52.9,2012
+27,University of Utah,38,3,27,92,101,41,74,52,67,,12,52.64,2012
+28,University of Washington - Seattle,39,3,28,101,101,40,5,7,5,,101,52.25,2012
+29,"University of California, Santa Barbara",40,3,29,101,101,28,68,72,36,,101,52.15,2012
+30,McGill University,41,2,2,70,91,54,33,39,47,,101,51.72,2012
+31,"Purdue University, West Lafayette",42,3,30,95,70,49,61,101,58,,19,51.66,2012
+32,Carnegie Mellon University,43,3,31,30,81,26,101,101,61,,101,51.6,2012
+33,University of Southern California,44,3,32,101,101,63,46,48,32,,23,51.38,2012
+34,"University of California, Davis",45,3,33,79,101,92,23,40,25,,32,51.06,2012
+35,University of Colorado Boulder,46,3,34,83,88,48,71,54,56,,101,50.68,2012
+36,"University of California, Irvine",47,3,35,101,101,38,59,57,52,,65,50.64,2012
+37,"University of Minnesota, Twin Cities",49,3,36,101,101,85,18,31,17,,84,50.3,2012
+38,University of Arizona,50,3,37,101,101,88,45,42,45,,27,50.29,2012
+39,"Ohio State University, Columbus",52,3,38,101,101,83,30,50,35,,54,49.54,2012
+40,University of Rochester,53,3,39,41,54,101,82,68,54,,62,49.51,2012
+41,University of Florida,55,3,40,101,101,96,29,74,42,,2,48.8,2012
+42,Rice University,57,3,41,28,53,94,101,101,53,,101,48.76,2012
+43,Dartmouth College,58,3,42,27,13,101,101,101,101,,92,48.5,2012
+44,Vanderbilt University,59,3,43,80,72,101,50,35,49,,101,48.44,2012
+45,Boston University,62,3,44,101,101,86,48,34,37,,101,48.31,2012
+46,"Pennsylvania State University, University Park",64,3,45,101,94,101,38,60,27,,99,48.15,2012
+47,Brown University,66,3,46,49,37,65,101,73,92,,101,47.91,2012
+48,University of British Columbia,67,2,3,101,101,93,28,38,48,,101,47.74,2012
+49,"University of Maryland, College Park",68,3,47,85,101,50,47,55,41,,101,47.69,2012
+50,University of Pittsburgh - Pittsburgh Campus,71,3,48,81,101,101,21,32,24,,61,47.59,2012
+51,Rutgers University-New Brunswick,72,3,49,101,101,59,80,83,72,,85,47.5,2012
+52,"Texas A&M University, College Station",73,3,50,101,101,46,58,101,80,,101,47.31,2012
+53,Case Western Reserve University,78,3,51,33,101,101,96,63,65,,101,46.11,2012
+54,Arizona State University,80,3,52,101,101,70,101,101,77,,49,45.7,2012
+55,Emory University,81,3,53,101,97,101,54,37,50,,46,45.47,2012
+56,University of Virginia,84,3,54,101,50,101,76,62,57,,86,45.2,2012
+57,Tufts University,86,3,55,60,41,101,101,95,75,,101,44.91,2012
+58,Georgia Institute of Technology,87,3,56,101,67,101,79,101,46,,40,44.71,2012
+59,University of Queensland,92,4,1,101,101,101,67,90,89,,46,44.18,2012
+60,University of Sydney,94,4,2,101,101,101,56,92,85,,69,44.13,2012
+61,Williams College,95,3,57,18,15,101,101,101,101,,101,43.89,2012
+62,University of Texas MD Anderson Cancer Center,96,3,58,101,101,101,95,46,66,,100,43.88,2012
+63,Harvard University,1,3,1,1,1,1,1,1,1,,7,100.0,2013
+64,Stanford University,2,3,2,11,2,4,6,2,2,,11,93.94,2013
+65,Massachusetts Institute of Technology,4,3,3,2,16,2,16,3,3,,1,91.45,2013
+66,Columbia University,6,3,4,13,8,9,13,9,11,,10,88.21,2013
+67,"University of California, Berkeley",7,3,5,6,28,6,8,6,4,,19,85.07,2013
+68,Princeton University,8,3,6,4,14,3,58,35,27,,101,82.17,2013
+69,University of Chicago,9,3,7,9,19,8,37,21,30,,101,79.16,2013
+70,Yale University,10,3,8,10,25,13,20,12,22,,42,78.83,2013
+71,California Institute of Technology,11,3,9,5,101,7,38,24,25,,17,77.59,2013
+72,University of Pennsylvania,12,3,10,22,5,25,10,10,9,,14,77.24,2013
+73,Cornell University,13,3,11,12,23,18,21,19,15,,7,76.99,2013
+74,"University of California, Los Angeles",16,3,12,38,35,12,5,15,6,,12,67.84,2013
+75,Johns Hopkins University,17,3,13,23,96,21,4,5,7,,2,65.64,2013
+76,New York University,19,3,14,37,31,16,41,25,33,,51,63.99,2013
+77,"University of California, San Diego",20,3,15,33,101,19,15,14,14,,22,63.12,2013
+78,"University of California, San Francisco",22,3,16,101,101,22,23,4,18,,63,59.38,2013
+79,University of Wisconsin–Madison,23,3,17,31,55,33,19,29,20,,30,58.94,2013
+80,University of Illinois at Urbana–Champaign,24,3,18,65,101,20,33,66,34,,67,58.33,2013
+81,Duke University,25,3,19,89,42,46,22,17,17,,24,57.72,2013
+82,University of Texas at Austin,26,3,20,101,56,24,46,84,37,,20,57.71,2013
+83,Northwestern University,28,3,21,101,21,101,27,26,24,,30,56.12,2013
+84,University of Toronto,29,2,1,91,81,34,2,13,12,,101,56.11,2013
+85,University of Washington - Seattle,31,3,22,101,101,41,7,8,5,,51,55.79,2013
+86,"University of Michigan, Ann Arbor",32,3,23,35,27,101,3,18,8,,6,55.77,2013
+87,University of North Carolina at Chapel Hill,34,3,24,101,101,60,30,27,26,,42,52.87,2013
+88,"University of California, Santa Barbara",37,3,25,101,101,28,89,91,38,,101,51.67,2013
+89,"Purdue University, West Lafayette",38,3,26,95,39,52,71,101,65,,36,51.59,2013
+90,University of Southern California,39,3,27,101,99,56,56,52,36,,40,51.56,2013
+91,University of Colorado Boulder,41,3,28,82,84,38,75,68,54,,101,51.16,2013
+92,University of Utah,42,3,29,101,101,42,93,61,85,,27,51.14,2013
+93,Rutgers University-New Brunswick,43,3,30,101,101,48,43,58,45,,96,51.09,2013
+94,"University of Minnesota, Twin Cities",44,3,31,101,101,87,18,31,16,,67,50.98,2013
+95,University of Texas Southwestern Medical Center,46,3,32,46,101,29,101,28,82,,101,50.79,2013
+96,McGill University,47,2,2,54,62,59,34,42,48,,101,50.77,2013
+97,Rockefeller University,49,3,33,55,101,17,101,34,101,,101,50.43,2013
+98,"Pennsylvania State University, University Park",50,3,34,101,72,101,29,54,23,,67,49.84,2013
+99,Carnegie Mellon University,51,3,35,30,101,27,101,101,74,,101,49.56,2013
+100,"Ohio State University, Columbus",52,3,36,101,101,86,32,55,35,,60,49.41,2013
+101,"University of California, Davis",53,3,37,60,101,94,26,47,31,,90,49.16,2013
+102,Boston University,54,3,38,101,69,88,54,37,41,,100,48.96,2013
+103,University of Florida,55,3,39,101,101,98,35,92,42,,9,48.93,2013
+104,University of British Columbia,58,2,3,101,101,95,25,39,39,,100,48.51,2013
+105,"University of Maryland, College Park",59,3,40,79,101,53,49,77,40,,101,48.39,2013
+106,Vanderbilt University,61,3,41,101,101,101,53,40,60,,40,47.8,2013
+107,Washington University in St. Louis,63,3,42,101,101,101,36,20,32,,101,47.72,2013
+108,"University of California, Irvine",65,3,43,101,101,39,69,67,61,,101,47.52,2013
+109,University of Pittsburgh - Pittsburgh Campus,69,3,44,80,101,101,24,33,28,,44,47.08,2013
+110,University of Virginia,71,3,45,101,24,101,88,73,68,,63,46.92,2013
+111,Arizona State University,73,3,46,101,101,73,101,101,89,,20,46.72,2013
+112,University of Rochester,76,3,47,63,80,101,101,86,66,,51,46.44,2013
+113,Brown University,77,3,48,59,52,67,101,89,96,,101,46.43,2013
+114,University of Arizona,78,3,49,101,101,90,60,57,49,,101,46.39,2013
+115,"Texas A&M University, College Station",80,3,50,101,101,50,72,101,88,,101,46.17,2013
+116,Dartmouth College,82,3,51,45,20,101,101,101,101,,78,46.04,2013
+117,Indiana University - Bloomington,85,3,52,101,48,101,50,72,59,,101,45.71,2013
+118,National University of Singapore,87,1,1,101,101,101,44,101,50,,27,45.2,2013
+119,University of Texas MD Anderson Cancer Center,88,3,53,101,101,101,90,32,56,,101,45.12,2013
+120,Stony Brook University,89,3,54,101,101,68,101,101,98,,90,45.01,2013
+121,University of Sydney,92,4,1,101,101,101,61,101,101,,48,44.77,2013
+122,Emory University,93,3,55,101,101,101,66,41,53,,81,44.53,2013
+123,Rice University,94,3,56,51,101,97,101,101,64,,81,44.53,2013
+124,Australian National University,96,4,2,101,101,43,101,101,101,,101,44.5,2013
+125,University of Alberta,97,2,4,101,101,101,68,101,92,,81,44.5,2013
+126,Georgia Institute of Technology,100,3,57,101,85,101,97,101,43,,32,44.26,2013
+127,Harvard University,1,3,1,1,1,1,1,1,1,1.0,2,100.0,2014
+128,Stanford University,2,3,2,11,2,4,5,3,3,4.0,6,99.09,2014
+129,Massachusetts Institute of Technology,3,3,3,3,11,2,15,2,2,2.0,1,98.69,2014
+130,Columbia University,6,3,4,13,8,9,14,13,9,13.0,4,97.41,2014
+131,"University of California, Berkeley",7,3,5,4,22,6,7,4,3,7.0,28,92.84,2014
+132,University of Chicago,8,3,6,10,14,8,17,19,10,18.0,149,92.03,2014
+133,Princeton University,9,3,7,5,16,3,70,25,19,41.0,204,88.56,2014
+134,Yale University,10,3,8,9,25,11,18,7,32,19.0,45,88.11,2014
+135,Cornell University,11,3,9,12,18,19,23,15,23,23.0,12,85.8,2014
+136,California Institute of Technology,12,3,10,6,303,7,48,6,16,24.0,9,85.5,2014
+137,University of Pennsylvania,14,3,11,21,4,26,8,17,13,10.0,28,79.3,2014
+138,"University of California, Los Angeles",15,3,12,27,27,12,6,14,7,6.0,10,78.35,2014
+139,New York University,17,3,13,33,21,17,49,29,32,31.0,48,72.29,2014
+140,Johns Hopkins University,19,3,14,24,75,18,4,10,6,3.0,3,71.17,2014
+141,"University of California, San Diego",20,3,15,32,478,20,16,5,19,16.0,13,68.36,2014
+142,"University of Michigan, Ann Arbor",21,3,16,29,19,131,3,20,5,10.0,19,68.27,2014
+143,Northwestern University,23,3,17,151,13,105,28,32,25,27.0,61,66.18,2014
+144,University of Wisconsin–Madison,25,3,18,31,28,34,21,24,23,28.0,28,65.77,2014
+145,Duke University,26,3,19,65,30,49,22,23,13,15.0,42,63.56,2014
+146,"University of California, San Francisco",27,3,20,355,478,23,24,8,17,9.0,57,63.36,2014
+147,University of Illinois at Urbana–Champaign,28,3,21,34,80,21,36,45,38,68.0,64,62.89,2014
+148,University of Texas at Austin,29,3,22,92,39,24,51,54,26,74.0,45,62.57,2014
+149,University of Toronto,31,2,1,71,45,35,2,18,13,8.0,149,60.87,2014
+150,University of Washington - Seattle,32,3,23,89,107,46,9,11,8,5.0,54,60.28,2014
+151,Rutgers University-New Brunswick,33,3,24,91,33,31,52,47,38,51.0,54,60.0,2014
+152,Rockefeller University,37,3,25,72,478,14,347,26,107,62.0,227,59.49,2014
+153,University of Virginia,41,3,26,194,17,117,93,71,55,89.0,94,58.6,2014
+154,McGill University,42,2,2,45,32,60,35,59,34,32.0,204,58.39,2014
+155,Dartmouth College,44,3,27,46,15,210,246,164,125,132.0,74,58.0,2014
+156,University of North Carolina at Chapel Hill,45,3,28,179,86,61,32,37,22,22.0,38,57.51,2014
+157,"Pennsylvania State University, University Park",46,3,29,226,42,65,33,36,26,33.0,100,57.19,2014
+158,"Ohio State University, Columbus",47,3,30,93,65,81,30,52,30,37.0,38,57.01,2014
+159,"University of Minnesota, Twin Cities",49,3,31,61,159,83,19,38,29,29.0,68,56.13,2014
+160,University of Southern California,51,3,32,148,74,43,59,64,61,54.0,33,55.7,2014
+161,"Purdue University, West Lafayette",52,3,33,81,52,54,72,87,73,121.0,20,55.67,2014
+162,University of Pittsburgh - Pittsburgh Campus,53,3,34,76,195,210,25,58,21,24.0,64,55.67,2014
+163,Carnegie Mellon University,54,3,35,25,219,27,207,234,52,144.0,170,55.3,2014
+164,"University of California, Davis",57,3,36,47,192,90,29,31,38,50.0,68,55.18,2014
+165,Washington University in St. Louis,58,3,37,96,145,112,39,21,34,19.0,181,54.93,2014
+166,University of Florida,59,3,38,212,299,95,34,70,52,63.0,8,54.76,2014
+167,"University of California, Santa Barbara",60,3,39,124,252,28,105,53,48,56.0,68,54.76,2014
+168,University of British Columbia,61,2,3,85,298,92,26,34,36,41.0,78,54.75,2014
+169,University of Utah,62,3,40,88,91,45,99,62,114,94.0,22,54.67,2014
+170,University of Colorado Boulder,63,3,41,75,56,41,97,35,75,77.0,128,54.5,2014
+171,University of Notre Dame,64,3,42,197,20,150,241,230,159,238.0,307,54.25,2014
+172,University of Texas Southwestern Medical Center,66,3,43,50,478,29,127,30,81,34.0,181,54.07,2014
+173,Boston University,67,3,44,291,47,84,60,46,43,37.0,227,53.96,2014
+174,University of Arizona,70,3,45,99,62,87,67,33,37,46.0,307,53.77,2014
+175,Vanderbilt University,71,3,46,108,90,113,58,57,52,40.0,51,53.69,2014
+176,National University of Singapore,74,1,1,355,99,210,37,136,114,102.0,23,53.52,2014
+177,"University of Maryland, College Park",76,3,47,63,198,51,57,49,38,73.0,338,53.46,2014
+178,University of Rochester,77,3,48,60,50,116,112,104,69,70.0,76,53.06,2014
+179,Emory University,78,3,49,355,97,210,66,65,73,37.0,45,53.01,2014
+180,"University of California, Irvine",80,3,50,217,478,42,76,48,48,51.0,138,52.93,2014
+181,Brown University,81,3,51,56,46,67,123,66,55,97.0,170,52.92,2014
+182,Georgia Institute of Technology,83,3,52,123,77,210,104,154,79,101.0,24,52.74,2014
+183,Tufts University,84,3,53,68,43,178,164,148,79,81.0,84,52.71,2014
+184,University of Sydney,95,4,1,127,158,162,50,117,61,94.0,100,51.58,2014
+185,University of Melbourne,97,4,2,136,101,210,45,74,87,81.0,194,51.43,2014
+186,Case Western Reserve University,102,3,54,44,208,189,134,97,60,70.0,100,51.27,2014
+187,University of Alberta,103,2,4,163,144,148,61,105,81,99.0,84,51.23,2014
+188,University of Texas MD Anderson Cancer Center,104,3,55,355,478,136,92,76,61,30.0,78,51.19,2014
+189,"Texas A&M University, College Station",105,3,56,328,94,53,73,90,87,137.0,280,51.18,2014
+190,Arizona State University,106,3,57,355,478,72,141,79,69,145.0,34,51.14,2014
+191,Rice University,108,3,58,54,313,94,252,144,45,121.0,61,50.94,2014
+192,Michigan State University,112,3,59,112,214,210,85,115,45,106.0,128,50.69,2014
+193,Indiana University - Bloomington,113,3,60,211,38,175,166,769,176,195.0,204,50.53,2014
+194,University of Queensland,115,4,3,265,295,134,75,96,125,102.0,78,50.37,2014
+195,Georgetown University,118,3,61,146,37,210,295,323,310,211.0,159,50.28,2014
+196,Baylor College of Medicine,121,3,62,355,478,210,111,40,107,41.0,194,50.12,2014
+197,University of Iowa,125,3,63,223,184,163,103,81,87,110.0,115,49.95,2014
+198,Stony Brook University,126,3,64,170,478,68,161,73,69,118.0,100,49.92,2014
+199,University of Colorado Denver,133,3,65,355,478,131,140,118,150,61.0,78,49.79,2014
+200,University of Montreal,134,2,5,309,460,210,77,110,87,64.0,426,49.79,2014
+201,University of Miami,138,3,66,355,152,210,159,128,87,114.0,78,49.62,2014
+202,McMaster University,141,2,6,210,271,159,128,159,87,81.0,159,49.51,2014
+203,University of Texas at Dallas,143,3,67,355,244,210,219,100,61,44.0,307,49.47,2014
+204,Wake Forest University,145,3,68,242,59,210,251,236,150,126.0,128,49.46,2014
+205,Nanyang Technological University,148,1,2,355,478,210,110,387,220,251.0,26,49.35,2014
+206,University of New South Wales,149,4,4,172,114,210,100,194,99,164.0,138,49.29,2014
+207,Western University (The University of Western Ontario),152,2,7,355,49,210,154,198,250,176.0,426,49.18,2014
+208,Indiana University-Purdue University Indianapolis,156,3,69,355,424,210,195,351,134,121.0,57,49.08,2014
+209,Australian National University,160,4,5,186,377,47,137,95,187,196.0,426,48.96,2014
+210,University of Houston,162,3,70,355,40,210,315,291,493,355.0,89,48.91,2014
+211,"University of California, Santa Cruz",163,3,71,160,478,99,239,50,114,107.0,227,48.89,2014
+212,University of Alabama at Birmingham,164,3,72,355,478,210,139,114,134,74.0,194,48.88,2014
+213,Icahn School of Medicine at Mount Sinai,165,3,73,355,478,210,169,80,176,64.0,159,48.85,2014
+214,University of Calgary,166,2,8,355,89,210,147,171,114,132.0,737,48.84,2014
+215,Monash University,170,4,6,277,134,210,96,146,250,173.0,159,48.71,2014
+216,Southern Methodist University,171,3,74,157,34,210,632,677,406,628.0,737,48.69,2014
+217,Yeshiva University,172,3,75,174,478,210,188,85,159,94.0,138,48.67,2014
+218,University of South Florida - Tampa,173,3,76,355,284,210,242,263,159,164.0,51,48.65,2014
+219,Oregon Health & Science University,175,3,77,355,478,119,191,124,107,92.0,227,48.61,2014
+220,University of Cincinnati,177,3,78,305,132,210,145,166,159,129.0,204,48.6,2014
+221,George Washington University,180,3,79,176,53,210,312,229,187,203.0,307,48.48,2014
+222,Iowa State University,182,3,80,273,190,109,142,173,75,176.0,338,48.47,2014
+223,"University of Maryland, Baltimore",183,3,81,355,478,210,125,102,134,114.0,280,48.4,2014
+224,University of New Mexico,185,3,82,355,478,210,227,168,61,137.0,149,48.36,2014
+225,Wayne State University,192,3,83,355,186,210,187,258,125,155.0,181,48.07,2014
+226,University of Massachusetts Medical School,193,3,84,355,478,136,288,72,187,118.0,170,48.06,2014
+227,University of Missouri–Columbia,196,3,85,243,96,97,220,213,220,234.0,149,48.02,2014
+228,University of Kansas,203,3,86,216,83,210,209,161,159,234.0,194,47.82,2014
+229,University of Georgia,207,3,87,104,193,169,176,122,187,247.0,128,47.75,2014
+230,University of Massachusetts Amherst,208,3,88,199,118,154,194,190,159,201.0,373,47.74,2014
+231,University of Ottawa,212,2,9,355,287,210,185,191,159,141.0,481,47.69,2014
+232,Louisiana State University - Baton Rouge,216,3,89,256,179,210,162,179,159,176.0,481,47.67,2014
+233,University of Illinois at Chicago,218,3,90,355,416,210,131,189,220,185.0,170,47.63,2014
+234,University of Manitoba,220,2,10,149,84,150,257,297,220,249.0,227,47.56,2014
+235,"University of California, Riverside",222,3,91,228,478,210,199,98,134,169.0,259,47.53,2014
+236,University of Western Australia,225,4,7,145,397,140,165,214,283,176.0,373,47.47,2014
+237,Laval University,226,2,11,285,296,210,212,270,220,200.0,109,47.47,2014
+238,"University of Tennessee, Knoxville",227,3,92,300,117,210,192,177,134,224.0,481,47.45,2014
+239,North Carolina State University,228,3,93,245,194,210,151,202,159,238.0,181,47.43,2014
+240,University of Connecticut,233,3,94,282,402,210,160,187,200,185.0,204,47.35,2014
+241,Tulane University,234,3,95,298,92,210,363,298,283,215.0,194,47.34,2014
+242,University of Oklahoma - Norman Campus,235,3,96,355,124,210,238,223,176,203.0,307,47.33,2014
+243,Brandeis University,236,3,97,49,311,79,527,169,493,322.0,128,47.31,2014
+244,University of Texas Health Science Center at San Antonio,239,3,98,355,478,210,314,224,130,145.0,373,47.26,2014
+245,Virginia Commonwealth University,240,3,99,355,428,145,263,233,200,189.0,149,47.26,2014
+246,Rensselaer Polytechnic Institute,243,3,100,120,121,210,375,344,159,272.0,138,47.2,2014
+247,University of Delaware,247,3,101,297,386,126,265,305,250,277.0,76,47.16,2014
+248,Florida State University,255,3,102,355,288,210,201,180,134,220.0,338,46.98,2014
+249,University of Texas at San Antonio,256,3,103,355,478,210,410,334,125,180.0,227,46.95,2014
+250,Lehigh University,258,3,104,355,44,210,594,512,609,523.0,481,46.91,2014
+251,University of Kentucky,259,3,105,317,270,210,184,219,250,220.0,338,46.9,2014
+252,Thomas Jefferson University,260,3,106,134,478,210,331,302,200,180.0,373,46.89,2014
+253,Drexel University,261,3,107,355,262,210,366,322,220,266.0,89,46.89,2014
+254,Colorado State University - Fort Collins,262,3,108,203,478,143,234,201,250,211.0,259,46.88,2014
+255,Oregon State University,265,3,109,175,268,210,247,145,176,238.0,338,46.82,2014
+256,"University at Buffalo, The State University of New York",268,3,110,355,418,210,203,285,200,230.0,204,46.78,2014
+257,Virginia Polytechnic Institute and State University,271,3,111,270,185,210,196,267,200,281.0,227,46.72,2014
+258,University of Texas Health Science Center at Houston,274,3,112,355,478,150,267,175,220,215.0,373,46.64,2014
+259,Queen's University,277,2,12,301,172,210,253,273,220,281.0,204,46.59,2014
+260,University of Waterloo,280,2,13,355,125,210,205,352,283,306.0,637,46.58,2014
+261,Dalhousie University,284,2,14,355,153,210,289,251,250,272.0,338,46.52,2014
+262,Medical College of Wisconsin,293,3,113,355,478,210,338,279,220,203.0,737,46.42,2014
+263,City College of New York,294,3,114,35,236,210,677,444,406,569.0,373,46.41,2014
+264,"Washington State University, Pullman",296,3,115,355,267,122,293,221,310,295.0,170,46.4,2014
+265,University of South Carolina - Columbia,298,3,116,355,440,182,262,353,130,266.0,737,46.37,2014
+266,Wesleyan University,307,3,117,130,54,210,986,538,609,832.0,737,46.3,2014
+267,Medical University of South Carolina,312,3,118,355,478,210,322,357,310,224.0,552,46.25,2014
+268,Northeastern University,318,3,119,295,171,210,383,307,250,375.0,115,46.2,2014
+269,Kansas State University,319,3,120,116,165,210,348,313,220,346.0,259,46.2,2014
+270,University of Vermont,320,3,121,178,215,210,364,300,406,277.0,373,46.2,2014
+271,Rush University,321,3,122,355,478,210,424,412,150,247.0,737,46.18,2014
+272,University of Louisville,322,3,123,355,389,210,335,383,406,295.0,138,46.15,2014
+273,Boston College,332,3,124,355,95,210,548,380,200,386.0,338,46.06,2014
+274,University of Nebraska–Lincoln,335,3,125,154,256,210,272,246,250,337.0,426,46.02,2014
+275,University of Adelaide,340,4,8,201,400,210,244,254,283,313.0,737,45.97,2014
+276,University of Oregon,346,3,126,334,478,210,370,205,200,281.0,637,45.89,2014
+277,San Diego State University,348,3,127,240,187,210,480,290,200,341.0,481,45.88,2014
+278,University of Nebraska Medical Center,351,3,128,355,478,210,469,395,363,339.0,128,45.83,2014
+279,College of William and Mary,361,3,129,355,82,210,639,442,310,523.0,637,45.77,2014
+280,Saint Louis University,363,3,130,355,342,195,468,287,493,318.0,227,45.75,2014
+281,Colorado School of Mines,364,3,131,355,76,210,653,577,310,596.0,637,45.74,2014
+282,Oklahoma State University–Stillwater,365,3,132,221,111,210,427,623,310,472.0,307,45.74,2014
+283,University of Guelph,366,2,15,355,478,210,319,289,125,349.0,373,45.74,2014
+284,"University at Albany, SUNY",369,3,133,161,478,161,402,372,187,355.0,338,45.7,2014
+285,University of Alabama - Tuscaloosa,372,3,134,312,137,210,513,499,283,409.0,338,45.69,2014
+286,University of Victoria,377,2,16,355,478,210,320,337,363,313.0,737,45.66,2014
+287,University of Texas Medical Branch at Galveston,379,3,135,355,478,210,365,294,363,334.0,227,45.66,2014
+288,Temple University,390,3,136,262,478,210,341,378,493,355.0,194,45.59,2014
+289,Simon Fraser University,393,2,17,355,478,210,286,281,406,341.0,373,45.58,2014
+290,York University,398,2,18,355,164,210,397,396,250,409.0,737,45.55,2014
+291,University of Central Florida,401,3,137,355,468,210,388,391,493,380.0,149,45.55,2014
+292,University of New Hampshire,404,3,138,355,346,131,511,277,200,366.0,637,45.53,2014
+293,Brigham Young University,415,3,139,288,444,210,495,423,283,415.0,149,45.47,2014
+294,Concordia University,422,2,19,355,110,210,540,687,493,543.0,552,45.44,2014
+295,Georgia Regents University,423,3,140,355,478,210,579,471,310,334.0,737,45.43,2014
+296,George Mason University,434,3,141,355,478,97,449,374,283,415.0,637,45.4,2014
+297,West Virginia University,439,3,142,314,180,210,441,419,406,430.0,637,45.39,2014
+298,University of Mississippi - Oxford Campus,441,3,143,355,478,210,384,478,220,361.0,552,45.38,2014
+299,University of Arkansas for Medical Sciences,442,3,144,355,478,210,488,542,609,349.0,280,45.37,2014
+300,Miami University,443,3,145,355,104,210,712,501,406,642.0,737,45.37,2014
+301,Loyola University Chicago,446,3,146,355,350,210,538,414,609,349.0,737,45.36,2014
+302,Syracuse University,448,3,147,129,249,210,459,479,310,488.0,338,45.34,2014
+303,"University of Nevada, Reno",460,3,148,355,347,210,516,325,250,380.0,637,45.26,2014
+304,Ohio University,464,3,149,196,176,210,568,474,493,554.0,280,45.25,2014
+305,New Mexico State University,467,3,150,355,369,210,677,630,200,386.0,737,45.23,2014
+306,University of Hawaii at Manoa,469,3,151,355,379,148,451,211,363,452.0,373,45.22,2014
+307,University of Nebraska Omaha,470,3,152,355,349,210,643,521,406,372.0,737,45.22,2014
+308,Baylor University,473,3,153,355,351,210,578,566,220,395.0,637,45.21,2014
+309,University of Arkansas - Fayetteville,477,3,154,189,260,210,506,513,310,482.0,373,45.2,2014
+310,Texas Tech University (TTU),480,3,155,355,277,210,392,508,250,460.0,552,45.19,2014
+311,University of Akron,482,3,156,355,421,210,637,660,609,596.0,121,45.18,2014
+312,University of Saskatchewan,483,2,20,320,380,210,337,427,310,442.0,373,45.18,2014
+313,University of Wyoming,485,3,157,355,224,210,531,327,363,472.0,426,45.18,2014
+314,Macquarie University,486,4,9,355,452,210,416,292,283,409.0,552,45.18,2014
+315,University of Denver,488,3,158,283,141,210,906,487,493,628.0,552,45.16,2014
+316,Illinois Institute of Technology,489,3,159,251,123,210,767,718,800,716.0,737,45.15,2014
+317,Creighton University,490,3,160,355,478,210,792,618,250,375.0,637,45.15,2014
+318,Mississippi State University,504,3,161,141,157,210,580,617,609,739.0,481,45.11,2014
+319,"University of Maryland, Baltimore County",505,3,162,355,478,210,554,377,363,402.0,373,45.1,2014
+320,University of Wollongong,506,4,10,355,274,210,445,460,609,488.0,338,45.1,2014
+321,Flinders University,507,4,11,82,478,210,551,573,609,605.0,637,45.1,2014
+322,Clemson University,510,3,163,355,478,210,424,470,493,402.0,737,45.09,2014
+323,Georgia State University,512,3,164,355,434,210,465,504,363,437.0,426,45.07,2014
+324,University of Sherbrooke,517,2,21,355,478,210,446,437,406,415.0,637,45.05,2014
+325,New York Medical College,521,3,165,355,478,210,726,594,493,402.0,481,45.04,2014
+326,SUNY Downstate Medical Center,522,3,166,355,478,150,736,411,609,442.0,737,45.03,2014
+327,Utah State University,524,3,167,156,419,210,553,473,363,531.0,307,45.03,2014
+328,University of Wisconsin–Milwaukee,537,3,168,218,273,210,537,491,406,536.0,737,44.99,2014
+329,University of Dayton,538,3,169,335,140,210,991,796,609,783.0,552,44.99,2014
+330,Montana State University - Bozeman,540,3,170,355,344,210,557,354,363,472.0,637,44.98,2014
+331,University of Newcastle,546,4,12,355,478,210,434,475,609,442.0,637,44.97,2014
+332,Auburn University,548,3,171,355,261,210,463,585,310,585.0,373,44.96,2014
+333,University of Missouri–Kansas City,559,3,172,286,357,210,638,430,800,488.0,552,44.93,2014
+334,James Cook University,572,4,13,355,478,210,510,238,363,488.0,552,44.9,2014
+335,Kent State University,586,3,173,355,478,210,616,431,363,496.0,481,44.85,2014
+336,LSU Health Sciences Center New Orleans,590,3,174,355,478,210,796,549,609,482.0,552,44.84,2014
+337,Southern Illinois University Carbondale,591,3,175,191,478,210,571,518,800,531.0,552,44.83,2014
+338,Northern Illinois University,596,3,176,355,259,210,671,602,363,642.0,481,44.82,2014
+339,University of Montana - Missoula,604,3,177,341,478,210,699,320,493,504.0,552,44.81,2014
+340,Queensland University of Technology,605,4,14,355,478,210,457,733,493,523.0,552,44.81,2014
+341,Binghamton University,606,3,178,355,229,210,731,610,800,675.0,737,44.8,2014
+342,University of Tasmania,608,4,15,355,478,210,461,278,609,531.0,737,44.8,2014
+343,Curtin University,612,4,16,355,478,210,462,389,406,543.0,426,44.79,2014
+344,Deakin University,613,4,17,355,459,210,556,678,609,536.0,637,44.79,2014
+345,University of New Orleans,616,3,179,355,478,210,907,806,493,504.0,737,44.78,2014
+346,University of Alaska Fairbanks,621,3,180,355,478,210,608,339,609,523.0,737,44.77,2014
+347,Albany Medical College,623,3,181,142,478,210,993,753,609,605.0,737,44.76,2014
+348,Griffith University,625,4,18,355,478,210,470,543,493,569.0,373,44.76,2014
+349,Carleton University,627,2,22,355,478,210,496,742,310,554.0,737,44.75,2014
+350,Texas A&M Health Science Center,633,3,182,355,478,210,664,445,493,543.0,426,44.74,2014
+351,La Trobe University,636,4,19,355,439,210,559,446,800,585.0,737,44.73,2014
+352,Missouri University of Science and Technology,637,3,183,355,204,210,696,866,493,819.0,737,44.73,2014
+353,University of Idaho,638,3,184,355,478,210,640,399,406,569.0,373,44.73,2014
+354,Louisiana Tech University,639,3,185,355,213,210,931,864,406,769.0,737,44.73,2014
+355,Florida International University,642,3,186,355,478,210,502,484,363,569.0,637,44.73,2014
+356,Howard University,644,3,187,269,478,210,943,599,406,703.0,204,44.72,2014
+357,State University of New York Upstate Medical University,646,3,188,355,478,210,748,593,406,543.0,552,44.72,2014
+358,University of Windsor,649,2,23,355,239,210,758,910,800,756.0,481,44.72,2014
+359,Memorial University of Newfoundland,657,2,24,355,478,210,563,596,800,554.0,737,44.7,2014
+360,University of Rhode Island,659,3,189,355,353,210,649,373,406,628.0,737,44.7,2014
+361,New Jersey Institute of Technology,661,3,190,235,326,210,745,654,800,703.0,426,44.69,2014
+362,Rochester Institute of Technology,665,3,191,355,366,210,936,613,310,675.0,373,44.69,2014
+363,Portland State University,670,3,192,355,272,210,784,540,800,739.0,481,44.68,2014
+364,University of Québec at Montreal,671,2,25,355,457,210,534,546,406,628.0,737,44.68,2014
+365,Loma Linda University,674,3,193,355,478,210,820,759,609,554.0,737,44.68,2014
+366,Old Dominion University,675,3,194,355,478,210,717,622,406,596.0,426,44.68,2014
+367,"University of Nevada, Las Vegas",677,3,195,355,412,210,619,457,800,628.0,737,44.67,2014
+368,University of Texas at Arlington,681,3,196,355,478,210,494,514,493,605.0,637,44.67,2014
+369,"Rutgers, The State University of New Jersey - Newark",686,3,197,355,478,210,855,498,609,569.0,737,44.66,2014
+370,University of Toledo,691,3,198,355,478,210,625,553,800,618.0,373,44.66,2014
+371,"University of Maine, Orono",702,3,199,329,478,210,756,422,406,642.0,373,44.64,2014
+372,Marquette University,704,3,200,355,216,210,909,791,800,869.0,737,44.64,2014
+373,University of Memphis,716,3,201,355,390,210,782,592,609,724.0,338,44.62,2014
+374,San Francisco State University,717,3,202,258,478,210,876,496,800,628.0,737,44.62,2014
+375,East Carolina University,718,3,203,355,411,210,686,676,800,690.0,481,44.62,2014
+376,University of Missouri–St. Louis,720,3,204,355,361,210,883,522,406,703.0,552,44.62,2014
+377,University of South Australia,723,4,20,355,280,210,663,795,800,819.0,426,44.62,2014
+378,University of North Carolina at Charlotte,727,3,205,355,264,210,749,671,493,832.0,637,44.61,2014
+379,University of Alabama in Huntsville,733,3,206,355,478,210,886,443,800,618.0,737,44.6,2014
+380,Hunter College,736,3,207,247,383,210,825,606,800,739.0,737,44.6,2014
+381,Swinburne University of Technology,737,4,21,355,478,210,658,447,493,642.0,737,44.6,2014
+382,North Dakota State University - Main Campus,746,3,208,155,478,210,692,772,800,769.0,737,44.59,2014
+383,"University of North Texas, Denton",747,3,209,355,478,210,683,658,609,675.0,426,44.59,2014
+384,University of Mississippi Medical Center,748,3,210,355,478,210,791,571,493,642.0,737,44.58,2014
+385,The Catholic University of America,753,3,211,355,314,210,949,560,406,756.0,552,44.58,2014
+386,Clarkson University,766,3,212,355,305,210,943,966,800,769.0,552,44.57,2014
+387,University of South Alabama,767,3,213,355,478,210,966,739,800,724.0,307,44.56,2014
+388,Northern Arizona University,783,3,214,355,478,210,934,416,609,690.0,552,44.55,2014
+389,École Polytechnique de Montréal,784,2,26,355,478,210,679,907,800,724.0,373,44.55,2014
+390,Bowling Green State University,793,3,215,355,365,210,907,653,609,756.0,737,44.54,2014
+391,Michigan Technological University,796,3,216,323,478,210,779,768,406,724.0,481,44.53,2014
+392,Wilfrid Laurier University,801,2,27,355,240,210,987,920,800,948.0,737,44.53,2014
+393,University of Massachusetts Lowell,813,3,217,355,478,210,926,928,406,874.0,227,44.51,2014
+394,Wright State University - Dayton,823,3,218,355,478,210,794,845,800,739.0,737,44.49,2014
+395,University of Regina,827,2,28,355,478,210,889,740,609,800.0,338,44.48,2014
+396,University of New Brunswick,831,2,29,355,329,210,719,784,800,874.0,552,44.47,2014
+397,"Queens College, City University of New York",835,3,219,303,368,210,992,669,800,869.0,637,44.46,2014
+398,Murdoch University,836,4,22,355,478,210,812,492,800,756.0,737,44.46,2014
+399,University of Texas at El Paso,844,3,220,355,391,210,897,817,609,849.0,737,44.45,2014
+400,University of Massachusetts Boston,847,3,221,355,478,210,864,704,406,783.0,737,44.45,2014
+401,Florida Institute of Technology,853,3,222,355,478,210,959,699,363,800.0,737,44.44,2014
+402,Trent University,854,2,30,355,478,210,912,829,493,783.0,637,44.44,2014
+403,RMIT University,859,4,23,355,478,210,690,959,800,800.0,637,44.44,2014
+404,Oakland University,864,3,223,355,478,210,883,842,800,783.0,737,44.44,2014
+405,"University of Technology, Sydney",866,4,24,355,478,210,613,696,493,849.0,426,44.43,2014
+406,University of North Carolina at Greensboro,867,3,224,355,478,210,936,849,609,800.0,552,44.43,2014
+407,University of North Dakota,874,3,225,355,478,210,935,647,800,832.0,426,44.43,2014
+408,Florida Atlantic University,882,3,226,355,478,210,848,701,800,819.0,737,44.42,2014
+409,Brock University,884,2,31,355,478,210,899,746,609,832.0,552,44.41,2014
+410,University of Western Sydney,906,4,25,355,478,210,693,591,609,869.0,737,44.39,2014
+411,Charles Darwin University,910,4,26,355,478,210,911,694,609,849.0,737,44.38,2014
+412,University of Southern Mississippi,913,3,227,355,478,210,903,840,800,849.0,737,44.38,2014
+413,"University of California, Merced",923,3,228,355,478,210,957,576,800,923.0,338,44.37,2014
+414,University of New England (Australia),939,4,27,355,478,210,916,552,493,909.0,637,44.34,2014
+415,Western Michigan University,969,3,229,355,478,210,962,815,800,937.0,737,44.3,2014
+416,Ryerson University,972,2,32,355,478,210,813,966,609,956.0,637,44.3,2014
+417,Harvard University,1,3,1,1,1,1,1,1,1,1.0,3,100.0,2015
+418,Stanford University,2,3,2,9,2,4,5,3,3,4.0,10,98.66,2015
+419,Massachusetts Institute of Technology,3,3,3,3,11,2,15,2,2,2.0,1,97.54,2015
+420,Columbia University,6,3,4,13,6,9,13,13,11,12.0,4,96.14,2015
+421,"University of California, Berkeley",7,3,5,5,21,6,10,4,4,7.0,29,92.25,2015
+422,University of Chicago,8,3,6,11,14,8,17,16,12,22.0,141,90.7,2015
+423,Princeton University,9,3,7,4,15,3,72,25,24,33.0,225,89.42,2015
+424,Cornell University,10,3,8,12,18,14,24,15,25,22.0,11,86.79,2015
+425,Yale University,11,3,9,10,26,11,18,8,35,20.0,49,86.61,2015
+426,California Institute of Technology,12,3,10,6,328,7,53,9,19,25.0,13,84.4,2015
+427,University of Pennsylvania,14,3,11,20,4,28,8,18,14,9.0,14,77.6,2015
+428,"University of California, Los Angeles",15,3,12,28,27,13,6,14,8,6.0,9,76.91,2015
+429,Johns Hopkins University,16,3,13,18,84,16,4,11,5,3.0,2,71.6,2015
+430,New York University,18,3,14,32,22,18,47,29,46,32.0,43,68.39,2015
+431,"University of Michigan, Ann Arbor",19,3,15,24,17,140,3,20,6,14.0,12,68.36,2015
+432,"University of California, San Diego",21,3,16,36,567,19,16,5,15,15.0,17,66.59,2015
+433,Northwestern University,22,3,17,163,12,104,27,34,27,26.0,42,66.56,2015
+434,University of Wisconsin–Madison,25,3,18,29,29,34,21,24,22,27.0,27,64.51,2015
+435,"University of California, San Francisco",26,3,19,367,567,20,22,7,15,11.0,56,63.69,2015
+436,Duke University,28,3,20,74,31,56,19,23,15,16.0,33,61.55,2015
+437,Rockefeller University,29,3,21,49,567,12,372,28,115,70.0,289,61.28,2015
+438,University of Texas at Austin,30,3,22,75,36,25,48,50,26,71.0,38,61.14,2015
+439,University of Washington - Seattle,31,3,23,48,103,41,9,10,10,5.0,40,60.61,2015
+440,University of Toronto,32,2,1,70,51,32,2,17,9,8.0,145,60.04,2015
+441,University of Illinois at Urbana–Champaign,33,3,24,33,75,21,40,48,42,74.0,65,59.94,2015
+442,University of North Carolina at Chapel Hill,40,3,25,124,69,86,32,32,19,21.0,41,57.09,2015
+443,University of Virginia,41,3,26,209,20,126,94,74,88,90.0,97,56.73,2015
+444,McGill University,42,2,2,34,37,75,33,53,44,34.0,132,56.49,2015
+445,"Purdue University, West Lafayette",43,3,27,55,33,47,75,95,68,117.0,28,56.39,2015
+446,Dartmouth College,44,3,28,40,19,218,246,167,136,154.0,63,56.35,2015
+447,University of Pittsburgh - Pittsburgh Campus,46,3,29,79,169,218,25,57,21,24.0,50,55.63,2015
+448,"Pennsylvania State University, University Park",47,3,30,230,44,62,49,43,28,38.0,92,55.54,2015
+449,"University of Minnesota, Twin Cities",48,3,31,63,130,63,23,40,31,28.0,59,55.51,2015
+450,"Ohio State University, Columbus",49,3,32,96,87,82,28,52,31,38.0,44,55.39,2015
+451,Rutgers University-New Brunswick,50,3,33,91,40,37,100,66,46,89.0,61,55.23,2015
+452,University of Southern California,51,3,34,152,62,39,57,64,101,56.0,34,55.12,2015
+453,Washington University in St. Louis,52,3,35,101,96,71,41,21,29,17.0,169,55.03,2015
+454,"University of California, Davis",53,3,36,54,227,59,29,33,35,52.0,62,54.85,2015
+455,University of Colorado Boulder,54,3,37,80,67,31,96,38,45,74.0,133,54.62,2015
+456,University of Florida,60,3,38,214,276,96,37,73,46,59.0,5,54.18,2015
+457,Carnegie Mellon University,61,3,39,25,160,23,211,225,78,150.0,165,54.0,2015
+458,University of British Columbia,62,2,3,81,275,93,26,36,37,34.0,81,53.92,2015
+459,"University of California, Santa Barbara",64,3,40,133,280,29,111,59,46,55.0,77,53.63,2015
+460,National University of Singapore,65,1,1,367,98,218,34,125,78,90.0,25,53.44,2015
+461,Boston University,66,3,41,303,54,83,60,45,37,34.0,135,53.43,2015
+462,University of Arizona,68,3,42,139,55,87,74,39,31,49.0,235,53.26,2015
+463,Vanderbilt University,69,3,43,87,94,110,55,62,59,41.0,51,53.05,2015
+464,University of Utah,70,3,44,97,105,67,97,65,101,90.0,19,52.89,2015
+465,"University of Maryland, College Park",72,3,45,68,210,43,58,47,39,67.0,280,52.72,2015
+466,University of Texas Southwestern Medical Center,75,3,46,59,567,35,131,30,78,40.0,173,52.5,2015
+467,University of Notre Dame,77,3,47,221,24,155,242,242,182,235.0,352,52.27,2015
+468,Georgia Institute of Technology,80,3,48,135,60,218,107,152,78,106.0,36,52.08,2015
+469,University of Rochester,81,3,49,72,53,113,114,118,68,79.0,64,52.03,2015
+470,Brown University,83,3,50,64,43,73,121,67,76,99.0,200,52.01,2015
+471,Emory University,84,3,51,367,146,116,67,60,93,41.0,55,51.85,2015
+472,University of Sydney,88,4,1,105,198,166,45,103,46,84.0,75,51.61,2015
+473,"University of California, Irvine",89,3,52,227,567,44,78,51,68,54.0,162,51.51,2015
+474,University of Texas MD Anderson Cancer Center,90,3,53,367,567,80,93,72,42,29.0,71,51.51,2015
+475,University of Melbourne,93,4,2,141,113,218,42,68,53,71.0,223,51.34,2015
+476,Tufts University,95,3,54,60,48,182,166,160,93,85.0,84,51.22,2015
+477,Arizona State University,97,3,55,367,455,66,143,85,76,140.0,21,51.13,2015
+478,"Texas A&M University, College Station",102,3,56,339,108,46,77,98,88,143.0,201,50.43,2015
+479,University of Queensland,103,4,3,269,292,142,65,78,101,99.0,68,50.4,2015
+480,Case Western Reserve University,105,3,57,50,215,195,137,106,59,74.0,111,50.28,2015
+481,Indiana University - Bloomington,106,3,58,134,35,178,180,143,161,190.0,178,50.26,2015
+482,University of Alberta,107,2,4,169,151,153,62,109,82,103.0,116,50.25,2015
+483,Georgetown University,113,3,59,159,34,218,298,321,321,204.0,122,49.92,2015
+484,Michigan State University,118,3,60,112,162,218,88,123,65,111.0,136,49.74,2015
+485,Rice University,120,3,61,52,161,95,255,150,59,130.0,76,49.73,2015
+486,Baylor College of Medicine,121,3,62,367,567,218,113,41,101,44.0,199,49.7,2015
+487,University of Colorado Denver,127,3,63,367,567,140,135,110,128,66.0,72,49.48,2015
+488,University of New South Wales,130,4,4,177,70,218,90,177,101,164.0,157,49.33,2015
+489,Western University (The University of Western Ontario),133,2,5,367,41,218,149,208,234,190.0,261,49.31,2015
+490,Nanyang Technological University,135,1,2,367,567,218,102,361,212,204.0,32,49.29,2015
+491,University of Miami,137,3,64,367,241,218,159,130,82,112.0,73,49.09,2015
+492,Stony Brook University,138,3,65,186,567,58,173,84,93,134.0,96,49.09,2015
+493,University of Texas at Dallas,139,3,66,367,159,218,250,151,59,49.0,313,49.05,2015
+494,University of Iowa,141,3,67,233,296,167,103,83,115,112.0,121,49.01,2015
+495,Southern Methodist University,142,3,68,179,28,218,624,655,368,646.0,824,48.99,2015
+496,Icahn School of Medicine at Mount Sinai,143,3,69,367,567,218,160,71,161,63.0,101,48.96,2015
+497,Monash University,145,4,5,277,145,218,86,136,182,161.0,99,48.91,2015
+498,University of Alabama at Birmingham,146,3,70,367,567,218,141,124,128,71.0,130,48.79,2015
+499,McMaster University,150,2,6,222,268,163,127,156,101,87.0,222,48.74,2015
+500,University of Montreal,151,2,7,320,376,218,101,111,101,90.0,540,48.72,2015
+501,"University of California, Santa Cruz",154,3,71,175,567,100,243,49,115,99.0,183,48.59,2015
+502,University of Cincinnati,157,3,72,188,86,218,150,171,128,127.0,263,48.56,2015
+503,Wake Forest University,159,3,73,265,83,218,249,244,128,125.0,124,48.52,2015
+504,Indiana University-Purdue University Indianapolis,164,3,74,367,492,218,187,190,125,122.0,79,48.28,2015
+505,Oregon Health & Science University,166,3,75,367,567,128,184,115,125,105.0,144,48.23,2015
+506,University of Calgary,167,2,8,367,123,218,145,180,101,127.0,778,48.23,2015
+507,Yeshiva University,171,3,76,200,567,218,195,91,161,109.0,128,48.11,2015
+508,"University of Maryland, Baltimore",175,3,77,367,567,218,125,112,197,116.0,180,48.05,2015
+509,Australian National University,179,4,6,196,379,52,130,99,197,188.0,415,47.97,2015
+510,University of New Mexico,181,3,78,367,567,218,223,170,82,147.0,100,47.95,2015
+511,University of Massachusetts Medical School,183,3,79,367,567,80,296,76,234,122.0,143,47.85,2015
+512,University of Houston,184,3,80,367,42,218,310,257,511,349.0,156,47.83,2015
+513,Iowa State University,187,3,81,286,186,109,151,178,82,184.0,339,47.71,2015
+514,Wayne State University,189,3,82,367,183,218,189,258,125,176.0,117,47.67,2015
+515,University of South Florida - Tampa,190,3,83,367,418,218,233,251,197,164.0,70,47.66,2015
+516,University of Ottawa,193,2,9,223,163,218,171,194,212,134.0,496,47.6,2015
+517,University of Missouri–Columbia,194,3,84,250,88,98,222,226,161,242.0,150,47.59,2015
+518,University of Kansas,196,3,85,228,91,218,212,161,161,235.0,127,47.52,2015
+519,University of Georgia,198,3,86,93,188,172,181,132,234,256.0,82,47.5,2015
+520,George Washington University,202,3,87,192,56,218,301,227,264,235.0,326,47.46,2015
+521,University of Illinois at Chicago,203,3,88,367,541,218,126,196,287,179.0,129,47.39,2015
+522,"University of California, Riverside",214,3,89,247,567,218,209,113,161,169.0,194,47.13,2015
+523,University of Western Australia,216,4,7,156,306,145,146,181,368,179.0,399,47.1,2015
+524,University of Connecticut,218,3,90,296,259,218,168,193,197,190.0,186,47.06,2015
+525,University of Massachusetts Amherst,219,3,91,212,141,159,198,191,212,200.0,356,47.05,2015
+526,University of Manitoba,222,2,10,157,93,155,261,308,212,256.0,175,47.04,2015
+527,"University of Tennessee, Knoxville",227,3,92,319,117,218,196,187,197,219.0,449,46.96,2015
+528,Laval University,229,2,11,292,273,218,207,270,182,200.0,140,46.95,2015
+529,North Carolina State University,232,3,93,251,228,218,157,206,182,242.0,161,46.89,2015
+530,University of Texas Health Science Center at San Antonio,234,3,94,367,567,218,314,229,197,140.0,315,46.88,2015
+531,University of Texas Health Science Center at Houston,249,3,95,367,567,155,257,162,212,190.0,337,46.56,2015
+532,Florida State University,252,3,96,367,334,218,200,184,136,225.0,411,46.53,2015
+533,Thomas Jefferson University,254,3,97,158,567,218,333,334,161,179.0,502,46.47,2015
+534,Virginia Polytechnic Institute and State University,256,3,98,283,152,218,201,264,234,285.0,181,46.46,2015
+535,Drexel University,258,3,99,367,233,218,362,338,287,273.0,91,46.43,2015
+536,Virginia Commonwealth University,259,3,100,367,403,150,264,253,321,213.0,206,46.43,2015
+537,Oregon State University,260,3,101,189,239,218,263,148,161,235.0,389,46.42,2015
+538,Lehigh University,264,3,102,367,47,218,615,542,511,511.0,534,46.4,2015
+539,University of Kentucky,267,3,103,332,290,218,182,216,321,231.0,447,46.37,2015
+540,University of Waterloo,269,2,12,367,124,218,190,333,234,292.0,626,46.34,2015
+541,Colorado State University - Fort Collins,271,3,104,211,493,148,244,203,234,231.0,257,46.32,2015
+542,Tulane University,272,3,105,324,144,218,365,299,264,251.0,258,46.31,2015
+543,"University at Buffalo, The State University of New York",273,3,106,367,398,218,203,298,287,235.0,237,46.3,2015
+544,Brandeis University,274,3,107,51,342,78,549,195,428,330.0,249,46.29,2015
+545,Northeastern University,275,3,108,316,125,218,370,312,264,362.0,86,46.29,2015
+546,University of Delaware,281,3,109,318,337,135,272,304,234,292.0,120,46.21,2015
+547,Rensselaer Polytechnic Institute,282,3,110,137,142,218,402,346,182,292.0,210,46.19,2015
+548,Queen's University,284,2,13,322,155,218,254,274,264,281.0,275,46.18,2015
+549,Dalhousie University,286,2,14,367,137,218,280,247,264,273.0,384,46.17,2015
+550,City College of New York,289,3,111,31,187,218,680,422,511,590.0,358,46.12,2015
+551,University of Texas at San Antonio,291,3,112,367,567,218,445,376,197,216.0,254,46.1,2015
+552,Medical College of Wisconsin,297,3,113,367,567,218,337,284,321,219.0,659,45.97,2015
+553,University of Louisville,298,3,114,367,484,218,338,405,368,300.0,105,45.97,2015
+554,University of South Carolina - Columbia,300,3,115,367,299,185,262,367,146,273.0,649,45.95,2015
+555,Medical University of South Carolina,303,3,116,367,567,218,316,364,287,231.0,508,45.94,2015
+556,University of Nebraska–Lincoln,314,3,117,165,207,218,278,262,234,311.0,456,45.8,2015
+557,Rush University,323,3,118,367,567,218,427,404,197,260.0,871,45.71,2015
+558,University of Vermont,324,3,119,198,256,218,357,288,368,285.0,397,45.7,2015
+559,Boston College,326,3,120,367,97,218,557,363,197,402.0,386,45.65,2015
+560,Louisiana State University - Baton Rouge,332,3,121,270,177,218,292,215,197,353.0,458,45.61,2015
+561,University of Adelaide,335,4,8,219,445,218,234,243,287,318.0,465,45.58,2015
+562,York University,337,2,15,367,106,218,382,408,264,388.0,871,45.56,2015
+563,University of Oregon,339,3,122,346,567,218,378,217,161,295.0,729,45.55,2015
+564,University of Oklahoma - Norman Campus,350,3,123,367,150,218,383,240,234,362.0,474,45.49,2015
+565,Wesleyan University,351,3,124,154,61,218,983,506,812,850.0,871,45.48,2015
+566,University of Victoria,352,2,16,367,567,218,321,328,234,300.0,853,45.48,2015
+567,Kansas State University,353,3,125,130,229,218,373,320,212,358.0,294,45.47,2015
+568,University of New Hampshire,359,3,126,367,318,79,531,273,234,362.0,596,45.42,2015
+569,College of William and Mary,360,3,127,367,85,218,611,459,321,511.0,809,45.42,2015
+570,San Diego State University,361,3,128,248,204,218,467,302,264,339.0,509,45.41,2015
+571,Simon Fraser University,362,2,17,367,567,218,284,303,368,324.0,381,45.4,2015
+572,Saint Louis University,364,3,129,367,261,202,458,293,428,330.0,286,45.39,2015
+573,Colorado School of Mines,365,3,130,367,81,218,668,601,321,565.0,690,45.39,2015
+574,University of Guelph,368,2,18,367,483,218,325,277,146,344.0,445,45.36,2015
+575,University of Texas Medical Branch at Galveston,378,3,131,367,567,218,401,311,321,324.0,333,45.3,2015
+576,"Washington State University, Pullman",380,3,132,367,301,131,334,234,428,362.0,298,45.29,2015
+577,Temple University,381,3,133,272,553,218,326,349,511,349.0,211,45.29,2015
+578,"University at Albany, SUNY",388,3,134,180,567,165,411,374,212,353.0,531,45.22,2015
+579,University of Central Florida,394,3,135,367,501,218,381,386,511,381.0,159,45.18,2015
+580,University of Nebraska Medical Center,399,3,136,367,567,218,463,399,368,344.0,253,45.16,2015
+581,Brigham Young University,403,3,137,298,361,218,498,424,287,424.0,134,45.15,2015
+582,University of Alabama - Tuscaloosa,409,3,138,325,140,218,511,490,368,471.0,314,45.14,2015
+583,Oklahoma State University–Stillwater,412,3,139,239,153,218,447,648,428,471.0,303,45.13,2015
+584,George Mason University,414,3,140,367,567,98,450,371,264,388.0,526,45.13,2015
+585,Concordia University,417,2,19,367,99,218,545,745,645,590.0,718,45.12,2015
+586,Georgia Regents University,424,3,141,367,567,218,482,418,368,341.0,481,45.09,2015
+587,University of Denver,428,3,142,312,101,218,901,522,511,590.0,760,45.08,2015
+588,University of Arkansas for Medical Sciences,429,3,143,367,567,218,501,565,812,344.0,340,45.08,2015
+589,Loyola University Chicago,437,3,144,367,366,218,522,438,511,353.0,713,45.03,2015
+590,West Virginia University,441,3,145,328,178,218,441,409,428,437.0,617,45.02,2015
+591,Miami University,444,3,146,367,102,218,715,543,511,659.0,871,45.0,2015
+592,University of Dayton,445,3,147,348,90,218,988,818,511,781.0,675,44.99,2015
+593,Macquarie University,449,4,9,367,304,218,391,292,321,402.0,530,44.96,2015
+594,"University of Nevada, Reno",454,3,148,367,364,218,542,382,264,381.0,708,44.93,2015
+595,University of Saskatchewan,455,2,20,336,278,218,335,442,287,457.0,427,44.92,2015
+596,Ohio University,460,3,149,205,174,218,590,472,812,565.0,224,44.91,2015
+597,Syracuse University,463,3,150,138,221,218,453,494,428,495.0,392,44.91,2015
+598,University of Wyoming,466,3,151,367,230,218,534,316,321,457.0,380,44.89,2015
+599,University of Wollongong,467,4,10,367,269,218,431,433,428,424.0,493,44.88,2015
+600,Texas Tech University (TTU),469,3,152,367,184,218,455,618,287,511.0,809,44.87,2015
+601,University of Oklahoma Health Sciences Center,476,3,153,367,567,218,580,461,511,375.0,482,44.86,2015
+602,Illinois Institute of Technology,480,3,154,274,114,218,784,713,511,715.0,861,44.85,2015
+603,Clemson University,483,3,155,367,535,218,433,497,645,396.0,510,44.83,2015
+604,University of Hawaii at Manoa,488,3,156,367,435,153,448,213,368,457.0,490,44.82,2015
+605,University of Nebraska Omaha,489,3,157,367,365,218,704,606,428,396.0,871,44.81,2015
+606,"University of Maryland, Baltimore County",493,3,158,367,567,218,587,391,428,402.0,423,44.8,2015
+607,University of Newcastle,494,4,11,367,567,218,408,496,812,424.0,322,44.79,2015
+608,University of Sherbrooke,502,2,21,367,567,218,454,421,321,413.0,853,44.77,2015
+609,Creighton University,508,3,159,367,567,218,824,724,368,402.0,615,44.75,2015
+610,Georgia State University,509,3,160,367,405,218,449,484,511,457.0,360,44.74,2015
+611,University of Wisconsin–Milwaukee,510,3,161,229,248,218,516,491,511,503.0,871,44.74,2015
+612,SUNY Downstate Medical Center,516,3,162,367,567,155,756,446,511,437.0,660,44.72,2015
+613,New Mexico State University,519,3,163,367,432,218,711,585,321,424.0,871,44.71,2015
+614,University of Mississippi - Oxford Campus,522,3,164,367,567,218,508,851,428,424.0,611,44.7,2015
+615,University of Tasmania,523,4,12,367,567,218,429,261,645,447.0,727,44.7,2015
+616,University of Windsor,538,2,22,367,133,218,764,912,812,754.0,658,44.68,2015
+617,James Cook University,541,4,13,367,567,218,505,248,428,457.0,665,44.67,2015
+618,University of Akron,543,3,165,367,400,218,656,653,645,606.0,166,44.65,2015
+619,New York Medical College,546,3,166,367,567,218,752,622,812,437.0,719,44.64,2015
+620,Auburn University,549,3,167,367,232,218,472,569,368,606.0,425,44.63,2015
+621,University of Arkansas - Fayetteville,550,3,168,204,345,218,517,571,645,520.0,409,44.62,2015
+622,University of Missouri–Kansas City,554,3,169,311,480,218,634,447,645,471.0,687,44.61,2015
+623,Montana State University - Bozeman,556,3,170,367,477,218,575,323,287,495.0,744,44.61,2015
+624,Utah State University,566,3,171,166,352,218,564,414,368,565.0,371,44.59,2015
+625,Baylor University,567,3,172,367,293,218,682,681,321,540.0,630,44.59,2015
+626,Kent State University,571,3,173,367,567,218,610,436,511,486.0,498,44.58,2015
+627,Deakin University,579,4,14,367,424,218,502,647,321,529.0,636,44.56,2015
+628,University of Montana - Missoula,585,3,174,353,567,218,713,315,428,503.0,702,44.54,2015
+629,Southern Illinois University Carbondale,590,3,175,208,533,218,591,512,812,520.0,588,44.53,2015
+630,University of Alaska Fairbanks,591,3,176,367,420,218,642,373,511,520.0,792,44.53,2015
+631,University of Toledo,592,3,177,367,567,218,618,555,812,606.0,220,44.53,2015
+632,Carleton University,593,2,23,367,538,218,479,739,264,549.0,871,44.53,2015
+633,Curtin University,595,4,15,367,559,218,425,384,511,549.0,518,44.52,2015
+634,LSU Health Sciences Center New Orleans,600,3,178,367,567,218,823,544,645,503.0,661,44.52,2015
+635,Florida International University,605,3,179,367,567,218,496,508,428,540.0,585,44.5,2015
+636,University of Rhode Island,606,3,180,367,265,218,664,385,511,637.0,472,44.5,2015
+637,Mississippi State University,607,3,181,155,220,218,605,608,645,754.0,566,44.5,2015
+638,University of New Orleans,609,3,182,367,567,218,944,840,428,511.0,871,44.5,2015
+639,Memorial University of Newfoundland,611,2,24,367,567,218,552,577,645,529.0,653,44.49,2015
+640,Griffith University,613,4,16,367,567,218,436,500,368,565.0,556,44.49,2015
+641,Texas A&M Health Science Center,616,3,183,367,567,218,672,440,645,558.0,336,44.49,2015
+642,Flinders University,620,4,17,122,567,218,518,581,812,622.0,686,44.48,2015
+643,Queensland University of Technology,621,4,18,367,567,218,477,750,511,558.0,492,44.48,2015
+644,Louisiana Tech University,625,3,184,367,197,218,969,871,428,754.0,792,44.47,2015
+645,University of Texas at Arlington,626,3,185,367,567,218,492,532,511,565.0,462,44.47,2015
+646,State University of New York Upstate Medical University,635,3,186,367,567,218,774,632,428,549.0,598,44.45,2015
+647,Northern Illinois University,643,3,187,367,284,218,669,661,321,671.0,621,44.44,2015
+648,La Trobe University,645,4,19,367,457,218,536,455,812,579.0,803,44.44,2015
+649,Binghamton University,647,3,188,367,263,218,710,593,812,671.0,853,44.43,2015
+650,Albany Medical College,650,3,189,171,567,218,893,771,645,579.0,720,44.43,2015
+651,University of Idaho,655,3,190,367,567,218,664,417,511,579.0,469,44.42,2015
+652,Old Dominion University,656,3,191,367,567,218,719,590,511,590.0,379,44.42,2015
+653,Portland State University,661,3,192,367,245,218,800,548,812,741.0,484,44.41,2015
+654,University of Québec at Montreal,663,2,25,367,422,218,537,534,428,622.0,871,44.41,2015
+655,Loma Linda University,665,3,193,367,567,218,848,755,645,565.0,555,44.41,2015
+656,"University of Maine, Orono",668,3,194,345,567,218,788,427,368,637.0,346,44.4,2015
+657,"University of Nevada, Las Vegas",687,3,195,367,448,218,640,473,812,622.0,861,44.38,2015
+658,Swinburne University of Technology,688,4,20,367,567,218,654,456,511,606.0,772,44.38,2015
+659,Rochester Institute of Technology,710,3,196,367,431,218,905,643,287,671.0,587,44.35,2015
+660,San Francisco State University,712,3,197,271,567,218,864,572,511,622.0,871,44.35,2015
+661,Marquette University,717,3,198,367,201,218,912,785,812,896.0,682,44.34,2015
+662,Missouri University of Science and Technology,718,3,199,367,246,218,718,923,645,826.0,592,44.34,2015
+663,Howard University,719,3,200,294,567,218,934,665,511,699.0,296,44.33,2015
+664,"Rutgers, The State University of New Jersey - Newark",723,3,201,367,567,218,832,515,645,637.0,871,44.33,2015
+665,University of Memphis,746,3,202,367,382,218,782,640,511,741.0,394,44.3,2015
+666,University of Missouri–St. Louis,748,3,203,367,371,218,897,524,428,715.0,634,44.3,2015
+667,University of South Australia,751,4,21,367,324,218,604,746,812,781.0,431,44.3,2015
+668,University of Alabama in Huntsville,752,3,204,367,567,218,921,432,645,659.0,805,44.3,2015
+669,University of Mississippi Medical Center,754,3,205,367,567,218,775,504,511,671.0,871,44.29,2015
+670,New Jersey Institute of Technology,761,3,206,259,472,218,791,670,812,741.0,391,44.28,2015
+671,East Carolina University,762,3,207,367,394,218,699,685,812,732.0,639,44.28,2015
+672,Northern Arizona University,766,3,208,367,537,218,939,489,645,686.0,609,44.28,2015
+673,"University of North Texas, Denton",778,3,209,367,567,218,675,636,645,715.0,554,44.27,2015
+674,École Polytechnique de Montréal,781,2,26,367,507,218,716,921,511,741.0,412,44.27,2015
+675,Michigan Technological University,790,3,210,341,467,218,794,769,428,741.0,581,44.25,2015
+676,North Dakota State University - Main Campus,792,3,211,172,567,218,702,790,812,770.0,871,44.25,2015
+677,University of North Carolina at Charlotte,794,3,212,367,310,218,741,662,511,826.0,593,44.25,2015
+678,Bowling Green State University,809,3,213,367,373,218,910,705,645,781.0,824,44.23,2015
+679,University of New England (Australia),811,4,22,367,251,218,938,634,511,932.0,797,44.22,2015
+680,"University of Technology, Sydney",815,4,23,367,543,218,580,668,511,796.0,520,44.22,2015
+681,Florida Institute of Technology,823,3,214,367,567,218,973,793,368,770.0,871,44.21,2015
+682,University of Massachusetts Boston,825,3,215,367,429,218,846,698,428,796.0,824,44.21,2015
+683,Murdoch University,829,4,24,367,527,218,827,501,645,770.0,770,44.2,2015
+684,The Catholic University of America,832,3,216,367,407,218,947,596,511,809.0,674,44.2,2015
+685,Wright State University - Dayton,833,3,217,367,567,218,810,805,812,770.0,824,44.2,2015
+686,Clarkson University,835,3,218,367,390,218,981,974,812,809.0,685,44.19,2015
+687,University of Regina,836,2,27,367,567,218,851,737,645,781.0,573,44.19,2015
+688,University of South Alabama,844,3,219,367,567,218,979,784,812,796.0,464,44.19,2015
+689,Hunter College,850,3,220,261,438,218,822,610,812,826.0,805,44.18,2015
+690,Florida Atlantic University,856,3,221,367,567,218,855,741,812,796.0,714,44.17,2015
+691,Brock University,861,2,28,367,567,218,877,727,511,809.0,638,44.17,2015
+692,University of New Brunswick,870,2,29,367,354,218,777,802,812,886.0,591,44.16,2015
+693,RMIT University,873,4,25,367,561,218,690,929,812,837.0,585,44.16,2015
+694,University of Western Sydney,882,4,26,367,567,218,651,551,645,850.0,647,44.15,2015
+695,University of Massachusetts Lowell,884,3,222,367,528,218,936,943,321,946.0,304,44.15,2015
+696,"Queens College, City University of New York",893,3,223,323,374,218,977,690,812,886.0,729,44.14,2015
+697,University of North Carolina at Greensboro,897,3,224,367,567,218,899,825,645,850.0,575,44.13,2015
+698,University of Southern Mississippi,901,3,225,367,567,218,913,853,812,850.0,676,44.13,2015
+699,Oakland University,906,3,226,367,567,218,888,810,812,850.0,871,44.13,2015
+700,Wilfrid Laurier University,907,2,30,367,298,218,952,921,812,969.0,871,44.13,2015
+701,Trent University,910,2,31,367,509,218,923,777,511,867.0,782,44.12,2015
+702,University of North Dakota,913,3,227,367,567,218,917,731,812,867.0,606,44.12,2015
+703,University of Lethbridge,917,2,32,367,567,218,957,718,511,867.0,853,44.12,2015
+704,University of Texas at El Paso,929,3,228,367,442,218,910,838,812,906.0,706,44.1,2015
+705,"University of California, Merced",936,3,229,367,567,218,899,540,812,906.0,491,44.09,2015
+706,Charles Darwin University,942,4,27,367,567,218,931,742,645,896.0,871,44.09,2015
+707,Ryerson University,994,2,33,367,567,218,811,969,511,975.0,756,44.03,2015
